@@ -1,0 +1,1224 @@
+{{Short description|Badminton championships}}
+{{Infobox sports competition event
+| event          = Women's singles
+| championship   = 2025 BWF World Championships
+| dates          = 26–31 August
+| competitors    = 64
+| nations        = 40
+| venue          = [[Adidas Arena]]
+| location       = [[Paris]], France
+| gold           = [[Akane Yamaguchi]]
+| gold_nation    = JPN
+| silver         = [[Chen Yufei]]
+| silver_nation  = CHN
+| bronze         = [[An Se-young]] 
+| bronze_nation  = KOR
+| bronze2        = [[Putri Kusuma Wardani]] 
+| bronze2_nation = INA
+| prev           = [[2023 BWF World Championships – Women's singles|2023 Copenhagen]]
+| next           = [[2026 BWF World Championships – Women's singles|2026 New Delhi]]
+}}
+{{2025 BWF World Championships}}
+The women's singles tournament of the [[2025 BWF World Championships]] took place from 26 to 31 August 2025 at the [[Adidas Arena]] in [[Paris]].
+
+== Seeds ==
+{{See also|2025 BWF World Championships qualification#Women's  singles}}
+The seeding list was based on the [[BWF World Ranking|World Rankings]] of 1 August 2025.
+
+{{col-begin}}{{col-2}}
+{{seeds|1|1}} {{flagicon|KOR}} [[An Se-young]] ''(semi-finals)''
+{{seeds|2|4}} {{flagicon|CHN}} [[Wang Zhiyi]] ''(third round)''
+{{seeds|3|3}} {{flagicon|CHN}} [[Han Yue]] ''(quarter-finals)''
+{{seeds|4|2}} {{flagicon|CHN}} [[Chen Yufei]] ''(final)''
+{{seeds|5|3}} '''{{flagicon|JPN}} [[Akane Yamaguchi]] (champion)'''
+{{seeds|6|2}} {{flagicon|THA}} [[Pornpawee Chochuwong]] ''(quarter-finals)''
+{{seeds|7|1}} {{flagicon|INA}} [[Gregoria Mariska Tunjung]] ''(third round)''
+{{seeds|8|4}} {{flagicon|JPN}} [[Tomoka Miyazaki]] ''(third round)''
+{{col-2}}
+{{seeds|9|4}} {{flagicon|INA}} [[Putri Kusuma Wardani]] ''(semi-finals)''
+{{seeds|10|2}} {{flagicon|THA}} [[Ratchanok Intanon]] ''(first round)''
+{{seeds|11|3}} {{flagicon|THA}} [[Supanida Katethong]] ''(third round)''
+{{seeds|12|1}} {{flagicon|KOR}} [[Sim Yu-jin]] ''(quarter-finals)''  
+{{seeds|13|2}} {{flagicon|SIN}} [[Yeo Jia Min]] ''(second round)''
+{{seeds|14|3}} {{flagicon|CHN}} [[Gao Fangjie]] ''(third round)''
+{{seeds|15|4}} {{flagicon|IND}} [[P. V. Sindhu]] ''(quarter-finals)'' 
+{{seeds|16|1}} {{flagicon|CAN}} [[Michelle Li]] ''(third round)''
+{{col-end}}
+{{seeds explanation}}
+
+== Draw ==
+The drawing ceremony was held on 10 August.
+
+=== Finals ===
+{{4TeamBracket-Tennis3
+| RD-shade=#A8D3FF
+| RD1=Semi-finals
+| RD2=Final
+
+| team-width=150
+
+| RD1-seed1= 1
+| RD1-team1= {{flagicon|KOR}} [[An Se-young]]
+| RD1-score1-1=15
+| RD1-score1-2=17
+| RD1-score1-3=
+| RD1-seed2=4
+| RD1-team2='''{{flagicon|CHN}} [[Chen Yufei]]'''
+| RD1-score2-1='''21'''
+| RD1-score2-2='''21'''
+| RD1-score2-3=
+
+| RD1-seed3= 5
+| RD1-team3='''{{flagicon|JPN}} [[Akane Yamaguchi]]'''
+| RD1-score3-1= '''21'''
+| RD1-score3-2= 14
+| RD1-score3-3= '''21'''
+| RD1-seed4= 9
+| RD1-team4= {{flagicon|INA}} [[Putri Kusuma Wardani]]
+| RD1-score4-1= 17
+| RD1-score4-2= '''21'''
+| RD1-score4-3= 6
+
+| RD2-seed1=4
+| RD2-team1={{flagicon|CHN}} [[Chen Yufei]]
+| RD2-score1-1= 9
+| RD2-score1-2=13
+| RD2-score1-3=
+| RD2-seed2= 5
+| RD2-team2='''{{flagicon|JPN}} [[Akane Yamaguchi]]'''
+| RD2-score2-1= '''21'''
+| RD2-score2-2='''21'''
+| RD2-score2-3=
+}}
+
+=== Top half ===
+==== Section 1 ====
+{{16TeamBracket-Tennis3
+| RD1=First round
+| RD2=Second round
+| RD3=Third round
+| RD4=Quarter-finals
+
+| team-width=150
+
+| RD1-seed1= 1
+| RD1-team1= '''{{flagicon|KOR}} [[An Se-young|An S-y]]'''
+| RD1-score1-1= '''21'''
+| RD1-score1-2= '''21'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2= {{flagicon|BEL}} [[Clara Lassaux|C Lassaux]]
+| RD1-score2-1= 5
+| RD1-score2-2= 8
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3= {{flagicon|PER}} [[Inés Castillo|I Castillo]]
+| RD1-score3-1='''30'''
+| RD1-score3-2=14
+| RD1-score3-3=9
+| RD1-seed4=
+| RD1-team4= '''{{flagicon|GER}} [[Yvonne Li|Y Li]]'''
+| RD1-score4-1=28
+| RD1-score4-2='''21'''
+| RD1-score4-3='''21'''
+
+| RD1-seed5= 16
+| RD1-team5= '''{{flagicon|CAN}} [[Michelle Li|M Li]]'''
+| RD1-score5-1= '''21'''
+| RD1-score5-2= '''21'''
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6= {{flagicon|JPN}} [[Natsuki Nidaira|N Nidaira]]
+| RD1-score6-1= 15
+| RD1-score6-2= 14
+| RD1-score6-3=
+
+| RD1-seed7= 
+| RD1-team7= '''{{flagicon|TUR}} [[Özge Bayrak|Ö Bayrak]]'''
+| RD1-score7-1= '''21'''
+| RD1-score7-2= '''21'''
+| RD1-score7-3=
+| RD1-seed8= 
+| RD1-team8= {{flagicon|AUS}} [[Tiffany Ho (badminton)|T Ho]]
+| RD1-score8-1= 10
+| RD1-score8-2= 14
+| RD1-score8-3=
+
+| RD1-seed9= 7
+| RD1-team9= '''{{flagicon|INA}} [[Gregoria Mariska Tunjung|G M Tunjung]]'''
+| RD1-score9-1= '''21'''
+| RD1-score9-2= '''21'''
+| RD1-score9-3=
+| RD1-seed10=
+| RD1-team10= {{flagicon|CZE}} [[Petra Maixnerová|P Maixnerová]]
+| RD1-score10-1= 10
+| RD1-score10-2= 9
+| RD1-score10-3=
+
+| RD1-seed11=
+| RD1-team11= {{flagicon|SUI}} [[Milena Schnider|M Schnider]]
+| RD1-score11-1=10
+| RD1-score11-2=16
+| RD1-score11-3=
+| RD1-seed12=
+| RD1-team12= '''{{flagicon|DEN}} [[Julie Dawall Jakobsen|J D Jakobsen]]'''
+| RD1-score12-1='''21'''
+| RD1-score12-2='''21'''
+| RD1-score12-3=
+
+| RD1-seed13= 12
+| RD1-team13= '''{{flagicon|KOR}} [[Sim Yu-jin|Sim Y-j]]'''
+| RD1-score13-1= '''21'''
+| RD1-score13-2= '''21'''
+| RD1-score13-3=
+| RD1-seed14=
+| RD1-team14= {{flagicon|CAN}} [[Wenyu Zhang|WY Zhang]]
+| RD1-score14-1= 19
+| RD1-score14-2= 14
+| RD1-score14-3=
+
+| RD1-seed15=
+| RD1-team15= '''{{flagicon|SRI}} [[Ranithma Liyanage|R Liyanage]]'''
+| RD1-score15-1= 19
+| RD1-score15-2= '''21'''
+| RD1-score15-3= 11
+| RD1-seed16=
+| RD1-team16= {{flagicon|IRL}} [[Rachael Darragh|R Darragh]]
+| RD1-score16-1= '''21'''
+| RD1-score16-2= 11
+| RD1-score16-3= 3<sup>r</sup>
+
+| RD2-seed1= 1
+| RD2-team1= '''{{flagicon|KOR}} [[An Se-young|An S-y]]'''
+| RD2-score1-1='''21'''
+| RD2-score1-2='''21'''
+| RD2-score1-3=
+| RD2-seed2=
+| RD2-team2={{flagicon|GER}} [[Yvonne Li|Y Li]]
+| RD2-score2-1=15
+| RD2-score2-2=7
+| RD2-score2-3=
+
+| RD2-seed3= 16
+| RD2-team3= '''{{flagicon|CAN}} [[Michelle Li|M Li]]'''
+| RD2-score3-1='''21'''
+| RD2-score3-2=17
+| RD2-score3-3='''21'''
+| RD2-seed4=
+| RD2-team4= {{flagicon|TUR}} [[Özge Bayrak|Ö Bayrak]]
+| RD2-score4-1=14
+| RD2-score4-2='''21'''
+| RD2-score4-3=10
+
+| RD2-seed5= 7
+| RD2-team5= '''{{flagicon|INA}} [[Gregoria Mariska Tunjung|G M Tunjung]]'''
+| RD2-score5-1= '''21'''
+| RD2-score5-2= '''21'''
+| RD2-score5-3=
+| RD2-seed6=
+| RD2-team6={{flagicon|DEN}} [[Julie Dawall Jakobsen|J D Jakobsen]]
+| RD2-score6-1= 17
+| RD2-score6-2= 8
+| RD2-score6-3=
+
+| RD2-seed7= 12
+| RD2-team7= '''{{flagicon|KOR}} [[Sim Yu-jin|Sim Y-j]]'''
+| RD2-score7-1= '''21'''
+| RD2-score7-2= '''21'''
+| RD2-score7-3=
+| RD2-seed8=
+| RD2-team8= {{flagicon|SRI}} [[Ranithma Liyanage|R Liyanage]]
+| RD2-score8-1= 14
+| RD2-score8-2= 16
+| RD2-score8-3=
+
+| RD3-seed1=1
+| RD3-team1='''{{flagicon|KOR}} [[An Se-young|An S-y]]'''
+| RD3-score1-1='''21'''
+| RD3-score1-2='''21'''
+| RD3-score1-3=
+| RD3-seed2=16
+| RD3-team2={{flagicon|CAN}} [[Michelle Li|M Li]]
+| RD3-score2-1=18
+| RD3-score2-2=10
+| RD3-score2-3=
+
+| RD3-seed3= 7
+| RD3-team3= {{flagicon|INA}} [[Gregoria Mariska Tunjung|G M Tunjung]]
+| RD3-score3-1=15
+| RD3-score3-2=18
+| RD3-score3-3=
+| RD3-seed4= 12
+| RD3-team4= '''{{flagicon|KOR}} [[Sim Yu-jin|Sim Y-j]]'''
+| RD3-score4-1='''21'''
+| RD3-score4-2='''21'''
+| RD3-score4-3=
+
+| RD4-seed1=1
+| RD4-team1='''{{flagicon|KOR}} [[An Se-young|An S-y]]'''
+| RD4-score1-1='''21'''
+| RD4-score1-2='''21'''
+| RD4-score1-3=
+| RD4-seed2= 12
+| RD4-team2= {{flagicon|KOR}} [[Sim Yu-jin|Sim Y-j]]
+| RD4-score2-1=10
+| RD4-score2-2=6
+| RD4-score2-3=
+}}
+
+==== Section 2 ====
+{{16TeamBracket-Tennis3
+| RD1=First round
+| RD2=Second round
+| RD3=Third round
+| RD4=Quarter-finals
+
+| team-width=150
+
+| RD1-seed1= 4
+| RD1-team1= '''{{flagicon|CHN}} [[Chen Yufei|Chen YF]]'''
+| RD1-score1-1= '''21'''
+| RD1-score1-2= '''21'''
+| RD1-score1-3= 
+| RD1-seed2= 
+| RD1-team2= {{flagicon|FRA}} [[Anna Tatranova|A Tatranova]]
+| RD1-score2-1= 10
+| RD1-score2-2= 12
+| RD1-score2-3= 
+
+| RD1-seed3= 
+| RD1-team3= '''{{flagicon|DEN}} [[Mia Blichfeldt|M Blichfeldt]]'''
+| RD1-score3-1= '''21'''
+| RD1-score3-2= '''21'''
+| RD1-score3-3=
+| RD1-seed4=
+| RD1-team4= {{flagicon|TPE}} [[Sung Shuo-yun|Sung S-y]]
+| RD1-score4-1= 9
+| RD1-score4-2= 19
+| RD1-score4-3=
+
+| RD1-seed5= 10
+| RD1-team5= {{flagicon|THA}} [[Ratchanok Intanon|R Intanon]]
+| RD1-score5-1= 17
+| RD1-score5-2= 18
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6= '''{{flagicon|VIE}} [[Nguyễn Thùy Linh|Nguyễn T L]]'''
+| RD1-score6-1= '''21'''
+| RD1-score6-2= '''21'''
+| RD1-score6-3=
+
+| RD1-seed7=
+| RD1-team7= {{flagicon|UGA}} [[Fadilah Mohamed Rafi|F M Rafi]]
+| RD1-score7-1= 12
+| RD1-score7-2= 5
+| RD1-score7-3=
+| RD1-seed8=
+| RD1-team8= '''{{flagicon|SCO}} [[Kirsty Gilmour|K Gilmour]]'''
+| RD1-score8-1= '''21'''
+| RD1-score8-2= '''21'''
+| RD1-score8-3=
+
+| RD1-seed9= 6
+| RD1-team9= '''{{flagicon|THA}} [[Pornpawee Chochuwong|P Chochuwong]]'''
+| RD1-score9-1= '''21'''
+| RD1-score9-2= '''21'''
+| RD1-score9-3=
+| RD1-seed10=
+| RD1-team10= {{flagicon|SGP}} [[Jaslyn Hooi|J Hooi]]
+| RD1-score10-1= 14
+| RD1-score10-2= 8
+| RD1-score10-3=
+
+| RD1-seed11=
+| RD1-team11= {{flagicon|BUL}} [[Stefani Stoeva|S Stoeva]]
+| RD1-score11-1= 19
+| RD1-score11-2= '''21'''
+| RD1-score11-3= 20
+| RD1-seed12= 
+| RD1-team12= '''{{flagicon|USA}} [[Ishika Jaiswal|I Jaiswal]]'''
+| RD1-score12-1= '''21'''
+| RD1-score12-2= 15
+| RD1-score12-3= '''22'''
+
+| RD1-seed13= 13
+| RD1-team13= '''{{flagicon|SGP}} [[Yeo Jia Min|Yeo J M]]'''
+| RD1-score13-1= '''21'''
+| RD1-score13-2= '''21'''
+| RD1-score13-3=
+| RD1-seed14=
+| RD1-team14= {{flagicon|MYA}} [[Thet Htar Thuzar|Thet Htar T]]
+| RD1-score14-1= 7
+| RD1-score14-2= 10
+| RD1-score14-3=
+
+| RD1-seed15=
+| RD1-team15= '''{{flagicon|THA}} [[Busanan Ongbamrungphan|B Ongbamrungphan]]'''
+| RD1-score15-1= '''21'''
+| RD1-score15-2= '''21'''
+| RD1-score15-3=
+| RD1-seed16= 
+| RD1-team16= {{flagicon|CZE}} [[Tereza Švábíková|T Švábíková]]
+| RD1-score16-1= 12
+| RD1-score16-2= 8
+| RD1-score16-3=
+
+| RD2-seed1= 4
+| RD2-team1= '''{{flagicon|CHN}} [[Chen Yufei|Chen YF]]'''
+| RD2-score1-1='''21'''
+| RD2-score1-2=16
+| RD2-score1-3='''21'''
+| RD2-seed2=
+| RD2-team2= {{flagicon|DEN}} [[Mia Blichfeldt|M Blichfeldt]]
+| RD2-score2-1=13
+| RD2-score2-2='''21'''
+| RD2-score2-3=10
+
+| RD2-seed3=
+| RD2-team3=''' {{flagicon|VIE}} [[Nguyễn Thùy Linh|Nguyễn T L]]'''
+| RD2-score3-1='''21'''
+| RD2-score3-2='''23'''
+| RD2-score3-3=
+| RD2-seed4=
+| RD2-team4= {{flagicon|SCO}} [[Kirsty Gilmour|K Gilmour]]
+| RD2-score4-1=17
+| RD2-score4-2=21
+| RD2-score4-3=
+
+| RD2-seed5= 6
+| RD2-team5= '''{{flagicon|THA}} [[Pornpawee Chochuwong|P Chochuwong]]'''
+| RD2-score5-1= '''21'''
+| RD2-score5-2= '''21'''
+| RD2-score5-3=
+| RD2-seed6=
+| RD2-team6= {{flagicon|USA}} [[Ishika Jaiswal|I Jaiswal]]
+| RD2-score6-1= 13
+| RD2-score6-2= 13
+| RD2-score6-3=
+
+| RD2-seed7= 13
+| RD2-team7= {{flagicon|SGP}} [[Yeo Jia Min|Yeo J M]]
+| RD2-score7-1= 17
+| RD2-score7-2= 20
+| RD2-score7-3= 
+| RD2-seed8=
+| RD2-team8= '''{{flagicon|THA}} [[Busanan Ongbamrungphan|B Ongbamrungphan]]'''
+| RD2-score8-1= '''21'''
+| RD2-score8-2= '''22'''
+| RD2-score8-3=
+
+| RD3-seed1=4
+| RD3-team1='''{{flagicon|CHN}} [[Chen Yufei|Chen YF]]'''
+| RD3-score1-1='''21'''
+| RD3-score1-2='''21'''
+| RD3-score1-3=
+| RD3-seed2=
+| RD3-team2={{flagicon|VIE}} [[Nguyễn Thùy Linh|Nguyễn T L]]
+| RD3-score2-1=10
+| RD3-score2-2=9
+| RD3-score2-3=
+
+| RD3-seed3= 6
+| RD3-team3= '''{{flagicon|THA}} [[Pornpawee Chochuwong|P Chochuwong]]'''
+| RD3-score3-1='''21'''
+| RD3-score3-2='''21'''
+| RD3-score3-3=
+| RD3-seed4=
+| RD3-team4= {{flagicon|THA}} [[Busanan Ongbamrungphan|B Ongbamrungphan]]
+| RD3-score4-1=10
+| RD3-score4-2=11
+| RD3-score4-3=
+
+| RD4-seed1=4
+| RD4-team1='''{{flagicon|CHN}} [[Chen Yufei|Chen YF]]'''
+| RD4-score1-1='''22'''
+| RD4-score1-2='''21'''
+| RD4-score1-3=
+| RD4-seed2=6
+| RD4-team2= {{flagicon|THA}} [[Pornpawee Chochuwong|P Chochuwong]]
+| RD4-score2-1=20
+| RD4-score2-2=14
+| RD4-score2-3=
+}}
+
+=== Bottom half ===
+==== Section 3 ====
+{{16TeamBracket-Tennis3
+| RD1=First round
+| RD2=Second round
+| RD3=Third round
+| RD4=Quarter-finals
+
+| team-width=150
+
+| RD1-seed1=
+| RD1-team1= {{flagicon|EST}} [[Kristin Kuuba|K Kuuba]]
+| RD1-score1-1= 10
+| RD1-score1-2= 19
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2= '''{{flagicon|DEN}} [[Line Kjærsfeldt|L Kjærsfeldt]]'''
+| RD1-score2-1= '''21'''
+| RD1-score2-2= '''21'''
+| RD1-score2-3=
+
+| RD1-seed3= 
+| RD1-team3= {{flagicon|GER}} [[Miranda Wilson (badminton)|M Wilson]]
+| RD1-score3-1= 13 
+| RD1-score3-2= 8
+| RD1-score3-3=
+| RD1-seed4= 11
+| RD1-team4= '''{{flagicon|THA}} [[Supanida Katethong|S Katethong]]'''
+| RD1-score4-1= '''21'''
+| RD1-score4-2= '''21'''
+| RD1-score4-3=
+
+| RD1-seed5=
+| RD1-team5= {{flagicon|UKR}} [[Polina Buhrova|P Buhrova]]
+| RD1-score5-1= 12
+| RD1-score5-2= 10
+| RD1-score5-3=
+| RD1-seed6=
+| RD1-team6= '''{{flagicon|KOR}} [[Kim Ga-eun (badminton)|Kim G-e]]'''
+| RD1-score6-1= '''21'''
+| RD1-score6-2= '''21'''
+| RD1-score6-3=
+
+| RD1-seed7=
+| RD1-team7= {{flagicon|AUS}} [[Kai Qi Teoh|K Q Teoh]]
+| RD1-score7-1= 7
+| RD1-score7-2= 2
+| RD1-score7-3=
+| RD1-seed8= 5
+| RD1-team8= '''{{flagicon|JPN}} [[Akane Yamaguchi|A Yamaguchi]]'''
+| RD1-score8-1= '''21'''
+| RD1-score8-2= '''21'''
+| RD1-score8-3=
+
+| RD1-seed9=
+| RD1-team9= {{flagicon|UKR}} [[Yevheniia Kantemyr|Y Kantemyr]]
+| RD1-score9-1= 20
+| RD1-score9-2= 8
+| RD1-score9-3=
+| RD1-seed10=
+| RD1-team10= '''{{flagicon|VIE}} [[Vũ Thị Trang|Vũ T T]]'''
+| RD1-score10-1= '''22'''
+| RD1-score10-2= '''21'''
+| RD1-score10-3=
+
+| RD1-seed11=
+| RD1-team11= {{flagicon|MAS}} [[Goh Jin Wei|Goh J W]]
+| RD1-score11-1= 14
+| RD1-score11-2= 9
+| RD1-score11-3=
+| RD1-seed12= 14
+| RD1-team12= '''{{flagicon|CHN}} [[Gao Fangjie|Gao FJ]]'''
+| RD1-score12-1= '''21'''
+| RD1-score12-2= '''21'''
+| RD1-score12-3=
+
+| RD1-seed13= 
+| RD1-team13= '''{{flagicon|USA}} [[Beiwen Zhang|BW Zhang]]'''
+| RD1-score13-1= '''21'''
+| RD1-score13-2= '''21'''
+| RD1-score13-3=
+| RD1-seed14= 
+| RD1-team14= {{flagicon|ITA}} [[Yasmine Hamza|Y Hamza]]
+| RD1-score14-1= 10
+| RD1-score14-2= 13
+| RD1-score14-3=
+
+| RD1-seed15=
+| RD1-team15= {{flagicon|TPE}} [[Chiu Pin-chian|Chiu P-c]] 
+| RD1-score15-1= 10
+| RD1-score15-2= 16
+| RD1-score15-3=
+| RD1-seed16= 3
+| RD1-team16= '''{{flagicon|CHN}} [[Han Yue|Han Y]]'''
+| RD1-score16-1= '''21'''
+| RD1-score16-2= '''21'''
+| RD1-score16-3=
+
+| RD2-seed1=
+| RD2-team1= {{flagicon|DEN}} [[Line Kjærsfeldt|L Kjærsfeldt]]
+| RD2-score1-1= '''21'''
+| RD2-score1-2= 20
+| RD2-score1-3= 19
+| RD2-seed2= 11
+| RD2-team2= '''{{flagicon|THA}} [[Supanida Katethong|S Katethong]]'''
+| RD2-score2-1= 14
+| RD2-score2-2= '''22'''
+| RD2-score2-3= '''21'''
+
+| RD2-seed3=
+| RD2-team3= {{flagicon|KOR}} [[Kim Ga-eun (badminton)|Kim G-e]]
+| RD2-score3-1= 19
+| RD2-score3-2= 19
+| RD2-score3-3=
+| RD2-seed4= 5
+| RD2-team4= '''{{flagicon|JPN}} [[Akane Yamaguchi|A Yamaguchi]]'''
+| RD2-score4-1= '''21'''
+| RD2-score4-2= '''21'''
+| RD2-score4-3=
+
+| RD2-seed5=
+| RD2-team5= {{flagicon|VIE}} [[Vũ Thị Trang|Vũ T T]]
+| RD2-score5-1= 17
+| RD2-score5-2= 18
+| RD2-score5-3=
+| RD2-seed6= 14
+| RD2-team6= '''{{flagicon|CHN}} [[Gao Fangjie|Gao FJ]]'''
+| RD2-score6-1= '''21'''
+| RD2-score6-2= '''21'''
+| RD2-score6-3=
+
+| RD2-seed7=
+| RD2-team7= {{flagicon|USA}} [[Beiwen Zhang|BW Zhang]]
+| RD2-score7-1= 22
+| RD2-score7-2= 13
+| RD2-score7-3=
+| RD2-seed8= 3
+| RD2-team8= '''{{flagicon|CHN}} [[Han Yue|Han Y]]'''
+| RD2-score8-1= '''24'''
+| RD2-score8-2= '''21'''
+| RD2-score8-3=
+
+| RD3-seed1= 11
+| RD3-team1= {{flagicon|THA}} [[Supanida Katethong|S Katethong]]
+| RD3-score1-1= 11
+| RD3-score1-2= 17
+| RD3-score1-3= 
+| RD3-seed2= 5
+| RD3-team2= '''{{flagicon|JPN}} [[Akane Yamaguchi|A Yamaguchi]]'''
+| RD3-score2-1= '''21'''
+| RD3-score2-2= '''21'''
+| RD3-score2-3= 
+
+| RD3-seed3= 14
+| RD3-team3= {{flagicon|CHN}} [[Gao Fangjie|Gao FJ]]
+| RD3-score3-1= 14
+| RD3-score3-2= 19
+| RD3-score3-3=
+| RD3-seed4= 3
+| RD3-team4= '''{{flagicon|CHN}} [[Han Yue|Han Y]]'''
+| RD3-score4-1= '''21'''
+| RD3-score4-2= '''21'''
+| RD3-score4-3=
+
+| RD4-seed1= 5
+| RD4-team1= '''{{flagicon|JPN}} [[Akane Yamaguchi|A Yamaguchi]]'''
+| RD4-score1-1= '''21'''
+| RD4-score1-2= '''21'''
+| RD4-score1-3= 
+| RD4-seed2= 3
+| RD4-team2= {{flagicon|CHN}} [[Han Yue|Han Y]]
+| RD4-score2-1=5
+| RD4-score2-2=19
+| RD4-score2-3=
+}}
+
+==== Section 4 ====
+{{16TeamBracket-Tennis3
+| RD1=First round
+| RD2=Second round
+| RD3=Third round
+| RD4=Quarter-finals
+
+| team-width=150
+
+| RD1-seed1=
+| RD1-team1= '''{{flagicon|BRA}} [[Juliana Viana Vieira|J V Vieira]]'''
+| RD1-score1-1= '''21'''
+| RD1-score1-2= '''21'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2= {{flagicon|AZE}} [[Keisha Fatimah Azzahra|K F Azzahra]]
+| RD1-score2-1= 16
+| RD1-score2-2= 14
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3= {{flagicon|HKG}} [[Lo Sin Yan|Lo S Y]]
+| RD1-score3-1= 18
+| RD1-score3-2= 11
+| RD1-score3-3=
+| RD1-seed4= 9
+| RD1-team4= '''{{flagicon|INA}} [[Putri Kusuma Wardani|P K Wardani]]'''
+| RD1-score4-1= '''21'''
+| RD1-score4-2= '''21'''
+| RD1-score4-3=
+
+| RD1-seed5=
+| RD1-team5= {{flagicon|HUN}} [[Vivien Sandorhazi|V Sándorházi]]
+| RD1-score5-1= '''22'''
+| RD1-score5-2= 15
+| RD1-score5-3= 12
+| RD1-seed6=
+| RD1-team6= '''{{flagicon|TPE}} [[Hsu Wen-chi|Hsu W-c]]'''
+| RD1-score6-1= 20
+| RD1-score6-2= '''21'''
+| RD1-score6-3= '''21'''
+
+| RD1-seed7= 
+| RD1-team7= {{flagicon|TUR}} [[Neslihan Arın|N Arın]]
+| RD1-score7-1= '''21'''
+| RD1-score7-2= 12
+| RD1-score7-3= 14
+| RD1-seed8= 8
+| RD1-team8= '''{{flagicon|JPN}} [[Tomoka Miyazaki|T Miyazaki]]'''
+| RD1-score8-1= 16
+| RD1-score8-2= '''21'''
+| RD1-score8-3= '''21'''
+
+| RD1-seed9=
+| RD1-team9= {{flagicon|HKG}} [[Saloni Samirbhai Mehta|S S Mehta]]
+| RD1-score9-1= 18
+| RD1-score9-2= 8
+| RD1-score9-3=
+| RD1-seed10=
+| RD1-team10= '''{{flagicon|MAS}} [[Letshanaa Karupathevan|Letshanaa K]]'''
+| RD1-score10-1= '''21'''
+| RD1-score10-2= '''21'''
+| RD1-score10-3=
+
+| RD1-seed11=
+| RD1-team11= {{flagicon|BUL}} [[Kaloyana Nalbantova|K Nalbantova]]
+| RD1-score11-1= 21
+| RD1-score11-2= 6
+| RD1-score11-3=
+| RD1-seed12= 15
+| RD1-team12= '''{{flagicon|IND}} [[P. V. Sindhu]]'''
+| RD1-score12-1= '''23'''
+| RD1-score12-2= '''21'''
+| RD1-score12-3=
+
+| RD1-seed13=
+| RD1-team13= {{flagicon|ESP}} [[Clara Azurmendi|C Azurmendi]]
+| RD1-score13-1= 14
+| RD1-score13-2= 16
+| RD1-score13-3=
+| RD1-seed14=
+| RD1-team14= '''{{flagicon|TPE}} [[Lin Hsiang-ti|Lin H-t]]'''
+| RD1-score14-1= '''21'''
+| RD1-score14-2= '''21'''
+| RD1-score14-3=
+
+| RD1-seed15=
+| RD1-team15= {{flagicon|HUN}} [[Ágnes Kőrösi|Á Kőrösi]]
+| RD1-score15-1= 5
+| RD1-score15-2= 4
+| RD1-score15-3=
+| RD1-seed16= 2
+| RD1-team16= '''{{flagicon|CHN}} [[Wang Zhiyi|Wang ZY]]'''
+| RD1-score16-1= '''21'''
+| RD1-score16-2= '''21'''
+| RD1-score16-3=
+
+| RD2-seed1=
+| RD2-team1= {{flagicon|BRA}} [[Juliana Viana Vieira|J V Vieira]]
+| RD2-score1-1=15
+| RD2-score1-2=11
+| RD2-score1-3=
+| RD2-seed2= 9
+| RD2-team2= '''{{flagicon|INA}} [[Putri Kusuma Wardani|P K Wardani]]'''
+| RD2-score2-1= '''21'''
+| RD2-score2-2= '''21'''
+| RD2-score2-3=
+
+| RD2-seed3=
+| RD2-team3= {{flagicon|TPE}} [[Hsu Wen-chi|Hsu W-c]]
+| RD2-score3-1= 10
+| RD2-score3-2= '''21'''
+| RD2-score3-3= 10
+| RD2-seed4= 8
+| RD2-team4= '''{{flagicon|JPN}} [[Tomoka Miyazaki|T Miyazaki]]'''
+| RD2-score4-1= '''21'''
+| RD2-score4-2= 13
+| RD2-score4-3= '''21'''
+
+| RD2-seed5=
+| RD2-team5= {{flagicon|MAS}} [[Letshanaa Karupathevan|Letshanaa K]]
+| RD2-score5-1= 19
+| RD2-score5-2= 15
+| RD2-score5-3=
+| RD2-seed6= 15
+| RD2-team6= ''' {{flagicon|IND}} [[P. V. Sindhu]]'''
+| RD2-score6-1= '''21'''
+| RD2-score6-2= '''21'''
+| RD2-score6-3= 
+
+| RD2-seed7=
+| RD2-team7= {{flagicon|TPE}} [[Lin Hsiang-ti|Lin H-t]]
+| RD2-score7-1= 18
+| RD2-score7-2= 7
+| RD2-score7-3=
+| RD2-seed8= 2
+| RD2-team8= '''{{flagicon|CHN}} [[Wang Zhiyi|Wang ZY]]'''
+| RD2-score8-1= '''21'''
+| RD2-score8-2= '''21'''
+| RD2-score8-3=
+
+| RD3-seed1= 9
+| RD3-team1= '''{{flagicon|INA}} [[Putri Kusuma Wardani|P K Wardani]]'''
+| RD3-score1-1= '''21'''
+| RD3-score1-2= '''21'''
+| RD3-score1-3= 
+| RD3-seed2= 8
+| RD3-team2= {{flagicon|JPN}} [[Tomoka Miyazaki|T Miyazaki]]
+| RD3-score2-1= 12
+| RD3-score2-2= 11
+| RD3-score2-3= 
+
+| RD3-seed3= 15
+| RD3-team3= '''{{flagicon|IND}} [[P. V. Sindhu]]'''
+| RD3-score3-1= '''21'''
+| RD3-score3-2='''21'''
+| RD3-score3-3= 
+| RD3-seed4= 2
+| RD3-team4= {{flagicon|CHN}} [[Wang Zhiyi|Wang ZY]]
+| RD3-score4-1= 19
+| RD3-score4-2= 15
+| RD3-score4-3= 
+
+| RD4-seed1= 9
+| RD4-team1= '''{{flagicon|INA}} [[Putri Kusuma Wardani|P K Wardani]]'''
+| RD4-score1-1= '''21'''
+| RD4-score1-2= 13
+| RD4-score1-3= '''21''' 
+| RD4-seed2=15 
+| RD4-team2= {{flagicon|IND}} [[P. V. Sindhu]]
+| RD4-score2-1= 14
+| RD4-score2-2= '''21'''
+| RD4-score2-3= 16
+}}
+
+== Qualifiers' performances ==
+The table below lists out all the qualifiers of this edition by 26 July 2025.
+{| class="sortable wikitable" style="font-size:90%; text-align:center"
+|-
+! rowspan="2" width="175" | Qualifier
+! rowspan="2" width="175" | Date of birth
+! rowspan="2" width="50" | Appearance
+! colspan="2" | Best Performance(s)
+! rowspan="2" width="200" | Note
+|-
+! width="100" | Edition(s)
+! width="50" | Result
+|-
+! colspan="6" | Champion
+|-
+| align="left" | {{flagicon|JPN}} '''[[Akane Yamaguchi]]'''
+| align="right" | {{birth date and age2|2025|08|26|1997|6|6|df=y}}
+| 6th
+| [[2021 BWF World Championships – Women's singles|21]], [[2022 BWF World Championships – Women's singles|22]]
+| bgcolor="#FFD700" | '''G'''
+| align="left" |={{tooltip|PB|Personal best}}
+|-
+! colspan="6" | Finalist
+|-
+| align="left" | {{flagicon|CHN}} '''[[Chen Yufei]]'''
+| align="right" | {{birth date and age2|2025|08|26|1998|3|1|df=y}}
+| 5th
+|[[2022 BWF World Championships – Women's singles|22]]
+| bgcolor="#C0C0C0" | '''S'''
+| align="left" |={{tooltip|PB|Personal best}}
+|-
+! colspan="6" | Semi-finalist
+|-
+| align="left" | {{flagicon|KOR}} '''[[An Se-young]]'''
+| align="right" | {{birth date and age2|2025|08|26|2002|02|05|df=y}}
+| 3rd
+| [[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#FFD700" | '''G'''
+| align="left" |
+|-
+| align="left" | {{flagicon|INA}} '''[[Putri Kusuma Wardani]]'''
+| align="right" | {{birth date and age2|2025|08|26|2002|07|20|df=y}}
+| 3rd
+| [[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#AFEEEE" | 2R
+| align="left" |{{tooltip|PB|Personal best}}
+|-
+! colspan="6" | Quarter-finalist
+|-
+| align="left" | {{flagicon|KOR}} '''[[Sim Yu-jin]]'''
+| align="right" | {{birth date and age2|2025|08|26|1999|05|13|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|THA}} '''[[Pornpawee Chochuwong]]'''
+| align="right" | {{birth date and age2|2025|08|26|1998|01|22|df=y}}
+| 5th
+| [[2021 BWF World Championships – Women's singles|21]], [[2022 BWF World Championships – Women's singles|22]], [[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#AFEEEE" | 3R
+| align="left" |{{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|CHN}} '''[[Han Yue]]'''
+| align="right" | {{birth date and age2|2025|08|26|1999|11|18|df=y}}
+| 5th
+| [[2021 BWF World Championships – Women's singles|21]], [[2022 BWF World Championships – Women's singles|22]]
+| bgcolor="#FFEBCD" | QF
+| align="left" |={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|IND}} '''[[P. V. Sindhu]]'''
+| align="right" | {{birth date and age2|2025|08|26|1995|07|05|df=y}}
+| 9th
+| [[2019 BWF World Championships – Women's singles|19]]
+| bgcolor="#FFD700" | '''G'''
+| align="left" |
+|-
+! colspan="6" | Third rounder
+|-
+| align="left" | {{flagicon|CAN}} [[Michelle Li]]
+| align="right" | {{birth date and age2|2025|08|26|1991|11|03|df=y}}
+| 11th
+| [[2022 BWF World Championships – Women's singles|22]]
+| bgcolor="#FFEBCD" | QF
+| align="left" | Most participated qualifier
+|-
+| align="left" | {{flagicon|INA}} '''[[Gregoria Mariska Tunjung]]'''
+| align="right" | {{birth date and age2|2025|08|26|1999|08|11|df=y}}
+| 5th
+| [[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#FFEBCD" | QF
+| align="left" | 
+|-
+| align="left" | {{flagicon|VIE}} [[Nguyễn Thùy Linh]]
+| align="right" | {{birth date and age2|2025|08|26|1997|11|20|df=y}}
+| 6th
+| [[2018 BWF World Championships – Women's singles|18]]
+| bgcolor="#AFEEEE" | 3R
+| align="left" |={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|THA}} [[Busanan Ongbamrungphan]]
+| align="right" | {{birth date and age2|2025|08|26|1996|03|22|df=y}}
+| 8th
+| [[2022 BWF World Championships – Women's singles|22]]
+| bgcolor="#FFEBCD" | QF
+| align="left" |
+|-
+| align="left" | {{flagicon|THA}} '''[[Supanida Katethong]]'''
+| align="right" | {{birth date and age2|2025|08|26|1997|10|26|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|CHN}} [[Gao Fangjie]]
+| align="right" | {{birth date and age2|2025|08|26|1998|09|29|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|JPN}} '''[[Tomoka Miyazaki]]'''
+| align="right" | {{birth date and age2|2025|08|26|2006|08|17|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|CHN}} '''[[Wang Zhiyi]]'''
+| align="right" | {{birth date and age2|2025|08|26|2000|04|29|df=y}}
+| 4th
+| [[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#FFEBCD" | QF
+| align="left" | 
+|-
+! colspan="6" | Second rounder
+|-
+| align="left" | {{flagicon|GER}} [[Yvonne Li]]
+| align="right" | {{birth date and age2|2025|08|26|1998|05|30|df=y}}
+| 5th
+| [[2021 BWF World Championships – Women's singles|21]], [[2022 BWF World Championships – Women's singles|22]], [[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#AFEEEE" | 2R
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|TUR}} [[Özge Bayrak]]
+| align="right" | {{birth date and age2|2025|08|26|1992|02|14|df=y}}
+| 2nd
+| [[2015 BWF World Championships – Women's singles|15]]
+| bgcolor="#AFEEEE" | 2R
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|DEN}} [[Julie Dawall Jakobsen]]
+| align="right" | {{birth date and age2|2025|08|26|1998|03|25|df=y}}
+| 2nd
+| [[2021 BWF World Championships – Women's singles|21]]
+| bgcolor="#AFEEEE" | 2R
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|SL}} [[Ranithma Liyanage]]
+| align="right" | {{birth date and age2|2025|08|26|2007|03|22|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | Youngest qualifier, {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|DEN}} [[Mia Blichfeldt]]
+| align="right" | {{birth date and age2|2025|08|26|1997|08|19|df=y}}
+| 7th
+| [[2019 BWF World Championships – Women's singles|19]]
+| bgcolor="#FFEBCD" | QF
+| align="left" | 
+|-
+| align="left" | {{flagicon|SCO}} [[Kirsty Gilmour]]
+| align="right" | {{birth date and age2|2025|08|26|1993|09|21|df=y}}
+| 10th
+| [[2017 BWF World Championships – Women's singles|17]]
+| bgcolor="#FFEBCD" | QF
+| align="left" | 
+|-
+| align="left" | {{flagicon|USA}} [[Ishika Jaiswal]]
+| align="right" | {{birth date and age2|2025|08|26|2003|07|28|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|SGP}} '''[[Yeo Jia Min]]'''
+| align="right" | {{birth date and age2|2025|08|26|1999|02|01|df=y}}
+| 4th
+| [[2019 BWF World Championships – Women's singles|19]]
+| bgcolor="#FFEBCD" | QF
+| align="left" |
+|-
+| align="left" | {{flagicon|DEN}} [[Line Kjærsfeldt]]
+| align="right" | {{birth date and age2|2025|08|26|1994|04|20|df=y}}
+| 10th
+| {{nowrap|[[2014 BWF World Championships – Women's singles|14]], [[2015 BWF World Championships – Women's singles|15]], [[2017 BWF World Championships – Women's singles|17]], [[2019 BWF World Championships – Women's singles|19]], [[2021 BWF World Championships – Women's singles|21]]}}, [[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#AFEEEE" | 2R
+| align="left" |={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|KOR}} [[Kim Ga-eun (badminton)|Kim Ga-eun]]
+| align="right" | {{birth date and age2|2025|08|26|1998|02|07|df=y}}
+| 5th
+| [[2019 BWF World Championships – Women's singles|19]], [[2021 BWF World Championships – Women's singles|21]]
+| bgcolor="#AFEEEE" | 3R
+| align="left" |
+|-
+| align="left" | {{flagicon|VIE}} [[Vũ Thị Trang]]
+| align="right" | {{birth date and age2|2025|08|26|1992|5|19|df=y}}
+| 7th
+| [[2014 BWF World Championships – Women's singles|14]], [[2019 BWF World Championships – Women's singles|19]], [[2022 BWF World Championships – Women's singles|22]]
+| bgcolor="#AFEEEE" | 3R
+| align="left" |
+|-
+| align="left" | {{flagicon|USA}} [[Beiwen Zhang]]
+| align="right" | {{birth date and age2|2025|08|26|1990|07|12|df=y}}
+| 5th
+| [[2018 BWF World Championships – Women's singles|18]], [[2019 BWF World Championships – Women's singles|19]], [[2022 BWF World Championships – Women's singles|22]], [[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#AFEEEE" | 3R
+| align="left" |Oldest participated qualifier
+|-
+| align="left" | {{flagicon|BRA}} [[Juliana Viana Vieira]]
+| align="right" | {{nowrap|{{birth date and age2|2025|08|26|2004|09|23|df=y}}}}
+| 2nd
+| [[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#AFEEEE" | 2R
+| align="left" |[[2025 Pan Am Badminton Championships|Reigning Pan American champion]], ={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|TPE}} [[Hsu Wen-chi]]
+| align="right" | {{birth date and age2|2025|08|26|1997|09|28|df=y}}
+| 2nd
+| [[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#AFEEEE" | 2R
+| align="left" |={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|MALAYSIA}} [[Letshanaa Karupathevan]]
+| align="right" | {{birth date and age2|2025|08|26|2003|8|19|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" |{{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|TPE}} [[Lin Hsiang-ti]]
+| align="right" | {{birth date and age2|2025|08|26|1998|11|20|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+! colspan="6" | First rounder
+|-
+| align="left" | {{flagicon|BEL}} [[Clara Lassaux]]
+| align="right" | {{birth date and age2|2025|08|26|2001|10|04|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|PER}} [[Inés Castillo]]
+| align="right" | {{birth date and age2|2025|08|26|1999|12|07|df=y}}
+| 2nd
+| [[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#AFEEEE" | 1R 
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|JPN}} [[Natsuki Nidaira]]
+| align="right" | {{birth date and age2|2025|08|26|1998|07|12|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|AUS}} [[Tiffany Ho (badminton)|Tiffany Ho]]
+| align="right" | {{birth date and age2|2025|08|26|1998|01|06|df=y}}
+| 2rd
+| [[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#AFEEEE" | 1R 
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|CZE}} [[Petra Maixnerová]]
+| align="right" | {{birth date and age2|2025|08|26|2005|09|06|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|SUI}} [[Milena Schnider]]
+| align="right" | {{birth date and age2|2025|08|26|2001|10|11|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+|-
+| align="left" | {{flagicon|CAN}} [[Wenyu Zhang]]
+| align="right" | {{birth date and age2|2025|08|26|2002|08|29|df=y}}
+| 3rd
+| [[2022 BWF World Championships – Women's singles|22]]
+| bgcolor="#AFEEEE" | 2R 
+| align="left" |
+|-
+| align="left" | {{flagicon|IRE}} [[Rachael Darragh]]
+| align="right" | {{birth date and age2|2025|08|26|1997|09|24|df=y}}
+| 3rd
+| [[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#AFEEEE" | 2R 
+| align="left" |
+|-
+| align="left" | {{flagicon|FRA}} [[Anna Tatranova]]
+| align="right" | {{birth date and age2|2025|08|26|2003|10|12|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|TPE}} [[Sung Shuo-yun]]
+| align="right" | {{birth date and age2|2025|08|26|1997|06|15|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|THA}} '''[[Ratchanok Intanon]]'''
+| align="right" | {{birth date and age2|2025|08|26|1995|02|28|df=y}}
+| 11th
+| [[2013 BWF World Championships – Women's singles|13]]
+| bgcolor="#FFD700" | '''G'''
+| align="left" |Youngest winner record holder, and most participated qualifier
+|-
+| align="left" | {{flagicon|UGA}} [[Fadilah Mohamed Rafi]]
+| align="right" | {{birth date and age2|2025|08|26|2005|04|06|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|SGP}} [[Jaslyn Hooi]]
+| align="right" | {{birth date and age2|2025|08|26|2000|10|05|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|BUL}} [[Stefani Stoeva]]
+| align="right" | {{birth date and age2|2025|08|26|1995|09|23|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|MYA}} [[Thet Htar Thuzar]]
+| align="right" | {{birth date and age2|2025|08|26|1999|03|15|df=y}}
+| 4th
+| [[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#AFEEEE" | 3R 
+| align="left" |
+|-
+| align="left" | {{flagicon|CZE}} [[Tereza Švábíková]]
+| align="right" | {{birth date and age2|2025|08|26|2000|05|14|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|EST}} [[Kristin Kuuba]]
+| align="right" | {{birth date and age2|2025|08|26|1997|02|15|df=y}}
+| 5th
+| [[2019 BWF World Championships – Women's singles|19]],[[2021 BWF World Championships – Women's singles|21]],[[2022 BWF World Championships – Women's singles|22]],[[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#AFEEEE" | 1R 
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|GER}} [[Miranda Wilson (badminton)|Miranda Wilson]]
+| align="right" | {{birth date and age2|2025|08|26|2000|04|06|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|UKR}} [[Polina Buhrova]]
+| align="right" | {{birth date and age2|2025|08|26|2004|01|30|df=y}}
+| 2nd
+| [[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#AFEEEE" | 1R 
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|AUS}} [[Kai Qi Teoh]]
+| align="right" | {{birth date and age2|2025|08|26|2003|10|04|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|UKR}} [[Yevheniia Kantemyr]]
+| align="right" | {{birth date and age2|2025|08|26|2005|07|04|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|MAS}} [[Goh Jin Wei]]
+| align="right" | {{birth date and age2|2025|08|26|2000|01|30|df=y}}
+| 3th
+| [[2022 BWF World Championships – Women's singles|22]]
+| bgcolor="#AFEEEE" | 3R 
+| align="left" | 
+|-
+| align="left" | {{flagicon|ITA}} [[Yasmine Hamza]]
+| align="right" | {{birth date and age2|2025|08|26|2003|09|16|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|TPE}} [[Chiu Pin-chian]]
+| align="right" | {{birth date and age2|2025|08|26|1999|05|15|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|AZE}} [[Keisha Fatimah Azzahra]]
+| align="right" | {{birth date and age2|2025|08|26|2003|08|12|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|HKG}} [[Lo Sin Yan]]
+| align="right" | {{birth date and age2|2025|08|26|2003|02|25|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|HUN}} [[Vivien Sandorhazi]]
+| align="right" | {{birth date and age2|2025|08|26|2001|01|03|df=y}}
+| 2rd
+| [[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#AFEEEE" | 1R 
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|TUR}} [[Neslihan Arın]]
+| align="right" | {{birth date and age2|2025|08|26|1994|02|26|df=y}}
+| 8th
+| [[2011 BWF World Championships – Women's singles|11]],[[2021 BWF World Championships – Women's singles|21]],[[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#AFEEEE" | 2R 
+| align="left" | 
+|-
+| align="left" | {{flagicon|HKG}} [[Saloni Samirbhai Mehta]]
+| align="right" | {{birth date and age2|2025|08|26|2002|08|27|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|BUL}} [[Kaloyana Nalbantova]]
+| align="right" | {{birth date and age2|2025|08|26|2006|03|06|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|ESP}} [[Clara Azurmendi]]
+| align="right" | {{birth date and age2|2025|08|26|1998|05|04|df=y}}
+| 3rd
+| [[2021 BWF World Championships – Women's singles|21]],[[2023 BWF World Championships – Women's singles|23]]
+| bgcolor="#AFEEEE" | 1R 
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|HUN}} [[Ágnes Kőrösi]]
+| align="right" | {{birth date and age2|2025|08|26|1998|05|04|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+|}
+
+== References ==
+* [https://bwfworldchampionships.bwfbadminton.com/results/5261/totalenergies-bwf-world-championships-2025/ bwfbadminton.com]
+* [https://www.badmintonparis2025.com/ badmintonparis2025.com]
+
+[[Category:2025 BWF World Championships]]
+[[Category:2025 in women's badminton]]
+{{DEFAULTSORT:2025 BWF World Championships - Women's singles}}

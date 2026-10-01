@@ -1,0 +1,1233 @@
+{{Short description|Badminton championships}}
+{{Infobox sports competition event
+| event          = Men's singles
+| championship   = 2025 BWF World Championships
+| dates          = 26–31 August
+| competitors    = 64
+| nations        = 40
+| venue          = [[Adidas Arena]]
+| location       = [[Paris]], France
+| gold           = [[Shi Yuqi]]
+| gold_nation    = CHN
+| silver         = [[Kunlavut Vitidsarn]]
+| silver_nation  = THA
+| bronze         = [[Victor Lai]]
+| bronze_nation  = CAN
+| bronze2        = [[Anders Antonsen]]
+| bronze2_nation = DEN
+| prev           = [[2023 BWF World Championships – Men's singles|2023 Denmark]]
+| next           = ''[[2026 BWF World Championships – Men's singles|2026 India]]''
+}}
+{{2025 BWF World Championships}}
+The men's singles tournament of the [[2025 BWF World Championships]] took place from 26 to 31 August 2025 at the [[Adidas Arena]] in [[Paris]].
+
+== Seeds ==
+{{See also|2025 BWF World Championships qualification#Men's singles}}
+The seeding list was based on the [[BWF World Ranking|World Rankings]] of 5 August 2025.
+
+{{col-begin}}{{col-2}}
+{{seeds|1|1}} {{flagicon|CHN}} '''[[Shi Yuqi]] (champion)''' 
+{{seeds|2|4}} {{flagicon|DEN}} [[Anders Antonsen]] ''(semi-finals)''
+{{seeds|3|3}} {{flagicon|THA}} [[Kunlavut Vitidsarn]] ''(final)''
+{{seeds|4|2}} {{flagicon|CHN}} [[Li Shifeng]] ''(first round)''
+{{seeds|5|3}} {{flagicon|INA}} [[Jonatan Christie]] ''(quarter-finals)''
+{{seeds|6|4}} {{flagicon|TPE}} [[Chou Tien-chen]] ''(quarter-finals)'' 
+{{seeds|7|1}} {{flagicon|FRA}} [[Alex Lanier]] ''(third round)''
+{{seeds|8|2}} {{flagicon|JPN}} [[Kodai Naraoka]] ''(third round)''
+{{col-2}}
+{{seeds|9|2}} {{flagicon|SIN}} [[Loh Kean Yew]] ''(quarter-finals)''
+{{seeds|10|1}} {{flagicon|FRA}} [[Christo Popov]] ''(third round)''
+{{seeds|11|2}} {{flagicon|CHN}} [[Lu Guangzu]] ''(second round)''
+{{seeds|12|3}} {{flagicon|TPE}} [[Lin Chun-yi (badminton)|Lin Chun-yi]] ''(second round)''
+{{seeds|13|3}} {{flagicon|HKG}} [[Lee Cheuk Yiu]] ''(third round)''
+{{seeds|14|4}} {{flagicon|JPN}} [[Kenta Nishimoto]] ''(third round)''
+{{seeds|15|4}} {{flagicon|FRA}} [[Toma Junior Popov]] ''(third round)''
+{{seeds|16|1}} {{flagicon|CHN}} [[Weng Hongyang]] ''(quarter-finals)''
+{{col-end}}
+{{seeds explanation}}
+
+== Draw ==
+The drawing ceremony was held on 13 August.
+
+=== Finals ===
+{{4TeamBracket-Tennis3
+| RD-shade=#A8D3FF
+| RD1=Semi-finals
+| RD2=Final
+
+| team-width=150
+
+| RD1-seed1= 1
+| RD1-team1= '''{{flagicon|CHN}} [[Shi Yuqi]]'''
+| RD1-score1-1=13
+| RD1-score1-2='''22'''
+| RD1-score1-3='''21'''
+| RD1-seed2= &nbsp;
+| RD1-team2= {{flagicon|CAN}} [[Victor Lai]]
+| RD1-score2-1='''21'''
+| RD1-score2-2=20
+| RD1-score2-3=16
+
+| RD1-seed3= 3
+| RD1-team3='''{{flagicon|THA}} [[Kunlavut Vitidsarn]]'''
+| RD1-score3-1='''21'''
+| RD1-score3-2='''21'''
+| RD1-score3-3=
+| RD1-seed4= 2
+| RD1-team4= {{flagicon|DEN}} [[Anders Antonsen]]
+| RD1-score4-1=17
+| RD1-score4-2=15
+| RD1-score4-3=
+
+| RD2-seed1= 1
+| RD2-team1= '''{{flagicon|CHN}} [[Shi Yuqi]]'''
+| RD2-score1-1= 19
+| RD2-score1-2= '''21'''
+| RD2-score1-3= '''21'''
+| RD2-seed2= 3
+| RD2-team2= {{flagicon|THA}} [[Kunlavut Vitidsarn]]
+| RD2-score2-1= '''21'''
+| RD2-score2-2= 10
+| RD2-score2-3= 18
+}}
+
+=== Top half ===
+==== Section 1 ====
+{{16TeamBracket-Tennis3
+| RD1=First round
+| RD2=Second round
+| RD3=Third round
+| RD4=Quarter-finals
+
+| team-width=150
+
+| RD1-seed1= 1
+| RD1-team1= '''{{flagicon|CHN}} [[Shi Yuqi|Shi YQ]]'''
+| RD1-score1-1= '''21'''
+| RD1-score1-2= '''21'''
+| RD1-score1-3= 
+| RD1-seed2= 
+| RD1-team2= {{flagicon|IND}} [[Lakshya Sen|L Sen]]
+| RD1-score2-1= 17
+| RD1-score2-2= 19
+| RD1-score2-3= 
+
+| RD1-seed3= 
+| RD1-team3= {{flagicon|VIE}} [[Lê Đức Phát|Lê Đ P]]
+| RD1-score3-1= 20
+| RD1-score3-2= '''21'''
+| RD1-score3-3= 9
+| RD1-seed4= 
+| RD1-team4= '''{{flagicon|BEL}} [[Julien Carraggi|J Carraggi]]'''
+| RD1-score4-1= '''22'''
+| RD1-score4-2= 16
+| RD1-score4-3= '''21'''
+
+| RD1-seed05= 10
+| RD1-team05= '''{{flagicon|FRA}} [[Christo Popov|C Popov]]'''
+| RD1-score05-1= '''21'''
+| RD1-score05-2= '''21'''
+| RD1-score05-3= 
+| RD1-seed06= 
+| RD1-team06= {{flagicon|MAC}} [[Pui Pang Fong|Pui P F]]
+| RD1-score06-1= 15
+| RD1-score06-2= 16
+| RD1-score06-3= 
+
+| RD1-seed07= 
+| RD1-team07= '''{{flagicon|HKG}} [[Ng Ka Long|Ng K L]]'''
+| RD1-score07-1= 16
+| RD1-score07-2= '''21'''
+| RD1-score07-3= '''21'''
+| RD1-seed08= 
+| RD1-team08= {{flagicon|AUT}} [[Collins Valentine Filimon|C V Filimon]]
+| RD1-score08-1= '''21'''
+| RD1-score08-2= 15
+| RD1-score08-3= 7
+
+| RD1-seed09= 7
+| RD1-team09= '''{{flagicon|FRA}} [[Alex Lanier|A Lanier]]'''
+| RD1-score09-1= '''21'''
+| RD1-score09-2= '''22'''
+| RD1-score09-3= 
+| RD1-seed10= 
+| RD1-team10= {{flagicon|THA}} [[Kantaphon Wangcharoen|K Wangcharoen]]
+| RD1-score10-1= 10
+| RD1-score10-2= 20
+| RD1-score10-3= 
+
+| RD1-seed11= 
+| RD1-team11= {{flagicon|AZE}} [[Dicky Dwi Pangestu|D D Pangestu]]
+| RD1-score11-1= 16
+| RD1-score11-2= '''21'''
+| RD1-score11-3= 14
+| RD1-seed12= 
+| RD1-team12= '''{{flagicon|CRO}} [[Aria Dinata|A Dinata]]'''
+| RD1-score12-1= '''21'''
+| RD1-score12-2= 16
+| RD1-score12-3= '''21'''
+
+| RD1-seed13= 16
+| RD1-team13= '''{{flagicon|CHN}} [[Weng Hongyang|Weng HY]]'''
+| RD1-score13-1= '''21'''
+| RD1-score13-2= '''21'''
+| RD1-score13-3= 
+| RD1-seed14= 
+| RD1-team14= {{flagicon|AUS}} [[Jack Yu|J Yu]]
+| RD1-score14-1= 7
+| RD1-score14-2= 12
+| RD1-score14-3= 
+
+| RD1-seed15=
+| RD1-team15= '''{{flagicon|TPE}} [[Lee Chia-hao|Lee C-h]]'''
+| RD1-score15-1= '''24'''
+| RD1-score15-2= '''21'''
+| RD1-score15-3= 
+| RD1-seed16= 
+| RD1-team16= {{flagicon|ITA}} [[Giovanni Toti (badminton)|G Toti]]
+| RD1-score16-1= 22
+| RD1-score16-2= 11
+| RD1-score16-3= 
+
+| RD2-seed01= 1
+| RD2-team01= '''{{flagicon|CHN}} [[Shi Yuqi|Shi YQ]]'''
+| RD2-score01-1= '''21'''
+| RD2-score01-2= '''21'''
+| RD2-score01-3=
+| RD2-seed02=
+| RD2-team02= {{flagicon|BEL}} [[Julien Carraggi|J Carraggi]]
+| RD2-score02-1= 15
+| RD2-score02-2= 11
+| RD2-score02-3=
+
+| RD2-seed03= 10
+| RD2-team03= '''{{flagicon|FRA}} [[Christo Popov|C Popov]]'''
+| RD2-score03-1= '''21'''
+| RD2-score03-2= '''21'''
+| RD2-score03-3=
+| RD2-seed04=
+| RD2-team04= {{flagicon|HKG}} [[Ng Ka Long|Ng K L]]
+| RD2-score04-1= 15
+| RD2-score04-2= 16
+| RD2-score04-3=
+
+| RD2-seed05= 7
+| RD2-team05= '''{{flagicon|FRA}} [[Alex Lanier|A Lanier]]'''
+| RD2-score05-1= '''21'''
+| RD2-score05-2= '''21'''
+| RD2-score05-3=
+| RD2-seed06=
+| RD2-team06= {{flagicon|CRO}} [[Aria Dinata|A Dinata]]
+| RD2-score06-1= 17
+| RD2-score06-2= 13
+| RD2-score06-3=
+
+| RD2-seed07= 16
+| RD2-team07= '''{{flagicon|CHN}} [[Weng Hongyang|Weng HY]]'''
+| RD2-score07-1= '''21'''
+| RD2-score07-2= '''21'''
+| RD2-score07-3=
+| RD2-seed08=
+| RD2-team08= {{flagicon|TPE}} [[Lee Chia-hao|Lee C-h]]
+| RD2-score08-1= 19
+| RD2-score08-2= 13
+| RD2-score08-3=
+
+| RD3-seed01= 1
+| RD3-team01= '''{{flagicon|CHN}} [[Shi Yuqi|Shi YQ]]'''
+| RD3-score01-1= 20
+| RD3-score01-2= '''21'''
+| RD3-score01-3= '''21'''
+| RD3-seed02= 10
+| RD3-team02= {{flagicon|FRA}} [[Christo Popov|C Popov]]
+| RD3-score02-1= '''22'''
+| RD3-score02-2= 13
+| RD3-score02-3= 18
+
+| RD3-seed03= 7
+| RD3-team03= {{flagicon|FRA}} [[Alex Lanier|A Lanier]]
+| RD3-score03-1= 18
+| RD3-score03-2= 12
+| RD3-score03-3= 
+| RD3-seed04= 16
+| RD3-team04= '''{{flagicon|CHN}} [[Weng Hongyang|Weng HY]]'''
+| RD3-score04-1= '''21'''
+| RD3-score04-2= '''21'''
+| RD3-score04-3= 
+
+| RD4-seed01= 1
+| RD4-team01= '''{{flagicon|CHN}} [[Shi Yuqi|Shi YQ]]'''
+| RD4-score01-1= '''21'''
+| RD4-score01-2= 7
+| RD4-score01-3= '''21'''
+| RD4-seed02= 16
+| RD4-team02= {{flagicon|CHN}} [[Weng Hongyang|Weng HY]]
+| RD4-score02-1= 15
+| RD4-score02-2= '''21'''
+| RD4-score02-3= 10
+}}
+
+==== Section 2 ====
+{{16TeamBracket-Tennis3
+| RD1=First round
+| RD2=Second round
+| RD3=Third round
+| RD4=Quarter-finals
+
+| team-width=150
+
+| RD1-seed01= 4
+| RD1-team01= {{flagicon|CHN}} [[Li Shifeng|Li SF]]
+| RD1-score01-1= '''21'''
+| RD1-score01-2= 11
+| RD1-score01-3= 15
+| RD1-seed02=
+| RD1-team02= '''{{flagicon|JPN}} [[Yushi Tanaka|Y Tanaka]]'''
+| RD1-score02-1= 19
+| RD1-score02-2= '''21'''
+| RD1-score02-3= '''21'''
+
+| RD1-seed03=
+| RD1-team03= {{flagicon|MAS}} [[Lee Zii Jia|Lee Z J]]
+| RD1-score03-1= 17
+| RD1-score03-2= 11
+| RD1-score03-3=
+| RD1-seed04=
+| RD1-team04= '''{{flagicon|KOR}} [[Jeon Hyeok-jin|Jeon H-j]]'''
+| RD1-score04-1= '''21'''
+| RD1-score04-2= '''21'''
+| RD1-score04-3=
+
+| RD1-seed05= 11
+| RD1-team05= '''{{flagicon|CHN}} [[Lu Guangzu|Lu GZ]]'''
+| RD1-score05-1= 16
+| RD1-score05-2= '''22'''
+| RD1-score05-3= '''21'''
+| RD1-seed06=
+| RD1-team06= {{flagicon|SGP}} [[Jason Teh|J Teh]]
+| RD1-score06-1= '''21'''
+| RD1-score06-2= 20
+| RD1-score06-3= 14
+
+| RD1-seed07=
+| RD1-team07= '''{{flagicon|CAN}} [[Victor Lai|V Lai]]'''
+| RD1-score07-1= '''21'''
+| RD1-score07-2= '''21'''
+| RD1-score07-3=
+| RD1-seed08=
+| RD1-team08= {{flagicon|NZL}} [[Edward Lau|E Lau]]
+| RD1-score08-1= 13
+| RD1-score08-2= 2
+| RD1-score08-3=
+
+| RD1-seed09= 8
+| RD1-team09= '''{{flagicon|JPN}} [[Kodai Naraoka|K Naraoka]]'''
+| RD1-score09-1= '''21'''
+| RD1-score09-2= '''21'''
+| RD1-score09-3=
+| RD1-seed10=
+| RD1-team10= {{flagicon|SRI}} [[Dumindu Abeywickrama|D Abeywickrama]]
+| RD1-score10-1= 10
+| RD1-score10-2= 7
+| RD1-score10-3=
+
+| RD1-seed11=
+| RD1-team11= {{flagicon|CAN}} [[Brian Yang (badminton)|B Yang]]
+| RD1-score11-1= 9
+| RD1-score11-2= 18
+| RD1-score11-3=
+| RD1-seed12=
+| RD1-team12= '''{{flagicon|IRL}} [[Nhat Nguyen|N Nguyen]]'''
+| RD1-score12-1= '''21'''
+| RD1-score12-2= '''21'''
+| RD1-score12-3=
+
+| RD1-seed13= 9
+| RD1-team13= '''{{flagicon|SGP}} [[Loh Kean Yew|Loh K Y]]'''
+| RD1-score13-1= '''21'''
+| RD1-score13-2= '''21'''
+| RD1-score13-3=
+| RD1-seed14= 
+| RD1-team14= {{flagicon|MRI}} [[Julien Paul|J Paul]]
+| RD1-score14-1= 15
+| RD1-score14-2= 12
+| RD1-score14-3=
+
+| RD1-seed15=
+| RD1-team15= {{flagicon|ENG}} [[Harry Huang|H Huang]]
+| RD1-score15-1= 12
+| RD1-score15-2= '''21'''
+| RD1-score15-3= 19
+| RD1-seed16=
+| RD1-team16= '''{{flagicon|FIN}} [[Kalle Koljonen|K Koljonen]]'''
+| RD1-score16-1= '''21'''
+| RD1-score16-2= 10
+| RD1-score16-3= '''21'''
+
+| RD2-seed01=
+| RD2-team01= {{flagicon|JPN}} [[Yushi Tanaka|Y Tanaka]]
+| RD2-score01-1=12
+| RD2-score01-2=9
+| RD2-score01-3=
+| RD2-seed02=
+| RD2-team02= '''{{flagicon|KOR}} [[Jeon Hyeok-jin|Jeon H-j]]'''
+| RD2-score02-1= '''21'''
+| RD2-score02-2= '''21'''
+| RD2-score02-3=
+
+| RD2-seed03= 11
+| RD2-team03= {{flagicon|CHN}} [[Lu Guangzu|Lu GZ]]
+| RD2-score03-1= '''21'''
+| RD2-score03-2= 12
+| RD2-score03-3= 10
+| RD2-seed04=
+| RD2-team04= '''{{flagicon|CAN}} [[Victor Lai|V Lai]]'''
+| RD2-score04-1= 13
+| RD2-score04-2= '''21'''
+| RD2-score04-3= '''21'''
+
+| RD2-seed05= 8
+| RD2-team05= '''{{flagicon|JPN}} [[Kodai Naraoka|K Naraoka]]'''
+| RD2-score05-1= '''21'''
+| RD2-score05-2= '''21'''
+| RD2-score05-3=
+| RD2-seed06=
+| RD2-team06= {{flagicon|IRL}} [[Nhat Nguyen|N Nguyen]]
+| RD2-score06-1= 18
+| RD2-score06-2= 14
+| RD2-score06-3=
+
+| RD2-seed07= 9
+| RD2-team07= '''{{flagicon|SGP}} [[Loh Kean Yew|Loh K Y]]'''
+| RD2-score07-1= '''21'''
+| RD2-score07-2= '''21'''
+| RD2-score07-3=
+| RD2-seed08=
+| RD2-team08= {{flagicon|FIN}} [[Kalle Koljonen|K Koljonen]]
+| RD2-score08-1= 14
+| RD2-score08-2= 14
+| RD2-score08-3=
+
+| RD3-seed01=
+| RD3-team01= {{flagicon|KOR}} [[Jeon Hyeok-jin|Jeon H-j]]
+| RD3-score01-1= 17
+| RD3-score01-2= 13
+| RD3-score01-3=
+| RD3-seed02=
+| RD3-team02= '''{{flagicon|CAN}} [[Victor Lai|V Lai]]'''
+| RD3-score02-1= '''21'''
+| RD3-score02-2= '''21'''
+| RD3-score02-3=
+
+| RD3-seed03= 8
+| RD3-team03= {{flagicon|JPN}} [[Kodai Naraoka|K Naraoka]]
+| RD3-score03-1= '''21'''
+| RD3-score03-2= 19
+| RD3-score03-3= 19
+| RD3-seed04= 9
+| RD3-team04= '''{{flagicon|SGP}} [[Loh Kean Yew|Loh K Y]]'''
+| RD3-score04-1= 5
+| RD3-score04-2= '''21'''
+| RD3-score04-3= '''21'''
+
+| RD4-seed01=
+| RD4-team01= '''{{flagicon|CAN}} [[Victor Lai|V Lai]]'''
+| RD4-score01-1= '''22'''
+| RD4-score01-2= '''21'''
+| RD4-score01-3= 
+| RD4-seed02= 9
+| RD4-team02= {{flagicon|SGP}} [[Loh Kean Yew|Loh K Y]]
+| RD4-score02-1= 20
+| RD4-score02-2= 18
+| RD4-score02-3= 
+}}
+
+=== Bottom half ===
+==== Section 3 ====
+{{16TeamBracket-Tennis3
+| RD1=First round
+| RD2=Second round
+| RD3=Third round
+| RD4=Quarter-finals
+
+| team-width=150
+
+| RD1-seed01=
+| RD1-team01= {{flagicon|BRA}} [[Ygor Coelho|Y Coelho]]
+| RD1-score01-1= 16
+| RD1-score01-2= '''21'''
+| RD1-score01-3= 18
+| RD1-seed02=
+| RD1-team02= '''{{flagicon|GER}} [[Fabian Roth|F Roth]]'''
+| RD1-score02-1= '''21'''
+| RD1-score02-2= 19
+| RD1-score02-3= '''21'''
+
+| RD1-seed03=
+| RD1-team03= {{flagicon|SWE}} [[Gustav Björkler|G Björkler]]
+| RD1-score03-1= 9
+| RD1-score03-2= 17
+| RD1-score03-3=
+| RD1-seed04= 13
+| RD1-team04= '''{{flagicon|HKG}} [[Lee Cheuk Yiu|Lee C Y]]'''
+| RD1-score04-1= '''21'''
+| RD1-score04-2= '''21'''
+| RD1-score04-3=
+
+| RD1-seed05=
+| RD1-team05= {{flagicon|JPN}} [[Koki Watanabe|K Watanabe]]
+| RD1-score05-1= 19
+| RD1-score05-2= 18
+| RD1-score05-3=
+| RD1-seed06=
+| RD1-team06= '''{{flagicon|AZE}} [[Ade Resky Dwicahyo|A R Dwicahyo]]'''
+| RD1-score06-1= '''21'''
+| RD1-score06-2= '''21'''
+| RD1-score06-3=
+
+| RD1-seed07=
+| RD1-team07= {{flagicon|GER}} [[Matthias Kicklitz|M Kicklitz]]
+| RD1-score07-1= 15
+| RD1-score07-2= 5
+| RD1-score07-3=
+| RD1-seed08= 5
+| RD1-team08= '''{{flagicon|INA}} [[Jonatan Christie|J Christie]]'''
+| RD1-score08-1= '''21'''
+| RD1-score08-2= '''21'''
+| RD1-score08-3=
+
+| RD1-seed09=
+| RD1-team09= '''{{flagicon|INA}} [[Alwi Farhan|A Farhan]]'''
+| RD1-score09-1= '''22'''
+| RD1-score09-2= '''21'''
+| RD1-score09-3=
+| RD1-seed10=
+| RD1-team10= {{flagicon|VIE}} [[Nguyễn Hải Đăng|Nguyễn H Đ]]
+| RD1-score10-1= 20
+| RD1-score10-2= 13
+| RD1-score10-3=
+
+| RD1-seed11=
+| RD1-team11= {{flagicon|DEN}} [[Rasmus Gemke|R Gemke]]
+| RD1-score11-1= '''21'''
+| RD1-score11-2= 18
+| RD1-score11-3= 14
+| RD1-seed12= 12
+| RD1-team12= '''{{flagicon|TPE}} [[Lin Chun-yi (badminton)|Lin C-y]]'''
+| RD1-score12-1= 17
+| RD1-score12-2= '''21'''
+| RD1-score12-3= '''21'''
+
+| RD1-seed13=
+| RD1-team13= {{flagicon|PER}} [[Adriano Viale|A Viale]]
+| RD1-score13-1= 13
+| RD1-score13-2= '''21''' 
+| RD1-score13-3= 18
+| RD1-seed14=
+| RD1-team14= '''{{flagicon|KOR}} [[Kim Byung-jae|Kim B-j]]'''
+| RD1-score14-1= '''21''' 
+| RD1-score14-2= 19
+| RD1-score14-3= '''21''' 
+
+| RD1-seed15=
+| RD1-team15= {{flagicon|ESA}} [[Uriel Canjura|U Canjura]]
+| RD1-score15-1= 11
+| RD1-score15-2= 17
+| RD1-score15-3=
+| RD1-seed16= 3
+| RD1-team16= '''{{flagicon|THA}} [[Kunlavut Vitidsarn|K Vitidsarn]]'''
+| RD1-score16-1= '''21''' 
+| RD1-score16-2= '''21'''
+| RD1-score16-3=
+
+| RD2-seed01=
+| RD2-team01= {{flagicon|GER}} [[Fabian Roth|F Roth]]
+| RD2-score01-1= 16
+| RD2-score01-2= 21
+| RD2-score01-3=
+| RD2-seed02= 13
+| RD2-team02= '''{{flagicon|HKG}} [[Lee Cheuk Yiu|Lee C Y]]'''
+| RD2-score02-1= '''21'''
+| RD2-score02-2= '''23'''
+| RD2-score02-3=
+
+| RD2-seed03=
+| RD2-team03= {{flagicon|AZE}} [[Ade Resky Dwicahyo|A R Dwicahyo]]
+| RD2-score03-1= 9
+| RD2-score03-2= 17
+| RD2-score03-3=
+| RD2-seed04= 5
+| RD2-team04= '''{{flagicon|INA}} [[Jonatan Christie|J Christie]]'''
+| RD2-score04-1= '''21'''
+| RD2-score04-2= '''21'''
+| RD2-score04-3=
+
+| RD2-seed05=
+| RD2-team05= '''{{flagicon|INA}} [[Alwi Farhan|A Farhan]]'''
+| RD2-score05-1= '''21'''
+| RD2-score05-2= '''22'''
+| RD2-score05-3=
+| RD2-seed06= 12
+| RD2-team06= {{flagicon|TPE}} [[Lin Chun-yi (badminton)|Lin C-y]]
+| RD2-score06-1= 17
+| RD2-score06-2= 20
+| RD2-score06-3=
+
+| RD2-seed07=
+| RD2-team07= {{flagicon|KOR}} [[Kim Byung-jae|Kim B-j]]
+| RD2-score07-1= 19
+| RD2-score07-2= 6
+| RD2-score07-3=
+| RD2-seed08= 3
+| RD2-team08= '''{{flagicon|THA}} [[Kunlavut Vitidsarn|K Vitidsarn]]'''
+| RD2-score08-1= '''21'''
+| RD2-score08-2= '''21'''
+| RD2-score08-3=
+
+| RD3-seed01= 13
+| RD3-team01= {{flagicon|HKG}} [[Lee Cheuk Yiu|Lee C Y]]
+| RD3-score01-1= 19
+| RD3-score01-2= 9
+| RD3-score01-3=
+| RD3-seed02= 5
+| RD3-team02= '''{{flagicon|INA}} [[Jonatan Christie|J Christie]]'''
+| RD3-score02-1= '''21'''
+| RD3-score02-2= '''21'''
+| RD3-score02-3= 
+
+| RD3-seed03=
+| RD3-team03= {{flagicon|INA}} [[Alwi Farhan|A Farhan]]
+| RD3-score03-1= 18
+| RD3-score03-2= '''21'''
+| RD3-score03-3= 20
+| RD3-seed04= 3
+| RD3-team04= '''{{flagicon|THA}} [[Kunlavut Vitidsarn|K Vitidsarn]]'''
+| RD3-score04-1= '''21'''
+| RD3-score04-2= 18
+| RD3-score04-3= '''22'''
+
+| RD4-seed01= 5
+| RD4-team01= {{flagicon|INA}} [[Jonatan Christie|J Christie]]
+| RD4-score01-1=14
+| RD4-score01-2='''21'''
+| RD4-score01-3=8
+| RD4-seed02= 3
+| RD4-team02= '''{{flagicon|THA}} [[Kunlavut Vitidsarn|K Vitidsarn]]'''
+| RD4-score02-1='''21'''
+| RD4-score02-2=18
+| RD4-score02-3='''21'''
+}}
+
+==== Section 4 ====
+{{16TeamBracket-Tennis3
+| RD1=First round
+| RD2=Second round
+| RD3=Third round
+| RD4=Quarter-finals
+
+| team-width=150
+
+| RD1-seed1=
+| RD1-team1= '''{{flagicon|MAS}} [[Leong Jun Hao|Leong J H]]'''
+| RD1-score1-1= '''21'''
+| RD1-score1-2= '''21'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2= {{flagicon|SUI}} [[Tobias Künzi|T Künzi]]
+| RD1-score2-1= 12
+| RD1-score2-2= 14
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3= {{flagicon|TPE}} [[Wang Tzu-wei|Wang T-w]]
+| RD1-score3-1= 13
+| RD1-score3-2= 12
+| RD1-score3-3=
+| RD1-seed4= 14
+| RD1-team4= '''{{flagicon|JPN}} [[Kenta Nishimoto|K Nishimoto]]'''
+| RD1-score4-1= '''21'''
+| RD1-score4-2= '''21'''
+| RD1-score4-3=
+
+| RD1-seed05=
+| RD1-team05= {{flagicon|ESP}} [[Pablo Abián|P Abián]]
+| RD1-score05-1= 9
+| RD1-score05-2= '''21'''
+| RD1-score05-3= 12
+| RD1-seed06=
+| RD1-team06= '''{{flagicon|ENG}} [[Ethan Rose|E Rose]]'''
+| RD1-score06-1= '''21'''
+| RD1-score06-2= 17
+| RD1-score06-3= '''21'''
+
+| RD1-seed07=
+| RD1-team07= {{flagicon|CZE}} [[Jan Louda|J Louda]]
+| RD1-score07-1=
+| RD1-score07-2=
+| RD1-score07-3=
+| RD1-seed08= 6
+| RD1-team08= '''{{flagicon|TPE}} [[Chou Tien-chen|Chou T-c]]'''
+| RD1-score08-1=w
+| RD1-score08-2=/
+| RD1-score08-3=o
+
+| RD1-seed09=
+| RD1-team09= '''{{flagicon|SRI}} [[Viren Nettasinghe|V Nettasinghe]]'''
+| RD1-score09-1= '''21'''
+| RD1-score09-2= '''23'''
+| RD1-score09-3= 
+| RD1-seed10=
+| RD1-team10= {{flagicon|ISR}} [[Misha Zilberman|M Zilberman]]
+| RD1-score10-1= 11
+| RD1-score10-2= 21
+| RD1-score10-3= 
+
+| RD1-seed11=
+| RD1-team11= {{flagicon|INA}} [[Anthony Sinisuka Ginting|A S Ginting]]
+| RD1-score11-1= 18
+| RD1-score11-2= '''21'''
+| RD1-score11-3= 23
+| RD1-seed12= 15
+| RD1-team12= '''{{flagicon|FRA}} [[Toma Junior Popov|T J Popov]]'''
+| RD1-score12-1= '''21'''
+| RD1-score12-2= 19
+| RD1-score12-3= '''25'''
+
+| RD1-seed13=
+| RD1-team13= {{flagicon|FIN}} [[Joakim Oldorff|J Oldorff]]
+| RD1-score13-1= 18
+| RD1-score13-2= 15
+| RD1-score13-3=
+| RD1-seed14=
+| RD1-team14= '''{{flagicon|IND}} [[Prannoy H. S.]]'''
+| RD1-score14-1= '''21'''
+| RD1-score14-2= '''21'''
+| RD1-score14-3=
+
+| RD1-seed15=
+| RD1-team15= {{flagicon|BRA}} [[Jonathan Matias|J Matias]]
+| RD1-score15-1=15
+| RD1-score15-2=16
+| RD1-score15-3=
+| RD1-seed16= 2
+| RD1-team16= '''{{flagicon|DEN}} [[Anders Antonsen|A Antonsen]]'''
+| RD1-score16-1='''21'''
+| RD1-score16-2='''21'''
+| RD1-score16-3=
+
+| RD2-seed01=
+| RD2-team01= {{flagicon|MAS}} [[Leong Jun Hao|Leong J H]]
+| RD2-score01-1= '''21'''
+| RD2-score01-2= 13
+| RD2-score01-3= 23
+| RD2-seed02= 14
+| RD2-team02= '''{{flagicon|JPN}} [[Kenta Nishimoto|K Nishimoto]]'''
+| RD2-score02-1= 17
+| RD2-score02-2= '''21'''
+| RD2-score02-3= '''25'''
+
+| RD2-seed03=
+| RD2-team03= {{flagicon|ENG}} [[Ethan Rose|E Rose]]
+| RD2-score03-1=14
+| RD2-score03-2=12
+| RD2-score03-3=
+| RD2-seed04= 6
+| RD2-team04= '''{{flagicon|TPE}} [[Chou Tien-chen|Chou T-c]]'''
+| RD2-score04-1='''21'''
+| RD2-score04-2='''21'''
+| RD2-score04-3=
+
+| RD2-seed05=
+| RD2-team05= {{flagicon|SRI}} [[Viren Nettasinghe|V Nettasinghe]]
+| RD2-score05-1=17
+| RD2-score05-2=9
+| RD2-score05-3=
+| RD2-seed06= 15
+| RD2-team06= '''{{flagicon|FRA}} [[Toma Junior Popov|T J Popov]]'''
+| RD2-score06-1='''21'''
+| RD2-score06-2='''21'''
+| RD2-score06-3=
+
+| RD2-seed07=
+| RD2-team07= {{flagicon|IND}} [[Prannoy H. S.]]
+| RD2-score07-1=7
+| RD2-score07-2='''21'''
+| RD2-score07-3=21
+| RD2-seed08= 2
+| RD2-team08= '''{{flagicon|DEN}} [[Anders Antonsen|A Antonsen]]'''
+| RD2-score08-1='''21'''
+| RD2-score08-2=17
+| RD2-score08-3='''23'''
+
+| RD3-seed01= 14
+| RD3-team01= {{flagicon|JPN}} [[Kenta Nishimoto|K Nishimoto]]
+| RD3-score01-1='''21'''
+| RD3-score01-2=15
+| RD3-score01-3=13
+| RD3-seed02= 6
+| RD3-team02= '''{{flagicon|TPE}} [[Chou Tien-chen|Chou T-c]]'''
+| RD3-score02-1=16
+| RD3-score02-2='''21'''
+| RD3-score02-3='''21'''
+
+| RD3-seed03=15
+| RD3-team03={{flagicon|FRA}} [[Toma Junior Popov|T J Popov]]
+| RD3-score03-1=6
+| RD3-score03-2='''22'''
+| RD3-score03-3=19
+| RD3-seed04=2
+| RD3-team04='''{{flagicon|DEN}} [[Anders Antonsen|A Antonsen]]'''
+| RD3-score04-1='''21'''
+| RD3-score04-2=20
+| RD3-score04-3='''21'''
+
+| RD4-seed01= 6
+| RD4-team01= {{flagicon|TPE}} [[Chou Tien-chen|Chou T-c]]
+| RD4-score01-1= 17
+| RD4-score01-2= 21
+| RD4-score01-3=
+| RD4-seed02=2
+| RD4-team02='''{{flagicon|DEN}} [[Anders Antonsen|A Antonsen]]'''
+| RD4-score02-1= '''21'''
+| RD4-score02-2= '''23'''
+| RD4-score02-3=
+}}
+
+== Records ==
+* [[Victor Lai]] made history by becoming the first Canadian to win a medal in any discipline after defeating former champion [[Loh Kean Yew]].<ref>{{cite news |url=https://www.olympics.com/en/news/bwf-world-championships-2025-loh-kean-yew-quarter-finals-victor-lai-medal-results |title=BWF World Championships 2025: Loh Kean Yew exits in quarter-finals shock against Victor Lai |publisher=[[Olympics]] |last=Goh |first=Z. K. |date=29 August 2025 |access-date=29 August 2025}}</ref><ref>{{cite news |url=https://bwfworldchampionships.bwfbadminton.com/news-single/2025/08/29/victor-lai-makes-history-for-canada/ | title=Victor Lai Makes History for Canada |first=Dev |last=Sukumar |date=29 August 2025 |publisher=[[Badminton World Federation]]}}</ref>
+
+== Qualifiers' performances ==
+The table below lists out all the qualifiers of this edition by 26 July 2025.
+{| class="sortable wikitable" style="font-size:90%; text-align:center"
+|-
+! rowspan="2" width="175" | Qualifier
+! rowspan="2" width="175" | Date of birth
+! rowspan="2" width="50" | Appearance
+! colspan="2" | Best Performance(s)
+! rowspan="2" width="200" | Note
+|-
+! width="100" | Edition(s)
+! width="50" | Result
+|-
+! colspan="6" | Champion
+|-
+| align="left" | {{flagicon|CHN}} '''[[Shi Yuqi]]'''
+| align="right" | {{birth date and age2|2025|08|26|1996|02|28|df=y}}
+| 5th
+| [[2018 BWF World Championships – Men's singles|18]]
+| bgcolor="#C0C0C0" | '''S'''
+| align="left" | 15th Chinese men's singles gold medal, breaking 8-year drought, {{tooltip|PB|Personal best}}
+|-
+! colspan="6" | Finalist
+|-
+| align="left" | {{flagicon|THA}} '''[[Kunlavut Vitidsarn]]'''
+| align="right" | {{birth date and age2|2025|08|26|2001|05|11|df=y}}
+| 4th
+| [[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#FFD700" | '''G'''
+| align="left" | Three consecutive WC finals (out of four), four including Olympics (out of five)
+|-
+! colspan="6" | Semi-finalist
+|-
+| align="left" | {{flagicon|CAN}} [[Victor Lai]]
+| align="right" | {{birth date and age2|2025|08|26|2004|12|19|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | First Canadian WC Medalist, {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|DEN}} '''[[Anders Antonsen]]'''
+| align="right" | {{birth date and age2|2025|08|26|1997|04|27|df=y}}
+| 7th
+| [[2019 BWF World Championships – Men's singles|19]]
+| bgcolor="#C0C0C0" | '''S'''
+| align="left" |
+|-
+! colspan="6" | Quarter-finalist
+|-
+| align="left" | {{flagicon|CHN}} '''[[Weng Hongyang]]'''
+| align="right" | {{birth date and age2|2025|08|26|1999|06|18|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|SGP}} '''[[Loh Kean Yew]]'''
+| align="right" | {{birth date and age2|2025|08|26|1997|06|26|df=y}}
+| 5th
+| [[2021 BWF World Championships – Men's singles|21]]
+| bgcolor="#FFD700" | '''G'''
+| align="left" |
+|-
+| align="left" | {{flagicon|INA}} '''[[Jonatan Christie]]'''
+| align="right" | {{birth date and age2|2025|08|26|1997|09|15|df=y}}
+| 6th
+| [[2019 BWF World Championships – Men's singles|19]],[[2022 BWF World Championships – Men's singles|22]]
+| bgcolor="#FFEBCD" | QF
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|TPE}} '''[[Chou Tien-chen]]'''
+| align="right" | {{birth date and age2|2025|08|26|1990|01|08|df=y}}
+| 10th
+| [[2022 BWF World Championships – Men's singles|22]]
+| bgcolor="#B8860B" | '''B'''
+| align="left" |
+|-
+! colspan="6" | Third rounder
+|-
+| align="left" | '''{{flagicon|FRA}} [[Christo Popov]]'''
+| align="right" | {{birth date and age2|2025|08|26|2002|03|08|df=y}}
+| 2nd
+| [[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#AFEEEE" | 2R  
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | '''{{flagicon|FRA}} [[Alex Lanier]]'''
+| align="right" | {{birth date and age2|2025|08|26|2005|01|26|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|KOR}} [[Jeon Hyeok-jin]]
+| align="right" | {{birth date and age2|2025|08|26|1995|06|13|df=y}}
+| 2nd
+| [[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#AFEEEE" | 2R  
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | '''{{flagicon|JPN}} [[Kodai Naraoka]]'''
+| align="right" | {{birth date and age2|2025|08|26|2001|06|30|df=y}}
+| 3rd
+| [[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#C0C0C0" | '''S'''
+| align="left" |
+|-
+| align="left" | '''{{flagicon|HKG}} [[Lee Cheuk Yiu]]'''
+| align="right" | {{birth date and age2|2025|08|26|1996|08|28|df=y}}
+| 5th
+| [[2021 BWF World Championships – Men's singles|21]],[[2022 BWF World Championships – Men's singles|22]],[[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#AFEEEE" | 3R  
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|INA}} [[Alwi Farhan]]
+| align="right" | {{birth date and age2|2025|08|26|2005|05|12|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | Youngest qualifier, {{tooltip|PB|Personal best}}
+|-
+| align="left" | '''{{flagicon|JPN}} [[Kenta Nishimoto]]'''
+| align="right" | {{birth date and age2|2025|08|26|1994|08|30|df=y}}
+| 6th
+| [[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#FFEBCD" | QF
+| align="left" |
+|-
+| align="left" | '''{{flagicon|FRA}} [[Toma Junior Popov]]'''
+| align="right" | {{birth date and age2|2025|08|26|1998|09|29|df=y}}
+| 3th
+| [[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#AFEEEE" | 2R  
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+! colspan="6" | Second rounder
+|-
+| align="left" | {{flagicon|BEL}} [[Julien Carraggi]]
+| align="right" | {{birth date and age2|2025|08|26|2000|06|02|df=y}}
+| 3rd
+| [[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#AFEEEE" | 2R  
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|HKG}} [[Ng Ka Long]]
+| align="right" | {{birth date and age2|2025|08|26|1994|06|24|df=y}}
+| 8th
+| [[2017 BWF World Championships – Men's singles|17]],[[2018 BWF World Championships – Men's singles|18]],[[2019 BWF World Championships – Men's singles|19]],[[2022 BWF World Championships – Men's singles|22]],[[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#AFEEEE" | 3R  
+| align="left" |
+|-
+| align="left" | {{flagicon|CRO}} [[Aria Dinata]]
+| align="right" | {{birth date and age2|2025|08|26|2003|07|12|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|TPE}} [[Lee Chia-hao]]
+| align="right" | {{birth date and age2|2025|08|26|1999|06|04|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|JPN}} [[Yushi Tanaka]]
+| align="right" | {{birth date and age2|2025|08|26|1999|10|05|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | '''{{flagicon|CHN}} [[Lu Guangzu]]'''
+| align="right" | {{birth date and age2|2025|08|26|1999|10|05|df=y}}
+| 5th
+| [[2021 BWF World Championships – Men's singles|21]]
+| bgcolor="#AFEEEE" | 3R  
+| align="left" |
+|-
+| align="left" | {{flagicon|IRL}} [[Nhat Nguyen]]
+| align="right" | {{birth date and age2|2025|08|26|2000|06|16|df=y}}
+| 6th
+| [[2021 BWF World Championships – Men's singles|21]]
+| bgcolor="#AFEEEE" | 3R  
+| align="left" |
+|-
+| align="left" | {{flagicon|FIN}} [[Kalle Koljonen]]
+| align="right" | {{birth date and age2|2025|08|26|1994|02|26|df=y}}
+| 7th
+| [[2021 BWF World Championships – Men's singles|21]]
+| bgcolor="#AFEEEE" | 2R   
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|GER}} [[Fabian Roth]]
+| align="right" | {{birth date and age2|2025|08|26|1995|11|29|df=y}}
+| 2nd
+| [[2017 BWF World Championships – Men's singles|17]]
+| bgcolor="#AFEEEE" | 1R 
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|AZE}} [[Ade Resky Dwicahyo]]
+| align="right" | {{birth date and age2|2025|08|26|1998|05|13|df=y}}
+| 4th
+| [[2021 BWF World Championships – Men's singles|21]],[[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#AFEEEE" | 2R 
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+| align="left" | '''{{flagicon|TPE}} [[Lin Chun-yi (badminton)|Lin Chun-yi]]'''
+| align="right" | {{birth date and age2|2025|08|26|1999|10|02|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|KOR}} [[Kim Byung-jae]]
+| align="right" | {{birth date and age2|2025|08|26|2004|04|04|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|MAS}} [[Leong Jun Hao]]
+| align="right" | {{birth date and age2|2025|08|26|1999|07|13|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|ENG}} [[Ethan Rose]]
+| align="right" | {{birth date and age2|2025|08|26|2003|01|01|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|SRI}} [[Viren Nettasinghe]]
+| align="right" | {{birth date and age2|2025|08|26|2003|06|17|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|IND}} [[Prannoy H. S.]]
+| align="right" | {{birth date and age2|2025|08|26|1992|07|17|df=y}}
+| 7th
+| [[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#B8860B" | '''B'''
+| align="left" |
+|-
+! colspan="6" | First rounder
+|-
+| align="left" | {{flagicon|IND}} [[Lakshya Sen]]
+| align="right" | {{birth date and age2|2025|08|26|2001|08|16|df=y}}
+| 4th
+| [[2021 BWF World Championships – Men's singles|21]]
+| bgcolor="#B8860B" | '''B'''
+| align="left" |
+|-
+| align="left" | {{flagicon|VIE}} [[Lê Đức Phát]]
+| align="right" | {{birth date and age2|2025|08|26|1998|02|01|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|MAC}} [[Pui Pang Fong]]
+| align="right" | {{birth date and age2|2025|08|26|2000|03|13|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|AUT}} [[Collins Filimon]]
+| align="right" | {{birth date and age2|2025|08|26|1998|02|14|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|THA}} [[Kantaphon Wangcharoen]]
+| align="right" | {{birth date and age2|2025|08|26|1998|09|18|df=y}}
+| 5th
+| [[2019 BWF World Championships – Men's singles|19]]
+| bgcolor="#B8860B" | '''B'''
+| align="left" |
+|-
+| align="left" | {{flagicon|AZE}} [[Dicky Dwi Pangestu]]
+| align="right" | {{birth date and age2|2025|08|26|2004|05|08|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|AUS}} [[Jack Yu]]
+| align="right" | {{birth date and age2|2025|08|26|2004|09|13|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | [[2025 Oceania Badminton Championships|Reigning Oceanian champion]], {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|ITA}} [[Giovanni Toti (badminton)|Giovanni Toti]]
+| align="right" | {{birth date and age2|2025|08|26|2000|12|28|df=y}}
+| 2nd
+| [[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#AFEEEE" | 1R 
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+| align="left" | '''{{flagicon|CHN}} [[Li Shifeng]]'''
+| align="right" | {{birth date and age2|2025|08|26|2000|01|09|df=y}}
+| 3rd
+| [[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#AFEEEE" | 2R 
+| align="left" | 
+|-
+| align="left" | {{flagicon|MAS}} [[Lee Zii Jia]]
+| align="right" | {{birth date and age2|2025|08|26|1998|03|29|df=y}}
+| 5th
+| [[2019 BWF World Championships – Men's singles|19]], [[2021 BWF World Championships – Men's singles|21]]
+| bgcolor="#FFEBCD" | QF
+| align="left" |
+|-
+| align="left" | {{flagicon|SGP}} [[Jason Teh]]
+| align="right" | {{birth date and age2|2025|08|26|2000|08|25|df=y}}
+| 3rd
+| [[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#AFEEEE" | 2R  
+| align="left" |
+|-
+| align="left" | {{flagicon|NZL}} [[Edward Lau]]
+| align="right" | {{birth date and age2|2025|08|26|2001|02|22|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|SRI}} [[Dumindu Abeywickrama]]
+| align="right" | {{birth date and age2|2025|08|26|2003|03|05|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|CAN}} [[Brian Yang (badminton)|Brian Yang]]
+| align="right" | {{birth date and age2|2025|08|26|2001|09|25|df=y}}
+| 3rd
+| [[2021 BWF World Championships – Men's singles|21]]
+| bgcolor="#AFEEEE" | 3R 
+| align="left" |
+|-
+| align="left" | {{flagicon|MRI}} [[Julien Paul]]
+| align="right" | {{birth date and age2|2025|08|26|1996|01|07|df=y}}
+| 6th
+| [[2022 BWF World Championships – Men's singles|22]]
+| bgcolor="#AFEEEE" | 2R 
+| align="left" |
+|-
+| align="left" | {{flagicon|ENG}} [[Harry Huang]]
+| align="right" | {{birth date and age2|2025|08|26|2001|08|25|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|BRA}} [[Ygor Coelho]]
+| align="right" | {{birth date and age2|2025|08|26|1996|11|24|df=y}}
+| 7th
+| [[2018 BWF World Championships – Men's singles|18]]
+| bgcolor="#AFEEEE" | 3R 
+| align="left" |
+|-
+| align="left" | {{flagicon|SWE}} [[Gustav Björkler]]
+| align="right" | {{birth date and age2|2025|08|26|2002|03|29|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|JPN}} [[Koki Watanabe]]
+| align="right" | {{birth date and age2|2025|08|26|1999|01|29|df=y}}
+| 2nd
+| [[2021 BWF World Championships – Men's singles|21]]
+| bgcolor="#AFEEEE" | 2R 
+| align="left" |
+|-
+| align="left" | {{flagicon|GER}} [[Matthias Kicklitz]]
+| align="right" | {{birth date and age2|2025|08|26|2002|04|05|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|VIE}} [[Nguyen Hai Đang]]
+| align="right" | {{birth date and age2|2025|08|26|2000|09|24|df=y}}
+| 2nd
+| [[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#AFEEEE" | 1R 
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|DEN}} [[Rasmus Gemke]]
+| align="right" | {{birth date and age2|2025|08|26|1997|01|11|df=y}}
+| 5th
+| [[2021 BWF World Championships – Men's singles|21]]
+| bgcolor="#AFEEEE" | 3R 
+| align="left" |
+|-
+| align="left" | {{flagicon|PER}} [[Adriano Viale]]
+| align="right" | {{birth date and age2|2025|08|26|2004|09|01|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|ESA}} [[Uriel Canjura]]
+| align="right" | {{birth date and age2|2025|08|26|2000|09|12|df=y}}
+| 2nd
+| [[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#AFEEEE" | 2R 
+| align="left" |
+|-
+| align="left" | {{flagicon|SUI}} [[Tobias Kuenzi]]
+| align="right" | {{birth date and age2|2025|08|26|1998|02|18|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|TPE}} [[Wang Tzu-wei]]
+| align="right" | {{birth date and age2|2025|08|26|1995|02|27|df=y}}
+| 6th
+| [[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#FFEBCD" | QF
+| align="left" |
+|-
+| align="left" | {{flagicon|ESP}} [[Pablo Abián]]
+| align="right" | {{birth date and age2|2025|08|26|1985|06|12|df=y}}
+| 14th
+| [[2011 BWF World Championships – Men's singles|11]],[[2013 BWF World Championships – Men's singles|13]]
+| bgcolor="#AFEEEE" | 3R
+| align="left" |Oldest and most participated qualifier
+|-
+| align="left" | {{flagicon|ISR}} [[Misha Zilberman]]
+| align="right" | {{birth date and age2|2025|08|26|1989|01|30|df=y}}
+| 13th
+| [[2010 BWF World Championships – Men's singles|10]],[[2018 BWF World Championships – Men's singles|18]],[[2019 BWF World Championships – Men's singles|19]]
+| bgcolor="#AFEEEE" | 3R
+| align="left" |
+|-
+| align="left" | {{flagicon|INA}} [[Anthony Sinisuka Ginting]]
+| align="right" | {{birth date and age2|2025|08|26|1996|10|20|df=y}}
+| 5th
+| [[2022 BWF World Championships – Men's singles|22]]
+| bgcolor="#FFEBCD" | QF
+| align="left" |
+|-
+| align="left" | {{flagicon|FIN}} [[Joakim Oldorff]]
+| align="right" | {{birth date and age2|2025|08|26|2002|12|14|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|BRA}} [[Jonathan Matias]]
+| align="right" | {{birth date and age2|2025|08|26|2000|02|10|df=y}}
+| 2nd
+| [[2023 BWF World Championships – Men's singles|23]]
+| bgcolor="#AFEEEE" | 1R
+| align="left" | ={{tooltip|PB|Personal best}}
+|-
+! colspan="6" | Withdrew
+|-
+| align="left" | {{flagicon|CZE}} [[Jan Louda]]
+| align="right" | {{birth date and age2|2025|08|26|1999|04|25|df=y}}
+| 3rd
+| [[2022 BWF World Championships – Men's singles|22]]
+| bgcolor="#AFEEEE" | 2R 
+| align="left" | 
+|}
+
+== References ==
+{{Reflist}}
+* [https://bwfworldchampionships.bwfbadminton.com/results/5261/totalenergies-bwf-world-championships-2025/ bwfbadminton.com]
+* [https://www.badmintonparis2025.com/ badmintonparis2025.com]
+
+[[Category:2025 BWF World Championships]]
+{{DEFAULTSORT:2025 BWF World Championships - Men's singles}}

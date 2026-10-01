@@ -1,0 +1,145 @@
+{{col-2}}
+{{seeds|9|2}} {{flagicon|SIN}} [[Loh Kean Yew]] ''(quarter-finals)''
+{{seeds|10|1}} {{flagicon|FRA}} [[Christo Popov]] ''(third round)''
+{{seeds|16|1}} {{flagicon|CHN}} [[Weng Hongyang]] ''(quarter-finals)''
+{{col-end}}
+{{seeds explanation}}
+
+== Draw ==
+=== Finals ===
+{{4TeamBracket-Tennis3
+| RD-shade=#A8D3FF
+| RD1=Semi-finals
+| RD2=Final
+
+| team-width=150
+
+| RD1-seed1= 1
+| RD1-team1= '''{{flagicon|CHN}} [[Shi Yuqi]]'''
+| RD1-score1-1=13
+| RD1-score1-2='''22'''
+| RD1-score1-3='''21'''
+| RD1-seed2= &nbsp;
+| RD1-team2= {{flagicon|CAN}} [[Victor Lai]]
+| RD1-score2-1='''21'''
+| RD1-score2-2=20
+| RD1-score2-3=16
+
+| RD1-seed3= 3
+| RD1-team3='''{{flagicon|THA}} [[Kunlavut Vitidsarn]]'''
+| RD1-score3-1='''21'''
+| RD1-score3-2='''21'''
+| RD1-score3-3=
+| RD1-seed4= 2
+| RD1-team4= {{flagicon|DEN}} [[Anders Antonsen]]
+| RD1-score4-1=17
+| RD1-score4-2=15
+| RD1-score4-3=
+
+| RD2-seed1= 1
+| RD2-team1= '''{{flagicon|CHN}} [[Shi Yuqi]]'''
+| RD2-score1-1= 19
+| RD2-score1-2= '''21'''
+| RD2-score1-3= '''21'''
+| RD2-seed2= 3
+| RD2-team2= {{flagicon|THA}} [[Kunlavut Vitidsarn]]
+| RD2-score2-1= '''21'''
+| RD2-score2-2= 10
+| RD2-score2-3= 18
+}}
+
+=== Top half ===
+==== Section 1 ====
+{{16TeamBracket-Tennis3
+| RD1=First round
+| RD2=Second round
+| RD3=Third round
+| RD4=Quarter-finals
+
+| team-width=150
+
+| RD1-seed1= 1
+| RD1-team1= '''{{flagicon|CHN}} [[Shi Yuqi|Shi YQ]]'''
+| RD1-score1-1= '''21'''
+| RD1-score1-2= '''21'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2= {{flagicon|IND}} [[Lakshya Sen|L Sen]]
+| RD1-score2-1= 17
+| RD1-score2-2= 19
+| RD1-score2-3=
+
+| RD1-seed3=
+| RD1-team3= {{flagicon|VIE}} [[Lê Đức Phát|Lê Đ P]]
+| RD1-score3-1= 20
+| RD1-score3-2= '''21'''
+| RD1-score3-3= 9
+| RD1-seed4=
+| RD1-team4= '''{{flagicon|BEL}} [[Julien Carraggi|J Carraggi]]'''
+| RD1-score4-1= '''22'''
+| RD1-score4-2= 16
+| RD1-score4-3= '''21'''
+
+| RD1-seed05= 10
+| RD1-team05= '''{{flagicon|FRA}} [[Christo Popov|C Popov]]'''
+| RD1-score05-1= '''21'''
+| RD1-score05-2= '''21'''
+| RD1-score05-3=
+| RD1-seed06=
+| RD1-team06= {{flagicon|MAC}} [[Pui Pang Fong|Pui P F]]
+| RD1-score06-1= 15
+| RD1-score06-2= 16
+| RD1-score06-3=
+
+| RD1-seed07=
+| RD1-team07= '''{{flagicon|HKG}} [[Ng Ka Long|Ng K L]]'''
+| RD1-score07-1= 16
+| RD1-score07-2= '''21'''
+| RD1-score07-3= '''21'''
+| RD1-seed08=
+| RD1-team08= {{flagicon|AUT}} [[Collins Valentine Filimon|C V Filimon]]
+| RD1-score08-1= '''21'''
+| RD1-score08-2= 15
+| RD1-score08-3= 7
+
+| RD1-seed09= 7
+| RD1-team09= '''{{flagicon|FRA}} [[Alex Lanier|A Lanier]]'''
+| RD1-score09-1= '''21'''
+| RD1-score09-2= '''22'''
+| RD1-score09-3=
+| RD1-seed10=
+| RD1-team10= {{flagicon|THA}} [[Kantaphon Wangcharoen|K Wangcharoen]]
+| RD1-score10-1= 10
+| RD1-score10-2= 20
+| RD1-score10-3=
+
+| RD1-seed11=
+| RD1-team11= {{flagicon|AZE}} [[Dicky Dwi Pangestu|D D Pangestu]]
+| RD1-score11-1= 16
+| RD1-score11-2= '''21'''
+| RD1-score11-3= 14
+}}
+
+==== Section 2 (SYNTHETIC test cases, not real data) ====
+{{16TeamBracket-Tennis3
+| RD1=First round
+| RD4=Quarter-finals
+| RD1-seed1= 5
+| RD1-team1= '''{{flagicon|JPN}} [[Kodai Naraoka]]'''
+| RD1-score1-1= 21
+| RD1-score1-2= 8
+| RD1-score1-3= Ret.
+| RD1-seed2=
+| RD1-team2= {{flagicon|GER}} [[Max Weißkirchen]]
+| RD1-score2-1= 15
+| RD1-score2-2= 21
+| RD1-score2-3=
+| RD1-seed3= 
+| RD1-team3= {{flagicon|MAS}} [[Lee Zii Jia]]
+| RD1-score3-1= w/o
+| RD1-seed4= 
+| RD1-team4= '''{{flagicon|IND}} [[Kidambi Srikanth|K Srikanth]]'''
+| RD1-score4-1=
+| RD1-team5= {{flagicon|CHN}} [[Player Bye]]
+| RD1-team6= Bye
+}}

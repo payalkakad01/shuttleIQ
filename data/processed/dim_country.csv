@@ -1,0 +1,69 @@
+﻿country_key,ioc_code,country_name,continent
+1,CHN,China,Asia
+2,JPN,Japan,Asia
+3,KOR,South Korea,Asia
+4,INA,Indonesia,Asia
+5,MAS,Malaysia,Asia
+6,THA,Thailand,Asia
+7,IND,India,Asia
+8,TPE,Chinese Taipei,Asia
+9,HKG,Hong Kong,Asia
+10,SIN,Singapore,Asia
+11,VIE,Vietnam,Asia
+12,PHI,Philippines,Asia
+13,MAC,Macau,Asia
+14,SRI,Sri Lanka,Asia
+15,PAK,Pakistan,Asia
+16,NEP,Nepal,Asia
+17,KAZ,Kazakhstan,Asia
+18,UAE,United Arab Emirates,Asia
+19,AZE,Azerbaijan,Europe
+20,DEN,Denmark,Europe
+21,FRA,France,Europe
+22,GER,Germany,Europe
+23,ENG,England,Europe
+24,SCO,Scotland,Europe
+25,WAL,Wales,Europe
+26,NED,Netherlands,Europe
+27,ESP,Spain,Europe
+28,ITA,Italy,Europe
+29,BUL,Bulgaria,Europe
+30,UKR,Ukraine,Europe
+31,IRL,Ireland,Europe
+32,SUI,Switzerland,Europe
+33,POL,Poland,Europe
+34,CZE,Czech Republic,Europe
+35,TUR,Turkey,Europe
+36,AUT,Austria,Europe
+37,BEL,Belgium,Europe
+38,SWE,Sweden,Europe
+39,FIN,Finland,Europe
+40,NOR,Norway,Europe
+41,EST,Estonia,Europe
+42,LTU,Lithuania,Europe
+43,LAT,Latvia,Europe
+44,POR,Portugal,Europe
+45,SLO,Slovenia,Europe
+46,CRO,Croatia,Europe
+47,HUN,Hungary,Europe
+48,ISL,Iceland,Europe
+49,CAN,Canada,North America
+50,USA,United States,North America
+51,MEX,Mexico,North America
+52,GUA,Guatemala,North America
+53,BRA,Brazil,South America
+54,PER,Peru,South America
+55,AUS,Australia,Oceania
+56,NZL,New Zealand,Oceania
+57,EGY,Egypt,Africa
+58,RSA,South Africa,Africa
+59,UGA,Uganda,Africa
+60,NGR,Nigeria,Africa
+61,ALG,Algeria,Africa
+62,MRI,Mauritius,Africa
+63,ESA,El Salvador,North America
+64,ISR,Israel,Asia
+65,SRB,Serbia,Europe
+66,MYA,Myanmar,Asia
+67,AIN,Individual Neutral Athletes,Neutral
+68,UNK,Unknown,Unknown

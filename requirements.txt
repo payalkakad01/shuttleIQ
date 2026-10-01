@@ -1,0 +1,6 @@
+selenium>=4.25
+pandas
+sqlalchemy
+pymysql
+cryptography
+python-dateutil

@@ -1,0 +1,6 @@
+﻿event_key,event_code,event_name,discipline,gender_category
+1,MS,Men's singles,Singles,Men
+2,WS,Women's singles,Singles,Women
+3,MD,Men's doubles,Doubles,Men
+4,WD,Women's doubles,Doubles,Women
+5,XD,Mixed doubles,Doubles,Mixed

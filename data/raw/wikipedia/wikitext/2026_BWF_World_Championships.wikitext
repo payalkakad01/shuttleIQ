@@ -1,0 +1,1050 @@
+{{short description|2026 badminton tournament in India}}
+{{Use dmy dates|date=July 2022}}
+{{Use Indian English|date=July 2022}}
+{{for|the World Para-Badminton Championships organsied by Badminton World Federation|2026 BWF Para-Badminton World Championships}} 
+{{Infobox badminton event
+|name           = 2026 BWF World Championships
+|image          = 2026 BWF World Championships logo.png
+|image_size     = 175px
+|caption        =
+|dates          = 17 – 23 August 2026
+|number_edition = 30th
+|level          = 1
+|prize_money    =
+|other          =
+|competitors    = 
+|nations        = 
+|venue          = [[Indira Gandhi Arena]] 
+|location       = New Delhi, India
+|website        = [https://bwfbadminton.com/tournament/5601/bwf-world-championships-2026/info Tournament link] at bwfbadminton.com
+|previous       = [[2025 BWF World Championships|2025 Paris]]
+|next           = ''[[2027 BWF World Championships|2027 TBC]]''
+}}
+
+The '''2026 BWF World Championships''' is the 30th edition of the [[BWF World Championships|world badminton championships]]. It took place in [[New Delhi]], India in 2026. India hosted the [[BWF World Championships|World Championships]] for the first time since [[2009 BWF World Championships|2009]].
+
+== Host selection ==
+The host nation India was originally supposed to hold the [[Sudirman Cup]] in 2023,<ref>{{cite web |title=BWF Major Event Hosts 2019-2025 Awarded |url=https://corporate.bwfbadminton.com/news-single/2018/11/29/bwf-major-event-hosts-2019-2025-awarded |publisher=[[Badminton World Federation]] |date=29 November 2018|accessdate=9 September 2019}}</ref> however due to all events in China getting cancelled in 2021, the Sudirman Cup was moved to [[Vantaa]] in Finland with the 2023 Sudirman Cup going to [[Suzhou]], China. India thereby was selected as the hosts of the 2026 World Championships due to the transfer of the hosting rights of 2023 Sudirman Cup.<ref>{{Cite web|title=India to host badminton world championships in 2026, lose 2023 Sudirman Cup|url=https://olympics.com/en/news/india-host-badminton-world-championship-2026|access-date=14 July 2021|date=13 July 2021| publisher=[[International Olympic Committee]]}}</ref>  [[New Delhi]] was announced to be the host city after the [[2025 BWF World Championships]] at [[Paris]].<ref>{{Cite web |last= Nalwala |first= Ali Asgar |title=New Delhi to host BWF World Championships 2026 as badminton showpiece returns to India after 17 years |url=https://www.olympics.com/en/news/badminton-world-championships-2026-india-new-delhi-host |access-date=7 October 2025 |date=2 September 2025 |publisher=International Olympic Committee}}</ref>
+
+== Competition schedule ==
+The tournament lasts over 7 days.
+
+{|class="wikitable" style="margin:0.5em auto; font-size:90%; text-align:center"
+|-
+| bgcolor="#AFEEEE" | #R || Preliminary rounds
+| bgcolor="#FFEBCD" | QF || Quarter-finals
+| bgcolor="#FFFF00" | SF || Semi-finals
+| bgcolor="#D8BFD8" | F || Finals
+|}
+{| class="wikitable" style="margin:0.5em auto; font-size:90%; text-align:center"
+|-
+! Date || rowspan="2" | 17 Aug || colspan="2" rowspan="2" | 18 Aug || rowspan="2" | 19 Aug || rowspan="2" | 20 Aug || rowspan="2" | 21 Aug || rowspan="2" | 22 Aug || rowspan="2" | 23 Aug
+|-
+! Event
+|-
+| align="left" | [[2026 BWF World Championships – Men's singles|Men's singles]]
+| colspan="3" bgcolor="#AFEEEE" | 1R
+| bgcolor="#AFEEEE" | 2R
+| bgcolor="#AFEEEE" | 3R
+| bgcolor="#FFEBCD" | QF
+| bgcolor="#FFFF00" | SF
+| bgcolor="#D8BFD8" | F
+|-
+| align="left" | [[2026 BWF World Championships – Women's singles|Women's singles]]
+| colspan="2" bgcolor="#AFEEEE" | 1R
+| colspan="2" bgcolor="#AFEEEE" | 2R
+|  bgcolor="#AFEEEE" | 3R
+| bgcolor="#FFEBCD" | QF
+| bgcolor="#FFFF00" | SF
+| bgcolor="#D8BFD8" | F
+|-
+| align="left" | [[2026 BWF World Championships – Men's doubles|Men's doubles]]
+| bgcolor="#AFEEEE" | 1R
+| colspan="3" bgcolor="#AFEEEE" | 2R
+| bgcolor="#AFEEEE" | 3R
+| bgcolor="#FFEBCD" | QF
+| bgcolor="#FFFF00" | SF
+| bgcolor="#D8BFD8" | F
+|-
+| align="left" | [[2026 BWF World Championships – Women's doubles|Women's doubles]]
+| bgcolor="#AFEEEE" | 1R
+| colspan="3" bgcolor="#AFEEEE" | 2R
+| bgcolor="#AFEEEE" | 3R
+| bgcolor="#FFEBCD" | QF
+| bgcolor="#FFFF00" | SF
+| bgcolor="#D8BFD8" | F
+|-
+| align="left" | [[2026 BWF World Championships – Mixed doubles|Mixed doubles]]
+|
+| bgcolor="#AFEEEE" | 1R
+| colspan="2" bgcolor="#AFEEEE" | 2R
+| bgcolor="#AFEEEE" | 3R
+| bgcolor="#FFEBCD" | QF
+| bgcolor="#FFFF00" | SF
+| bgcolor="#D8BFD8" | F
+|}
+
+== Point distribution ==
+Below is the tables with the point distribution for each phase of the tournament based on the [[BWF World Ranking|BWF points system]] for the World Championships event.<ref>{{cite web |title=World Championship Ranking System |url=https://corporate.bwfbadminton.com/statutes/#1513733528967-47d667b6-0737|publisher=[[Badminton World Federation]]}}</ref>
+{| class="wikitable" style="text-align:center"
+|-
+! width="75" | Winner
+! width="75" | Runner-up
+! width="75" | 3/4
+! width="75" | 5/8
+! width="75" | 9/16
+! width="75" | 17/32
+! width="75" | 33/64
+|-
+| 14,500 || 12,500 || 10,500 || 8,200 || 6,000 || 3,700 || 1,450
+|}
+== Medal summary ==
+=== Medal table ===
+{{Medals table
+ | caption        = 2026 BWF World Championships medal table
+ | host           = IND
+ | flag_template  = bd
+ | event          = 
+ | team           = 
+ | gold_CAN = |silver_CAN = |bronze_CAN = 1 
+ | gold_CHN = 1 |silver_CHN = 2 |bronze_CHN = 3
+ | gold_TPE = |silver_TPE = |bronze_TPE = 2
+ | gold_FRA = 2 |silver_FRA =  |bronze_FRA = 
+ | gold_IND = |silver_IND = |bronze_IND = 1 |host_IND = yes
+ | gold_INA = |silver_INA = |bronze_INA = 1
+ | gold_JPN = |silver_JPN = 2 |bronze_JPN =
+ | gold_MAS = |silver_MAS = 1 |bronze_MAS = 
+ | gold_KOR = 2 |silver_KOR = |bronze_KOR = 1
+ | gold_THA = |silver_THA = |bronze_THA = 1 
+}}
+
+=== Medalists ===
+{| {{MedalistTable|type=Events}}
+|-
+| rowspan="2" | Men's singles<br>{{DetailsLink|2026 BWF World Championships – Men's singles}}
+| rowspan="2" | {{flagmedalist|[[Alex Lanier]]|FRA}}  
+| rowspan="2" | {{flagmedalist|[[Kodai Naraoka]]|JPN}}
+| {{flagmedalist|[[Chou Tien-chen]]|TPE}}
+|-
+| {{flagmedalist|[[Victor Lai]]|CAN}}
+|-
+| rowspan="2" | Women's singles<br>{{DetailsLink|2026 BWF World Championships – Women's singles}}
+| rowspan="2" | {{flagmedalist|[[An Se-young]]|KOR}}
+| rowspan="2" | {{flagmedalist|[[Akane Yamaguchi]]|JPN}}
+| {{flagmedalist|[[Wang Zhiyi]]|CHN}}
+|-
+| {{flagmedalist|[[Pornpawee Chochuwong]]|THA}}
+|-
+| rowspan="2" | Men's doubles<br>{{DetailsLink|2026 BWF World Championships – Men's doubles}}
+| rowspan="2" | {{flagcountry|CHN}} <br/>[[Liang Weikeng]] <br />[[Wang Chang (badminton)|Wang Chang]]
+| rowspan="2" | {{flagcountry|MAS}}<br/> [[Aaron Chia]]<br/>[[Soh Wooi Yik]]
+| {{flagcountry|KOR}}<br/>[[Kim Won-ho]]<br />[[Seo Seung-jae]] 
+|-
+| {{flagcountry|TPE}}<br/>[[Lee Jhe-huei]]<br/>[[Yang Po-hsuan]]
+|-
+| rowspan="2" | Women's doubles<br>{{DetailsLink|2026 BWF World Championships – Women's doubles}}
+| rowspan="2" | {{flagcountry|KOR}} <br/>[[Baek Ha-na]]<br/> [[Lee So-hee]]
+| rowspan="2" | {{flagcountry|CHN}} <br/>[[Liu Shengshu]]<br/> [[Tan Ning (badminton)|Tan Ning]]
+| {{flagcountry|IND}}<br/>[[Treesa Jolly]]<br/>[[Gayatri Gopichand]]
+|-
+| {{flagcountry|CHN}}<br/>[[Li Yijing]]<br/>[[Luo Xumin]]
+|-
+| rowspan="2" | Mixed doubles<br>{{DetailsLink|2026 BWF World Championships – Mixed doubles}}
+| rowspan="2" | {{flagcountry|FRA}} <br/> [[Thom Gicquel]] <br /> [[Delphine Delrue]] 
+| rowspan="2" | {{flagcountry|CHN}} <br/> [[Feng Yanzhe]] <br /> [[Huang Dongping]] 
+| {{flagcountry|INA}} <br/> [[Amri Syahnawi]]<br/>[[Nita Violina Marwah]]
+|-
+| {{flagcountry|CHN}} <br/> [[Jiang Zhenbang]] <br/> [[Wei Yaxin]]
+|-
+|}France achieved its most successful World Championships in the tournament's history, winning two gold medals. Alex Lanier became the first French player to win a men's singles world title, while Thom Gicquel and Delphine Delrue won France's first mixed doubles world championship.<ref>{{Cite news |date=August 23, 2026 |title=Lanier crushes Naraoka to become first Frenchman to win singles world title |url=https://www.reuters.com/sports/lanier-crushes-naraoka-become-first-frenchman-win-singles-world-title-2026-08-23/ |access-date=August 28, 2026 |work=Reuters}}</ref><ref>{{Cite news |date=2026-08-23 |title='No one will be waiting at the airport': Inside France's historic double gold at the World Championships |url=https://timesofindia.indiatimes.com/sports/badminton/no-one-will-be-waiting-at-the-airport-inside-frances-historic-double-gold-at-the-world-championships/articleshow/133442158.cms |access-date=2026-08-28 |work=The Times of India |issn=0971-8257}}</ref>
+
+== Qualifiers ==
+{{Main|2026 BWF World Championships qualification}}
+=== Number of participants ===
+{| class="sortable wikitable" style="font-size:95%; text-align:center"
+|-
+! colspan="2" | Nation
+! MS !! WS !! MD !! WD !! XD !! Total !! Number<br />of players
+|-
+! rowspan="3" | Africa
+| align="left" | {{bd|EGY}} || 1 || 1 ||   || 1 || 
+! 3 !! 3
+|-
+| align="left" | {{bd|RSA}} ||   ||   ||   || 1 || 
+! 1 !! 2
+|-
+| align="left" | {{bd|UGA}} ||   || 1 ||   ||   || 
+! 1 !! 1
+|-
+! rowspan="17" | Asia
+| align="left" | {{bd|CHN}} || 3 || 3 || 4 || 4 || 4
+! 18 !! 30
+|-
+| align="left" | {{bd|TPE}} || 3 || 2 || 3 || 4 || 3
+! 15 !! 24
+|-
+| align="left" | {{bd|HKG}} || 2 || 2 || 1 || 2 || 1
+! 8 !! 12
+|-
+| align="left" | {{bd|INA}} || 2 || 2 || 3 || 3 || 4
+! 14 !! 24
+|-
+| align="left" | {{bd|IND}} || 2 || 2 || 2 || 2 || 3
+! 11 !! 18
+|-
+| align="left" | {{bd|JPN}} || 3 || 4 || 2 || 4 || 2
+! 15 !! 23
+|-
+| align="left" | {{bd|KAZ}} || 1 ||   ||   ||   || 
+! 1 !! 1
+|-
+| align="left" | {{bd|KOR}} || 2 || 3 || 2 || 1 || 1
+! 9 !! 13
+|-
+| align="left" | {{bd|MAC}} ||   ||   ||   ||   || 1
+! 1 !! 2
+|-
+| align="left" | {{bd|MAS}} || 2 || 2 || 4 || 2 || 2
+! 12 !! 20
+|-
+| align="left" | {{bd|MYA}} || 1 || 1 ||   ||   || 
+! 2 !! 2
+|-
+| align="left" | {{bd|PHI}} || 1 || 1 || 1 ||   || 
+! 3 !! 4
+|-
+| align="left" | {{bd|SGP}} || 2 || 1 || 2 ||   || 
+! 5 !! 7
+|-
+| align="left" | {{bd|SRI}} || 2 || 1 ||   ||   || 
+! 3 !! 3
+|-
+| align="left" | {{bd|THA}} || 2 || 4 || 2 || 2 || 2
+! 12 !! 18
+|-
+| align="left" | {{bd|UAE}} ||   || 1 ||  || 1 || 
+! 2 !! 3
+|-
+| align="left" | {{bd|VIE}} || 2 || 2 || 1 || 1 || 
+! 6 !! 8
+|-
+! rowspan="25" | Europe
+| align="left" | {{bd|AUT}} || 1 ||   ||   || 1 || 
+! 2 !! 3
+|-
+| align="left" | {{bd|AZE}} || 2 || 1 ||   ||   || 
+! 3 !! 3
+|-
+| align="left" | {{bd|BEL}} || 1 ||   ||   ||   || 
+! 1 !! 1
+|-
+| align="left" | {{bd|BGR}} ||   || 2 ||   || 1 || 1
+! 4 !! 4
+|-
+| align="left" | {{bd|CRO}} || 1 ||   ||   ||   || 
+! 1 !! 1
+|-
+| align="left" | {{bd|CZE}} ||   || 2 || 2 ||   || 1
+! 5 !! 6
+|-
+| align="left" | {{bd|DEN}} || 2 || 2 || 2 || 1 || 2
+! 9 !! 13
+|-
+| align="left" | {{bd|ENG}} || 1 ||   || 2 ||   || 2
+! 5 !! 9
+|-
+| align="left" | {{bd|EST}} ||   || 1 ||   ||   ||  
+! 1 !! 1
+|-
+| align="left" | {{bd|FIN}} || 2 ||   ||   ||   || 
+! 2 !! 2
+|-
+| align="left" | {{bd|FRA}} || 3 || 1 || 2 ||   || 2
+! 8 !! 10
+|-
+| align="left" | {{bd|GER}} || 1 || 2 || 2 ||   || 2
+! 7 !! 10
+|-
+| align="left" | {{bd|HUN}} ||   || 2 ||   ||   || 
+! 2 !! 2
+|-
+| align="left" | {{bd|IRL}} || 1 || 1 || 1 ||   || 
+! 3 !! 4
+|-
+| align="left" | {{bd|ISR}} || 2 ||   ||   ||   || 
+! 2 !! 2
+|-
+| align="left" | {{bd|ITA}} || 2 || 1 ||   || 1 || 
+! 4 !! 5
+|-
+| align="left" | {{bd|NED}} ||   ||   ||   || 1.5 || 2
+! 3.5 !! 6
+|-
+| align="left" | {{bd|POL}} || 2 ||   ||   || 1 || 
+! 3 !! 4
+|-
+| align="left" | {{bd|SCO}} ||   || 1 || 2 || 1 || 1
+! 5 !! 7
+|-
+| align="left" | {{bd|SRB}} ||   ||   ||   ||   || 1
+! 1 !! 2
+|-
+| align="left" | {{bd|ESP}} ||   ||  || 1 || 2 || 1
+! 4 !! 7
+|-
+| align="left" | {{bd|SWE}} || 1 ||   || 1 || 1 || 1
+! 4 !! 7
+|-
+| align="left" | {{bd|SUI}} || 1 || 2 || 1 || 0.5 || 1
+! 5.5 !! 8
+|-
+| align="left" | {{bd|TUR}} ||   || 2 ||   || 2 || 1
+! 5 !! 7
+|-
+| align="left" | {{bd|UKR}} ||   || 2 ||   || 1 || 
+! 3 !! 2
+|-
+! rowspan="2" | Oceania
+| align="left" | {{bd|AUS}} ||   ||   ||   || 1 || 
+! 1 !! 2
+|-
+| align="left" | {{bd|NZL}} || 1 || 1 ||   ||   || 1
+! 3 !! 3
+|-
+! rowspan="7" | Pan America
+| align="left" | {{bd|BRA}} || 2 || 1 || 1 || 1 || 2
+! 7 !! 7
+|-
+| align="left" | {{bd|CAN}} || 2 || 2 || 2 || 2 || 2
+! 10 !! 14
+|-
+| align="left" | {{bd|ESA}} || 1 ||   ||   ||   || 
+! 1 !! 1
+|-
+| align="left" | {{bd|GUA}} || 1 ||   ||   ||   || 
+! 1 !! 1
+|-
+| align="left" | {{bd|MEX}} ||   || 1 ||   ||   || 
+! 1 !! 1
+|-
+| align="left" | {{bd|PER}} || 1 || 2 ||   ||   || 
+! 3 !! 3
+|-
+| align="left" | {{bd|USA}} || 2 || 2 || 1 || 2 || 2
+! 9 !! 10
+|-
+! rowspan="1" | Other
+| align="left" | {{flagicon|AIN}} [[Authorised Neutral Athletes]] ||   ||   || 1 ||   || 
+! 1 !! 2
+|-
+! colspan="2" | Total
+! 64 !! 64 !! 48 !! 48 !! 48
+! 272 !! 382
+|}
+
+=== Players participating in two events ===
+
+{| class="sortable wikitable" style="font-size:95%; text-align:center"
+|-
+! width="250" | Player
+! width="50" | Gender
+! Singles !! Doubles !! Mixed
+|-
+| align="left"| {{flagicon|BRA}} [[Davi Silva]]
+| | Men ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|BRA}} [[Fabricio Farias]]
+| | Men ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|BRA}} [[Jaqueline Lima]]
+| | Women ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|BRA}} [[Sâmia Lima]]
+| | Women ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|BUL}} [[Stefani Stoeva]]
+| | Women || {{ya}} || {{ya}} || 
+|-
+| align="left"| {{flagicon|BUL}} [[Gabriela Stoeva]]
+| | Women ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|CAN}} [[Jonathan Lai]]
+| | Men ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|CAN}} [[Crystal Lai]]
+| | Women ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|CZE}} [[Ondřej Král]]
+| | Men ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|CZE}} [[Tereza Švábíková]]
+| | Women || {{ya}} ||  || {{ya}}
+|-
+| align="left"| {{flagicon|DEN}} [[Mette Werge]]
+| | Women ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|EGY}} [[Nour Ahmed Youssri]]
+| | Women || {{ya}} || {{ya}} || 
+|-
+| align="left"| {{flagicon|ESP}} [[Lucía Rodríguez (badminton)|Lucía Rodríguez]]
+| | Women ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|FRA}} [[Christo Popov]]
+| | Men || {{ya}} || {{ya}} || 
+|-
+| align="left"| {{flagicon|FRA}} [[Toma Junior Popov]]
+| | Men || {{ya}} || {{ya}} || 
+|-
+| align="left"| {{flagicon|GER}} [[Simon Krax]]
+| | Men ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|JPN}} [[Yuichi Shimogami]]
+| | Men ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|JPN}} [[Sayaka Hobara]]
+| | Women ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|NED}} [[Meerte Loos]]
+| | Women ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|NZL}} [[Shaunna Li]]
+| | Women || {{ya}} ||  || {{ya}}
+|-
+| align="left"| {{flagicon|SCO}} [[Alexander Dunn (badminton)|Alexander Dunn]]
+| | Men ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|SCO}} [[Julie MacPherson]]
+| | Women ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|THA}} [[Pakkapon Teeraratsakul]]
+| | Men ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|TPE}} [[Yang Po-hsuan]]
+| | Men ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|TUR}} [[Yasemen Bektaş]]
+| | Women ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|UAE}} [[Dhiren Ayyappan]]
+| | Men ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|UAE}} [[Taabia Khan]]
+| | Women ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|UKR}} [[Yevheniia Kantemyr]]
+| | Women || {{ya}} || {{ya}} || 
+|-
+| align="left"| {{flagicon|UKR}} [[Polina Buhrova]]
+| | Women || {{ya}} || {{ya}} || 
+|-
+| align="left"| {{flagicon|USA}} [[Chen Zhi-yi]]
+| | Men ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|USA}} [[Presley Smith]]
+| | Men ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|USA}} [[Francesca Corbett]]
+| | Women ||  || {{ya}} || {{ya}}
+|-
+| align="left"| {{flagicon|USA}} [[Jennie Gai]]
+| | Women ||  || {{ya}} || {{ya}}
+|-
+|}
+
+== Performance by nations ==
+{| class="sortable wikitable" style="font-size:90%; text-align:center"
+|-
+! width="150" | Nation
+! width="50" | Quota
+! style="background-color:#AFEEEE" width="50" | First<br />round
+! style="background-color:#AFEEEE" width="50" | Second<br />round
+! style="background-color:#AFEEEE" width="50" | Third<br />round
+! style="background-color:#FFEBCD" width="50" | Quarter-<br />finals
+! style="background-color:#FFFF00" width="50" | Semi-<br />finals
+! style="background-color:#D8BFD8" width="50" | Finals<br />
+! style="background-color:#00FF00" width="50" | Champion
+|-
+| align="left" | {{bd|KOR}}
+| 9
+| bgcolor="#AFEEEE" | 6
+| bgcolor="#AFEEEE" | 6
+| bgcolor="#AFEEEE" | 6
+| bgcolor="#FFEBCD" | 3
+| bgcolor="#FFFF00" | 3
+| bgcolor="#D8BFD8" | 2
+| bgcolor="#00FF00" | 2
+|-
+| align="left" | {{bd|FRA}}
+| 8
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#AFEEEE" | 4
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#FFEBCD" | 2
+| bgcolor="#FFFF00" | 2
+| bgcolor="#D8BFD8" | 2
+| bgcolor="#00FF00" | 2
+|-
+| align="left" | {{bd|CHN}}
+| 18
+| bgcolor="#AFEEEE" | 9
+| bgcolor="#AFEEEE" | 16
+| bgcolor="#AFEEEE" | 13
+| bgcolor="#FFEBCD" | 11
+| bgcolor="#FFFF00" | 6
+| bgcolor="#D8BFD8" | 3
+| bgcolor="#00FF00" | 1
+|-
+| align="left" | {{bd|JPN}}
+| 15
+| bgcolor="#AFEEEE" | 10
+| bgcolor="#AFEEEE" | 14
+| bgcolor="#AFEEEE" | 10
+| bgcolor="#FFEBCD" | 3
+| bgcolor="#FFFF00" | 2
+| bgcolor="#D8BFD8" | 2
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|MAS}}
+| 12
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#AFEEEE" | 10
+| bgcolor="#AFEEEE" | 6
+| bgcolor="#FFEBCD" | 2
+| bgcolor="#FFFF00" | 1
+| bgcolor="#D8BFD8" | 1
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|TPE}}
+| 15
+| bgcolor="#AFEEEE" | 8
+| bgcolor="#AFEEEE" | 11
+| bgcolor="#AFEEEE" | 8
+| bgcolor="#FFEBCD" | 3
+| bgcolor="#FFFF00" | 2
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|INA}}
+| 14
+| bgcolor="#AFEEEE" | 8
+| bgcolor="#AFEEEE" | 14
+| bgcolor="#AFEEEE" | 8
+| bgcolor="#FFEBCD" | 5
+| bgcolor="#FFFF00" | 1
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|THA}}
+| 12
+| bgcolor="#AFEEEE" | 10
+| bgcolor="#AFEEEE" | 10
+| bgcolor="#AFEEEE" | 4
+| bgcolor="#FFEBCD" | 3
+| bgcolor="#FFFF00" | 1
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" style="border: 3px solid red" | {{bd|IND}}
+| 11
+| bgcolor="#AFEEEE" | 9
+| bgcolor="#AFEEEE" | 9
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#FFEBCD" | 2
+| bgcolor="#FFFF00" |1
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|CAN}}
+| 10
+| bgcolor="#AFEEEE" | 10
+| bgcolor="#AFEEEE" | 4
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#FFEBCD" | 2
+| bgcolor="#FFFF00" | 1
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|DEN}}
+| 9
+| bgcolor="#AFEEEE" | 6
+| bgcolor="#AFEEEE" | 8
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#FFEBCD" | 3
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|HKG}}
+| 8
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#FFEBCD" | 1
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|USA}}
+| 9
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|ENG}}
+| 5
+| bgcolor="#AFEEEE" | 4
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|SGP}}
+| 5
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#AFEEEE" | 4
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|BUL}}
+| 4
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|SCO}}
+| 5
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|TUR}}
+| 5
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|BRA}}
+| 7
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|VIE}}
+| 6
+| bgcolor="#AFEEEE" | 6
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|CZE}}
+| 5
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|UKR}}
+| 3
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|GER}}
+| 7
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|SUI}}
+| 5.5
+| bgcolor="#AFEEEE" | 5.5
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|ITA}}
+| 4
+| bgcolor="#AFEEEE" | 4
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|SPA}}
+| 4
+| bgcolor="#AFEEEE" | 4
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|NED}}
+| 3.5
+| bgcolor="#AFEEEE" | 3.5
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|AZE}}
+| 3
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|IRE}}
+| 3
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|NZL}}
+| 3
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|POL}}
+| 3
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|SRI}}
+| 3
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|FIN}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|HUN}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|ISR}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|MYA}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|MAC}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|RSA}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|SWE}}
+| 4
+| bgcolor="#AFEEEE" | 4
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|EGY}}
+| 3
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|PER}}
+| 3
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|PHI}}
+| 3
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|AUT}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|UAE}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|AUS}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|BEL}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|CRO}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|ESA}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|EST}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|GUA}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|KAZ}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|MEX}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|SRB}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|UGA}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{flagicon|AIN}} [[Authorised Neutral Athletes]]
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+! colspan="8" |
+|-
+|''Withdrew''
+|
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" | '''&nbsp;'''
+|-
+!Total
+!
+! style="background-color:#AFEEEE" | 224
+! style="background-color:#AFEEEE" | 160
+! style="background-color:#AFEEEE" | 80
+! style="background-color:#FFEBCD" | 40
+! style="background-color:#FFFF00" | 20
+! style="background-color:#D8BFD8" | 10
+! style="background-color:#00FF00" | 5
+|}
+
+== References ==
+{{Reflist}}
+
+{{World badminton champs}}
+
+[[Category:BWF World Championships]]
+[[Category:International sports competitions hosted by India]]
+[[Category:Badminton tournaments in India|World Championships]]
+[[Category:2026 in badminton|BWF World Championships]]
+[[Category:2026 in Indian sport|BWF World Championships]]
+[[Category:August 2026 sports events in India|BWF]]

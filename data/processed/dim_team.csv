@@ -1,0 +1,386 @@
+﻿team_key,event_key,team_name,team_size,country_key
+1,3,Kim Won-ho / Seo Seung-jae,2,3
+2,3,Kim Astrup / Anders Skaarup Rasmussen,2,20
+3,3,Chen Boyang / Liu Yi,2,1
+4,3,Satwiksairaj Rankireddy / Chirag Shetty,2,7
+5,3,Wesley Koh / Junsuke Kubo,2,10
+6,3,Agil Gabilov / Dicky Dwi Pangestu,2,19
+7,3,Éloi Adam / Léo Rossi,2,21
+8,3,Rory Easton / Alex Green,2,23
+9,3,Christo Popov / Toma Junior Popov,2,21
+10,3,Keith Mark Edison / Jack Yu,2,55
+11,3,Kim Gi-jung / Kim Sa-rang,2,3
+12,3,Law Cheuk Him / Yeung Shing Choi,2,9
+13,3,Leo Rolly Carnando / Bagas Maulana,2,4
+14,3,Man Wei Chong / Tee Kai Wun,2,5
+15,3,Ben Lane / Sean Vendy,2,23
+16,3,Hung Kuei Chun / Lui Chun Wai,2,9
+17,3,Kevin Lee / Ty Alexander Lindeman,2,49
+18,3,Christopher Martínez / Jonathan Solís,2,52
+19,3,Malik Bourakkadi / Kenneth Neumann,2,22
+20,3,Alexander Dunn / Adam Pringle,2,24
+21,3,Yann Orteu / Minh Quang Pham,2,32
+22,3,Solomon Padiz Jr. / Julius Villabrille,2,12
+23,3,Koceila Mammeri / Youcef Sabri Medel,2,61
+24,3,Fajar Alfian / Muhammad Rian Ardianto,2,4
+25,3,Takuro Hoki / Yugo Kobayashi,2,2
+26,3,Chiu Hsiang-chieh / Wang Chi-lin,2,8
+27,3,Jiří Král / Ondřej Král,2,34
+28,3,Fabrício Farias / Davi Silva,2,53
+29,3,Ivan Rusev / Iliyan Stoynov,2,29
+30,3,Rasmus Kjær / Frederik Søgaard,2,20
+31,3,Nguyễn Đình Hoàng / Trần Đình Mạnh,2,11
+32,3,Izak Batalha / Matheus Voigt,2,53
+33,3,Chen Zhi-yi / Presley Smith,2,50
+34,3,Peeratchai Sukphun / Pakkapon Teeraratsakul,2,6
+35,3,Sabar Karyaman Gutama / Muhammad Reza Pahlevi Isfahani,2,4
+36,3,Lee Jhe-huei / Yang Po-hsuan,2,8
+37,3,Goh Sze Fei / Nur Izzuddin,2,5
+38,3,Liu Kuang-heng / Yang Po-han,2,8
+39,3,Hariharan Amsakarunan / Ruban Kumar Rethinasabapathi,2,7
+40,3,Jonathan Lai / Nyl Yakura,2,49
+41,3,Rubén García / Carlos Piris,2,27
+42,3,Kenya Mitsuhashi / Hiroki Okamura,2,2
+43,3,Junaidi Arif / Yap Roy King,2,5
+44,3,Daniel Franco / Rodrigo Sanjurjo,2,27
+45,3,Christopher Grimley / Matthew Grimley,2,24
+46,3,Liang Weikeng / Wang Chang,2,1
+47,3,Kittinupong Kedren / Dechapol Puavaranukroh,2,6
+48,3,Aaron Chia / Soh Wooi Yik,2,5
+49,1,Shi Yuqi,1,1
+50,1,Victor Lai,1,49
+51,1,Kunlavut Vitidsarn,1,6
+52,1,Anders Antonsen,1,20
+53,1,Lakshya Sen,1,7
+54,1,Lê Đức Phát,1,11
+55,1,Julien Carraggi,1,37
+56,1,Christo Popov,1,21
+57,1,Pui Pang Fong,1,13
+58,1,Ng Ka Long,1,9
+59,1,Collins Valentine Filimon,1,36
+60,1,Alex Lanier,1,21
+61,1,Kantaphon Wangcharoen,1,6
+62,1,Dicky Dwi Pangestu,1,19
+63,1,Aria Dinata,1,46
+64,1,Weng Hongyang,1,1
+65,1,Jack Yu,1,55
+66,1,Lee Chia-hao,1,8
+67,1,Giovanni Toti,1,28
+68,1,Li Shifeng,1,1
+69,1,Yushi Tanaka,1,2
+70,1,Lee Zii Jia,1,5
+71,1,Jeon Hyeok-jin,1,3
+72,1,Lu Guangzu,1,1
+73,1,Jason Teh,1,10
+74,1,Edward Lau,1,56
+75,1,Kodai Naraoka,1,2
+76,1,Dumindu Abeywickrama,1,14
+77,1,Brian Yang,1,49
+78,1,Nhat Nguyen,1,31
+79,1,Loh Kean Yew,1,10
+80,1,Julien Paul,1,62
+81,1,Harry Huang,1,23
+82,1,Kalle Koljonen,1,39
+83,1,Ygor Coelho,1,53
+84,1,Fabian Roth,1,22
+85,1,Gustav Björkler,1,38
+86,1,Lee Cheuk Yiu,1,9
+87,1,Koki Watanabe,1,2
+88,1,Ade Resky Dwicahyo,1,19
+89,1,Matthias Kicklitz,1,22
+90,1,Jonatan Christie,1,4
+91,1,Alwi Farhan,1,4
+92,1,Nguyễn Hải Đăng,1,11
+93,1,Rasmus Gemke,1,20
+94,1,Lin Chun-yi,1,8
+95,1,Adriano Viale,1,54
+96,1,Kim Byung-jae,1,3
+97,1,Uriel Canjura,1,63
+98,1,Leong Jun Hao,1,5
+99,1,Tobias Künzi,1,32
+100,1,Wang Tzu-wei,1,8
+101,1,Kenta Nishimoto,1,2
+102,1,Pablo Abián,1,27
+103,1,Ethan Rose,1,23
+104,1,Jan Louda,1,34
+105,1,Chou Tien-chen,1,8
+106,1,Viren Nettasinghe,1,14
+107,1,Misha Zilberman,1,64
+108,1,Anthony Sinisuka Ginting,1,4
+109,1,Toma Junior Popov,1,21
+110,1,Joakim Oldorff,1,39
+111,1,Prannoy H. S.,1,7
+112,1,Jonathan Matias,1,53
+113,5,Thom Gicquel / Delphine Delrue,2,21
+114,5,Chen Tang Jie / Toh Ee Wei,2,5
+115,5,Guo Xinwa / Chen Fanghui,2,1
+116,5,Jiang Zhenbang / Wei Yaxin,2,1
+117,5,Ty Alexander Lindeman / Josephine Wu,2,49
+118,5,Mathias Christiansen / Alexandra Bøje,2,20
+119,5,Edward Lau / Shaunna Li,2,56
+120,5,Alexander Dunn / Julie MacPherson,2,24
+121,5,Fabrício Farias / Jaqueline Lima,2,53
+122,5,Miha Ivancic / Petra Polanc,2,45
+123,5,Ye Hong-wei / Nicole Gonzales Chan,2,8
+124,5,Presley Smith / Jennie Gai,2,50
+125,5,Feng Yanzhe / Huang Dongping,2,1
+126,5,Cheng Xing / Zhang Chi,2,1
+127,5,Ruttanapak Oupthong / Jhenicha Sudjaipraparat,2,6
+128,5,Leong Iok Chong / Ng Weng Chi,2,13
+129,5,Rohan Kapoor / Ruthvika Gadde,2,7
+130,5,Mihajlo Tomić / Anđela Vitman,2,65
+131,5,Misha Zilberman / Svetlana Zilberman,2,64
+132,5,Lu Ming-che / Hung En-tzu,2,8
+133,5,Rinov Rivaldy / Pitha Haningtyas Mentari,2,4
+134,5,Joshua Magee / Moya Ryan,2,31
+135,5,Linden Wang / Eva Wang,2,50
+136,5,Jafar Hidayatullah / Felisha Pasaribu,2,4
+137,5,Tang Chun Man / Tse Ying Suet,2,9
+138,5,Dhruv Kapila / Tanisha Crasto,2,7
+139,5,Jonathan Lai / Crystal Lai,2,49
+140,5,Rory Easton / Lizzie Tolman,2,23
+141,5,Chen Cheng-kuan / Hsu Yin-hui,2,8
+142,5,Christopher Martinez / Diana Corleto Soto,2,52
+143,5,Yuichi Shimogami / Sayaka Hobara,2,2
+144,5,Oleksii Titov / Yevheniia Kantemyr,2,30
+145,5,Koceila Mammeri / Tanina Mammeri,2,61
+146,5,Terry Hee / Jin Yujia,2,10
+147,5,Yang Po-hsuan / Hu Ling-fang,2,8
+148,5,Hiroki Midorikawa / Natsu Saito,2,2
+149,5,Dechapol Puavaranukroh / Supissara Paewsampran,2,6
+150,5,Malik Bourakkadi / Leona Michalski,2,22
+151,5,Jahid Alhasanov / Hajar Nuriyeva,2,19
+152,5,Pakkapon Teeraratsakul / Phataimas Muenwong,2,6
+153,5,Julien Maio / Léa Palermo,2,21
+154,5,Lee Jong-min / Chae Yoo-jung,2,3
+155,5,Adam Pringle / Rachel Andrew,2,24
+156,5,Ruben Garcia / Lucia Rodríguez,2,27
+157,5,Callum Hemming / Estelle van Leeuwen,2,23
+158,5,Hoo Pang Ron / Cheng Su Yin,2,5
+159,5,Goh Soon Huat / Shevon Jemie Lai,2,5
+160,5,Jesper Toft / Amalie Magelund,2,20
+161,4,Liu Shengshu / Tan Ning,2,1
+162,4,Rin Iwanaga / Kie Nakanishi,2,2
+163,4,Nami Matsuyama / Chiharu Shida,2,2
+164,4,Pearly Tan / Thinaah Muralitharan,2,5
+165,4,Lucie Amiguet / Caroline Racloz,2,32
+166,4,Paulina Hankiewicz / Kornelia Marczak,2,33
+167,4,Serena Au Yeong / Anna Hagspiel,2,36
+168,4,Paula López / Lucía Rodríguez,2,27
+169,4,Selin Hübsch / Amelie Lehmann,2,22
+170,4,Jaqueline Lima / Sâmia Lima,2,53
+171,4,Nicole Albo / Eleanor Inlayo,2,12
+172,4,Taabia Khan / Mysha Omer Khan,2,18
+173,4,Chang Ching-hui / Yang Ching-tun,2,8
+174,4,Jia Yifan / Zhang Shuxian,2,1
+175,4,Hsu Yin-hui / Lin Jhih-yun,2,8
+176,4,Airah Mae Nicole Albo / Eleanor Christine Inlayo,2,12
+177,4,Priya Konjengbam / Shruti Mishra,2,7
+178,4,Margot Lambert / Camille Pognante,2,21
+179,4,Julie MacPherson / Ciara Torrance,2,24
+180,4,Isuri Attanayake / Sithumi de Silva,2,14
+181,4,Mihaela Chepisheva / Tsvetina Popivanova,2,29
+182,4,Polina Buhrova / Yevheniia Kantemyr,2,30
+183,4,Fadilah Mohamed Rafi / Tracy Naluwooza,2,59
+184,4,Kirsten de Wit / Mariia Stoliarenko,2,26
+185,4,Baek Ha-na / Lee So-hee,2,3
+186,4,Febriana Dwipuji Kusuma / Amallia Cahaya Pratiwi,2,4
+187,4,Li Yijing / Luo Xumin,2,1
+188,4,Abbygael Harris / Lizzie Tolman,2,23
+189,4,Nikol Carulla / Carmen María Jiménez,2,27
+190,4,Sian Kelly / Annie Lado,2,23
+191,4,Lauren Lam / Allison Lee,2,50
+192,4,Sung Shuo-yun / Yu Chien-hui,2,8
+193,4,Orla Flynn / Moya Ryan,2,31
+194,4,Bengisu Erçetin / Nazlıcan İnci,2,35
+195,4,Mizuki Otake / Miyu Takahashi,2,2
+196,4,Hsieh Pei-shan / Hung En-tzu,2,8
+197,4,Kim Hye-jeong / Kong Hee-yong,2,3
+198,4,Yeung Nga Ting / Yeung Pui Lam,2,9
+199,4,Gabriela Stoeva / Stefani Stoeva,2,29
+200,4,Rutaparna Panda / Swetaparna Panda,2,7
+201,4,Laksika Kanlaha / Phataimas Muenwong,2,6
+202,4,Gronya Somerville / Angela Yu,2,55
+203,4,Téa Margueritte / Flavie Vallet,2,21
+204,4,Hasini Ambalangodage / Hasara Wijayarathne,2,14
+205,4,Lui Lok Lok / Tsang Hiu Yan,2,9
+206,4,Cloé Brand / Julie Franconville,2,32
+207,4,Go Pei Kee / Teoh Mei Xing,2,5
+208,4,Yuki Fukushima / Mayu Matsumoto,2,2
+209,4,Lanny Tria Mayasari / Siti Fadia Silva Ramadhanti,2,4
+210,2,An Se-young,1,3
+211,2,Chen Yufei,1,1
+212,2,Akane Yamaguchi,1,2
+213,2,Putri Kusuma Wardani,1,4
+214,2,Clara Lassaux,1,37
+215,2,Inés Castillo,1,54
+216,2,Yvonne Li,1,22
+217,2,Michelle Li,1,49
+218,2,Natsuki Nidaira,1,2
+219,2,Özge Bayrak,1,35
+220,2,Tiffany Ho,1,55
+221,2,Gregoria Mariska Tunjung,1,4
+222,2,Petra Maixnerová,1,34
+223,2,Milena Schnider,1,32
+224,2,Julie Dawall Jakobsen,1,20
+225,2,Sim Yu-jin,1,3
+226,2,Wenyu Zhang,1,49
+227,2,Ranithma Liyanage,1,14
+228,2,Rachael Darragh,1,31
+229,2,Anna Tatranova,1,21
+230,2,Mia Blichfeldt,1,20
+231,2,Sung Shuo-yun,1,8
+232,2,Ratchanok Intanon,1,6
+233,2,Nguyễn Thùy Linh,1,11
+234,2,Fadilah Mohamed Rafi,1,59
+235,2,Kirsty Gilmour,1,24
+236,2,Pornpawee Chochuwong,1,6
+237,2,Jaslyn Hooi,1,10
+238,2,Stefani Stoeva,1,29
+239,2,Ishika Jaiswal,1,50
+240,2,Yeo Jia Min,1,10
+241,2,Thet Htar Thuzar,1,66
+242,2,Busanan Ongbamrungphan,1,6
+243,2,Tereza Švábíková,1,34
+244,2,Kristin Kuuba,1,41
+245,2,Line Kjærsfeldt,1,20
+246,2,Miranda Wilson,1,22
+247,2,Supanida Katethong,1,6
+248,2,Polina Buhrova,1,30
+249,2,Kim Ga-eun,1,3
+250,2,Kai Qi Teoh,1,55
+251,2,Yevheniia Kantemyr,1,30
+252,2,Vũ Thị Trang,1,11
+253,2,Goh Jin Wei,1,5
+254,2,Gao Fangjie,1,1
+255,2,Beiwen Zhang,1,50
+256,2,Yasmine Hamza,1,28
+257,2,Chiu Pin-chian,1,8
+258,2,Han Yue,1,1
+259,2,Juliana Viana Vieira,1,53
+260,2,Keisha Fatimah Azzahra,1,19
+261,2,Lo Sin Yan,1,9
+262,2,Vivien Sandorhazi,1,47
+263,2,Hsu Wen-chi,1,8
+264,2,Neslihan Arın,1,35
+265,2,Tomoka Miyazaki,1,2
+266,2,Saloni Samirbhai Mehta,1,9
+267,2,Letshanaa Karupathevan,1,5
+268,2,Kaloyana Nalbantova,1,29
+269,2,P. V. Sindhu,1,7
+270,2,Clara Azurmendi,1,27
+271,2,Lin Hsiang-ti,1,8
+272,2,Ágnes Kőrösi,1,47
+273,2,Wang Zhiyi,1,1
+274,3,Takumi Nomura / Yuichi Shimogami,2,2
+275,3,Donovan Wee / Howin Wong,2,10
+276,3,Kakeru Kumagai / Hiroki Nishi,2,2
+277,3,Lee Fang-jen / Lee Fang-chih,2,8
+278,3,Jonathan Dresp / Simon Krax,2,22
+279,3,Huang Di / Liu Yang,2,1
+280,3,Hu Keyuan / Lin Xiangyi,2,1
+281,3,Mio Molin / Max Svensson,2,38
+282,3,Daniel Lundgaard / Mads Vestergaard,2,20
+283,3,Chaloempon Charoenkitamorn / Worrapol Thongsa-nga,2,6
+284,3,Bjarne Geiss / Jones Ralfy Jansen,2,22
+285,3,Rodion Alimov / Maksim Ogloblin,2,67
+286,3,Alex Green / Zach Russ,2,23
+287,3,Raymond Indra / Nikolaus Joaquin,2,4
+288,3,Vojtěch Havlíček / Tomáš Švejda,2,34
+289,3,Scott Guildea / Paul Reynolds,2,31
+290,3,Hariharan Amsakarunan / Arjun M. R.,2,7
+291,3,Jacobo Fernández / Alberto Perals,2,27
+292,3,Kang Min-hyuk / Ki Dong-ju,2,3
+293,3,Fajar Alfian / Muhammad Shohibul Fikri,2,4
+294,1,Ayush Shetty,1,7
+295,1,Yoo Tae-bin,1,3
+296,1,Lê Đuc Phat,1,11
+297,1,Clarence Villaflor,1,12
+298,1,Donnians Oliveira,1,53
+299,1,Dominik Kwinta,1,33
+300,1,Mikołaj Szymanowski,1,33
+301,1,Hein Htut,1,66
+302,1,Dmitriy Panarin,1,17
+303,1,Chi Yu-jen,1,8
+304,1,Nguyen Hai Đang,1,11
+305,1,Kevin Cordón,1,52
+306,1,Mark Shelley Alcala,1,50
+307,1,Justin Hoh,1,5
+308,1,Fabio Caponio,1,28
+309,1,Panitchaphon Teeraratsakul,1,6
+310,1,Garret Tan,1,50
+311,1,Adham Hatem Elgamal,1,57
+312,1,Daniil Dubovenko,1,64
+313,5,Amri Syahnawi / Nita Violina Marwah,2,4
+314,5,Chan Yin Chak / Ng Tsz Yau,2,9
+315,5,Marvin Seidel / Thuc Phuong Nguyen,2,22
+316,5,Ondřej Král / Tereza Švábíková,2,34
+317,5,Kim Jae-hyeon / Jang Ha-jeong,2,3
+318,5,Chen Zhi-yi / Francesca Corbett,2,50
+319,5,Yuta Watanabe / Maya Taguchi,2,2
+320,5,Marwan Faza / Aisyah Pranata,2,4
+321,5,Mihajlo Tomić / Andjela Vitman,2,65
+322,5,Davi Silva / Sânia Lima,2,53
+323,5,Samuel Jones / Lizzie Tolman,2,23
+324,5,Wong Tien Ci / Lim Chiew Sien,2,5
+325,5,Rehan Naufal Kusharjanto / Gloria Emanuelle Widjaja,2,4
+326,5,Ashith Surya / Amrutha Pramuthesh,2,7
+327,5,Emre Sönmez / Yasemin Bektaş,2,35
+328,5,Simon Krax / Amelie Lehmann,2,22
+329,5,Filip Karlborg / Tilda Sjöö,2,38
+330,5,Kristoffer Kolding / Mette Werge,2,20
+331,5,Bimo Prasetyo / Thesya Munggaran,2,4
+332,5,Wu Guan-xun / Lee Chia-hsin,2,8
+333,5,Rubén García / Lucía Rodríguez,2,27
+334,5,Brian Wassink / Debora Jille,2,26
+335,5,Timothy Lock / Chloe Hoang,2,49
+336,5,Andy Buijk / Meerte Loos,2,26
+337,5,Nicolas Franconville / Julie Franconville,2,32
+338,5,Evgeni Panev / Gabriela Stoeva,2,29
+339,5,Pakkapon Teeraratsakul / Sapsiree Taerattanachai,2,6
+340,4,Treesa Jolly / Gayatri Gopichand,2,7
+341,4,Phạm Thị Diệu Ly / Phạm Thị Khánh,2,11
+342,4,Eyota Kwan / Johnna Rymes,2,49
+343,4,Kavipriya Selvam / Simran Singhi,2,7
+344,4,Francesca Corbett / Jennie Gai,2,50
+345,4,Jazmine Lam / Lim Yee Yuan,2,55
+346,4,Martina Corsini / Emma Piccinin,2,28
+347,4,Amy Ackerman / Johanita Scholtz,2,58
+348,4,Aline Müller / Kelly van Buiten,2,32
+349,4,Hathaithip Mijad / Napapakorn Tungkasatan,2,6
+350,4,Kirsten de Wit / Meerte Loos,2,26
+351,4,Fiona Hallberg / Elin Öhling,2,38
+352,4,Yasemen Bektaş / Sinem Yıldız,2,35
+353,4,Luo Yi / Wang Tingge,2,1
+354,4,Kathrine Vang / Mette Werge,2,20
+355,4,Sarah Dlapka / Lena Rumpold,2,36
+356,4,Kaho Osawa / Mai Tanabe,2,2
+357,4,Febriana Dwipuji Kusuma / Meilysa Trias Puspita Sari,2,4
+358,4,Rui Hirokami / Sayaka Hobara,2,2
+359,4,Jackie Dent / Crystal Lai,2,49
+360,4,Phattharin Aiamvareesrisakul / Sarisa Janpeng,2,6
+361,4,Nour Ahmed Youssri / Doha Hany,2,57
+362,4,Paulina Cybulska / Kornelia Marczak,2,33
+363,4,Isyana Syahira Meida / Rinjani Kwinnara Nastine,2,4
+364,4,Ong Xin Yee / Carmen Ting,2,5
+365,4,Hsu Ya-ching / Sung Yu-hsuan,2,8
+366,4,Rachel Allessya Rose / Febi Setianingrum,2,4
+367,2,Thalita Ramadhani Wiryawan,1,4
+368,2,Nour Ahmed Youssri,1,57
+369,2,Vivien Sándorházi,1,47
+370,2,Sophia Noble,1,31
+371,2,Wen Yu Zhang,1,49
+372,2,Mikaela de Guzman,1,12
+373,2,Line Christophersen,1,20
+374,2,Megan Lee,1,10
+375,2,Liang Ka Wing,1,9
+376,2,Nozomi Okuhara,1,2
+377,2,Sabrina Solís,1,51
+378,2,Shaunna Li,1,56
+379,2,Dounia Pelupessy,1,32
+380,2,Ranithma Liaynage,1,14
+381,2,Prakriti Bharath,1,18
+382,2,Unnati Hooda,1,7
+383,2,Riko Gunji,1,2
+384,2,Wong Ling Ching,1,5
+385,2,Namie Miyahira,1,54

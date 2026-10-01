@@ -1,0 +1,546 @@
+﻿player_key,player_name,country_key
+1,Kim Won-ho,3
+2,Seo Seung-jae,3
+3,Anders Skaarup Rasmussen,20
+4,Kim Astrup,20
+5,Chen Boyang,1
+6,Liu Yi,1
+7,Chirag Shetty,7
+8,Satwiksairaj Rankireddy,7
+9,Junsuke Kubo,10
+10,Wesley Koh,10
+11,Agil Gabilov,19
+12,Dicky Dwi Pangestu,19
+13,Léo Rossi,21
+14,Éloi Adam,21
+15,Alex Green,23
+16,Rory Easton,23
+17,Christo Popov,21
+18,Toma Junior Popov,21
+19,Jack Yu,55
+20,Keith Mark Edison,55
+21,Kim Gi-jung,3
+22,Kim Sa-rang,3
+23,Law Cheuk Him,9
+24,Yeung Shing Choi,9
+25,Bagas Maulana,4
+26,Leo Rolly Carnando,4
+27,Man Wei Chong,5
+28,Tee Kai Wun,5
+29,Ben Lane,23
+30,Sean Vendy,23
+31,Hung Kuei Chun,9
+32,Lui Chun Wai,9
+33,Kevin Lee,49
+34,Ty Alexander Lindeman,49
+35,Christopher Martínez,52
+36,Jonathan Solís,52
+37,Kenneth Neumann,22
+38,Malik Bourakkadi,22
+39,Adam Pringle,24
+40,Alexander Dunn,24
+41,Minh Quang Pham,32
+42,Yann Orteu,32
+43,Julius Villabrille,12
+44,Solomon Padiz Jr.,12
+45,Koceila Mammeri,61
+46,Youcef Sabri Medel,61
+47,Fajar Alfian,4
+48,Muhammad Rian Ardianto,4
+49,Takuro Hoki,2
+50,Yugo Kobayashi,2
+51,Chiu Hsiang-chieh,8
+52,Wang Chi-lin,8
+53,Jiří Král,34
+54,Ondřej Král,34
+55,Davi Silva,53
+56,Fabrício Farias,53
+57,Iliyan Stoynov,29
+58,Ivan Rusev,29
+59,Frederik Søgaard,20
+60,Rasmus Kjær,20
+61,Nguyễn Đình Hoàng,11
+62,Trần Đình Mạnh,11
+63,Izak Batalha,53
+64,Matheus Voigt,53
+65,Chen Zhi-yi,50
+66,Presley Smith,50
+67,Pakkapon Teeraratsakul,6
+68,Peeratchai Sukphun,6
+69,Muhammad Reza Pahlevi Isfahani,4
+70,Sabar Karyaman Gutama,4
+71,Lee Jhe-huei,8
+72,Yang Po-hsuan,8
+73,Goh Sze Fei,5
+74,Nur Izzuddin,5
+75,Liu Kuang-heng,8
+76,Yang Po-han,8
+77,Hariharan Amsakarunan,7
+78,Ruban Kumar Rethinasabapathi,7
+79,Jonathan Lai,49
+80,Nyl Yakura,49
+81,Carlos Piris,27
+82,Rubén García,27
+83,Hiroki Okamura,2
+84,Kenya Mitsuhashi,2
+85,Junaidi Arif,5
+86,Yap Roy King,5
+87,Daniel Franco,27
+88,Rodrigo Sanjurjo,27
+89,Christopher Grimley,24
+90,Matthew Grimley,24
+91,Liang Weikeng,1
+92,Wang Chang,1
+93,Dechapol Puavaranukroh,6
+94,Kittinupong Kedren,6
+95,Aaron Chia,5
+96,Soh Wooi Yik,5
+97,Shi Yuqi,1
+98,Victor Lai,49
+99,Kunlavut Vitidsarn,6
+100,Anders Antonsen,20
+101,Lakshya Sen,7
+102,Lê Đức Phát,11
+103,Julien Carraggi,37
+104,Pui Pang Fong,13
+105,Ng Ka Long,9
+106,Collins Valentine Filimon,36
+107,Alex Lanier,21
+108,Kantaphon Wangcharoen,6
+109,Aria Dinata,46
+110,Weng Hongyang,1
+111,Lee Chia-hao,8
+112,Giovanni Toti,28
+113,Li Shifeng,1
+114,Yushi Tanaka,2
+115,Lee Zii Jia,5
+116,Jeon Hyeok-jin,3
+117,Lu Guangzu,1
+118,Jason Teh,10
+119,Edward Lau,56
+120,Kodai Naraoka,2
+121,Dumindu Abeywickrama,14
+122,Brian Yang,49
+123,Nhat Nguyen,31
+124,Loh Kean Yew,10
+125,Julien Paul,62
+126,Harry Huang,23
+127,Kalle Koljonen,39
+128,Ygor Coelho,53
+129,Fabian Roth,22
+130,Gustav Björkler,38
+131,Lee Cheuk Yiu,9
+132,Koki Watanabe,2
+133,Ade Resky Dwicahyo,19
+134,Matthias Kicklitz,22
+135,Jonatan Christie,4
+136,Alwi Farhan,4
+137,Nguyễn Hải Đăng,11
+138,Rasmus Gemke,20
+139,Lin Chun-yi,8
+140,Adriano Viale,54
+141,Kim Byung-jae,3
+142,Uriel Canjura,63
+143,Leong Jun Hao,5
+144,Tobias Künzi,32
+145,Wang Tzu-wei,8
+146,Kenta Nishimoto,2
+147,Pablo Abián,27
+148,Ethan Rose,23
+149,Jan Louda,34
+150,Chou Tien-chen,8
+151,Viren Nettasinghe,14
+152,Misha Zilberman,64
+153,Anthony Sinisuka Ginting,4
+154,Joakim Oldorff,39
+155,Prannoy H. S.,7
+156,Jonathan Matias,53
+157,Delphine Delrue,21
+158,Thom Gicquel,21
+159,Chen Tang Jie,5
+160,Toh Ee Wei,5
+161,Chen Fanghui,1
+162,Guo Xinwa,1
+163,Jiang Zhenbang,1
+164,Wei Yaxin,1
+165,Josephine Wu,49
+166,Alexandra Bøje,20
+167,Mathias Christiansen,20
+168,Shaunna Li,56
+169,Julie MacPherson,24
+170,Jaqueline Lima,53
+171,Miha Ivancic,45
+172,Petra Polanc,45
+173,Nicole Gonzales Chan,8
+174,Ye Hong-wei,8
+175,Jennie Gai,50
+176,Feng Yanzhe,1
+177,Huang Dongping,1
+178,Cheng Xing,1
+179,Zhang Chi,1
+180,Jhenicha Sudjaipraparat,6
+181,Ruttanapak Oupthong,6
+182,Leong Iok Chong,13
+183,Ng Weng Chi,13
+184,Rohan Kapoor,7
+185,Ruthvika Gadde,7
+186,Anđela Vitman,65
+187,Mihajlo Tomić,65
+188,Svetlana Zilberman,64
+189,Hung En-tzu,8
+190,Lu Ming-che,8
+191,Pitha Haningtyas Mentari,4
+192,Rinov Rivaldy,4
+193,Joshua Magee,31
+194,Moya Ryan,31
+195,Eva Wang,50
+196,Linden Wang,50
+197,Felisha Pasaribu,4
+198,Jafar Hidayatullah,4
+199,Tang Chun Man,9
+200,Tse Ying Suet,9
+201,Dhruv Kapila,7
+202,Tanisha Crasto,7
+203,Crystal Lai,49
+204,Lizzie Tolman,23
+205,Chen Cheng-kuan,8
+206,Hsu Yin-hui,8
+207,Christopher Martinez,52
+208,Diana Corleto Soto,52
+209,Sayaka Hobara,2
+210,Yuichi Shimogami,2
+211,Oleksii Titov,30
+212,Yevheniia Kantemyr,30
+213,Tanina Mammeri,61
+214,Jin Yujia,10
+215,Terry Hee,10
+216,Hu Ling-fang,8
+217,Hiroki Midorikawa,2
+218,Natsu Saito,2
+219,Supissara Paewsampran,6
+220,Leona Michalski,22
+221,Hajar Nuriyeva,19
+222,Jahid Alhasanov,19
+223,Phataimas Muenwong,6
+224,Julien Maio,21
+225,Léa Palermo,21
+226,Chae Yoo-jung,3
+227,Lee Jong-min,3
+228,Rachel Andrew,24
+229,Lucia Rodríguez,27
+230,Ruben Garcia,27
+231,Callum Hemming,23
+232,Estelle van Leeuwen,23
+233,Cheng Su Yin,5
+234,Hoo Pang Ron,5
+235,Goh Soon Huat,5
+236,Shevon Jemie Lai,5
+237,Amalie Magelund,20
+238,Jesper Toft,20
+239,Liu Shengshu,1
+240,Tan Ning,1
+241,Kie Nakanishi,2
+242,Rin Iwanaga,2
+243,Chiharu Shida,2
+244,Nami Matsuyama,2
+245,Pearly Tan,5
+246,Thinaah Muralitharan,5
+247,Caroline Racloz,32
+248,Lucie Amiguet,32
+249,Kornelia Marczak,33
+250,Paulina Hankiewicz,33
+251,Anna Hagspiel,36
+252,Serena Au Yeong,36
+253,Lucía Rodríguez,27
+254,Paula López,27
+255,Amelie Lehmann,22
+256,Selin Hübsch,22
+257,Sâmia Lima,53
+258,Eleanor Inlayo,12
+259,Nicole Albo,12
+260,Mysha Omer Khan,18
+261,Taabia Khan,18
+262,Chang Ching-hui,8
+263,Yang Ching-tun,8
+264,Jia Yifan,1
+265,Zhang Shuxian,1
+266,Lin Jhih-yun,8
+267,Airah Mae Nicole Albo,12
+268,Eleanor Christine Inlayo,12
+269,Priya Konjengbam,7
+270,Shruti Mishra,7
+271,Camille Pognante,21
+272,Margot Lambert,21
+273,Ciara Torrance,24
+274,Isuri Attanayake,14
+275,Sithumi de Silva,14
+276,Mihaela Chepisheva,29
+277,Tsvetina Popivanova,29
+278,Polina Buhrova,30
+279,Fadilah Mohamed Rafi,59
+280,Tracy Naluwooza,59
+281,Kirsten de Wit,26
+282,Mariia Stoliarenko,26
+283,Baek Ha-na,3
+284,Lee So-hee,3
+285,Amallia Cahaya Pratiwi,4
+286,Febriana Dwipuji Kusuma,4
+287,Li Yijing,1
+288,Luo Xumin,1
+289,Abbygael Harris,23
+290,Carmen María Jiménez,27
+291,Nikol Carulla,27
+292,Annie Lado,23
+293,Sian Kelly,23
+294,Allison Lee,50
+295,Lauren Lam,50
+296,Sung Shuo-yun,8
+297,Yu Chien-hui,8
+298,Orla Flynn,31
+299,Bengisu Erçetin,35
+300,Nazlıcan İnci,35
+301,Miyu Takahashi,2
+302,Mizuki Otake,2
+303,Hsieh Pei-shan,8
+304,Kim Hye-jeong,3
+305,Kong Hee-yong,3
+306,Yeung Nga Ting,9
+307,Yeung Pui Lam,9
+308,Gabriela Stoeva,29
+309,Stefani Stoeva,29
+310,Rutaparna Panda,7
+311,Swetaparna Panda,7
+312,Laksika Kanlaha,6
+313,Angela Yu,55
+314,Gronya Somerville,55
+315,Flavie Vallet,21
+316,Téa Margueritte,21
+317,Hasara Wijayarathne,14
+318,Hasini Ambalangodage,14
+319,Lui Lok Lok,9
+320,Tsang Hiu Yan,9
+321,Cloé Brand,32
+322,Julie Franconville,32
+323,Go Pei Kee,5
+324,Teoh Mei Xing,5
+325,Mayu Matsumoto,2
+326,Yuki Fukushima,2
+327,Lanny Tria Mayasari,4
+328,Siti Fadia Silva Ramadhanti,4
+329,An Se-young,3
+330,Chen Yufei,1
+331,Akane Yamaguchi,2
+332,Putri Kusuma Wardani,4
+333,Clara Lassaux,37
+334,Inés Castillo,54
+335,Yvonne Li,22
+336,Michelle Li,49
+337,Natsuki Nidaira,2
+338,Özge Bayrak,35
+339,Tiffany Ho,55
+340,Gregoria Mariska Tunjung,4
+341,Petra Maixnerová,34
+342,Milena Schnider,32
+343,Julie Dawall Jakobsen,20
+344,Sim Yu-jin,3
+345,Wenyu Zhang,49
+346,Ranithma Liyanage,14
+347,Rachael Darragh,31
+348,Anna Tatranova,21
+349,Mia Blichfeldt,20
+350,Ratchanok Intanon,6
+351,Nguyễn Thùy Linh,11
+352,Kirsty Gilmour,24
+353,Pornpawee Chochuwong,6
+354,Jaslyn Hooi,10
+355,Ishika Jaiswal,50
+356,Yeo Jia Min,10
+357,Thet Htar Thuzar,66
+358,Busanan Ongbamrungphan,6
+359,Tereza Švábíková,34
+360,Kristin Kuuba,41
+361,Line Kjærsfeldt,20
+362,Miranda Wilson,22
+363,Supanida Katethong,6
+364,Kim Ga-eun,3
+365,Kai Qi Teoh,55
+366,Vũ Thị Trang,11
+367,Goh Jin Wei,5
+368,Gao Fangjie,1
+369,Beiwen Zhang,50
+370,Yasmine Hamza,28
+371,Chiu Pin-chian,8
+372,Han Yue,1
+373,Juliana Viana Vieira,53
+374,Keisha Fatimah Azzahra,19
+375,Lo Sin Yan,9
+376,Vivien Sandorhazi,47
+377,Hsu Wen-chi,8
+378,Neslihan Arın,35
+379,Tomoka Miyazaki,2
+380,Saloni Samirbhai Mehta,9
+381,Letshanaa Karupathevan,5
+382,Kaloyana Nalbantova,29
+383,P. V. Sindhu,7
+384,Clara Azurmendi,27
+385,Lin Hsiang-ti,8
+386,Ágnes Kőrösi,47
+387,Wang Zhiyi,1
+388,Takumi Nomura,2
+389,Donovan Wee,10
+390,Howin Wong,10
+391,Hiroki Nishi,2
+392,Kakeru Kumagai,2
+393,Lee Fang-chih,8
+394,Lee Fang-jen,8
+395,Jonathan Dresp,22
+396,Simon Krax,22
+397,Huang Di,1
+398,Liu Yang,1
+399,Hu Keyuan,1
+400,Lin Xiangyi,1
+401,Max Svensson,38
+402,Mio Molin,38
+403,Daniel Lundgaard,20
+404,Mads Vestergaard,20
+405,Chaloempon Charoenkitamorn,6
+406,Worrapol Thongsa-nga,6
+407,Bjarne Geiss,22
+408,Jones Ralfy Jansen,22
+409,Maksim Ogloblin,67
+410,Rodion Alimov,67
+411,Zach Russ,23
+412,Nikolaus Joaquin,4
+413,Raymond Indra,4
+414,Tomáš Švejda,34
+415,Vojtěch Havlíček,34
+416,Paul Reynolds,31
+417,Scott Guildea,31
+418,Arjun M. R.,7
+419,Alberto Perals,27
+420,Jacobo Fernández,27
+421,Kang Min-hyuk,3
+422,Ki Dong-ju,3
+423,Muhammad Shohibul Fikri,4
+424,Ayush Shetty,7
+425,Yoo Tae-bin,3
+426,Lê Đuc Phat,11
+427,Clarence Villaflor,12
+428,Donnians Oliveira,53
+429,Dominik Kwinta,33
+430,Mikołaj Szymanowski,33
+431,Hein Htut,66
+432,Dmitriy Panarin,17
+433,Chi Yu-jen,8
+434,Nguyen Hai Đang,11
+435,Kevin Cordón,52
+436,Mark Shelley Alcala,50
+437,Justin Hoh,5
+438,Fabio Caponio,28
+439,Panitchaphon Teeraratsakul,6
+440,Garret Tan,50
+441,Adham Hatem Elgamal,57
+442,Daniil Dubovenko,64
+443,Amri Syahnawi,4
+444,Nita Violina Marwah,4
+445,Chan Yin Chak,9
+446,Ng Tsz Yau,9
+447,Marvin Seidel,22
+448,Thuc Phuong Nguyen,22
+449,Jang Ha-jeong,3
+450,Kim Jae-hyeon,3
+451,Francesca Corbett,50
+452,Maya Taguchi,2
+453,Yuta Watanabe,2
+454,Aisyah Pranata,4
+455,Marwan Faza,4
+456,Andjela Vitman,65
+457,Sânia Lima,53
+458,Samuel Jones,23
+459,Lim Chiew Sien,5
+460,Wong Tien Ci,5
+461,Gloria Emanuelle Widjaja,4
+462,Rehan Naufal Kusharjanto,4
+463,Amrutha Pramuthesh,7
+464,Ashith Surya,7
+465,Emre Sönmez,35
+466,Yasemin Bektaş,35
+467,Filip Karlborg,38
+468,Tilda Sjöö,38
+469,Kristoffer Kolding,20
+470,Mette Werge,20
+471,Bimo Prasetyo,4
+472,Thesya Munggaran,4
+473,Lee Chia-hsin,8
+474,Wu Guan-xun,8
+475,Brian Wassink,26
+476,Debora Jille,26
+477,Chloe Hoang,49
+478,Timothy Lock,49
+479,Andy Buijk,26
+480,Meerte Loos,26
+481,Nicolas Franconville,32
+482,Evgeni Panev,29
+483,Sapsiree Taerattanachai,6
+484,Gayatri Gopichand,7
+485,Treesa Jolly,7
+486,Phạm Thị Diệu Ly,11
+487,Phạm Thị Khánh,11
+488,Eyota Kwan,49
+489,Johnna Rymes,49
+490,Kavipriya Selvam,7
+491,Simran Singhi,7
+492,Jazmine Lam,55
+493,Lim Yee Yuan,55
+494,Emma Piccinin,28
+495,Martina Corsini,28
+496,Amy Ackerman,58
+497,Johanita Scholtz,58
+498,Aline Müller,32
+499,Kelly van Buiten,32
+500,Hathaithip Mijad,6
+501,Napapakorn Tungkasatan,6
+502,Elin Öhling,38
+503,Fiona Hallberg,38
+504,Sinem Yıldız,35
+505,Yasemen Bektaş,35
+506,Luo Yi,1
+507,Wang Tingge,1
+508,Kathrine Vang,20
+509,Lena Rumpold,36
+510,Sarah Dlapka,36
+511,Kaho Osawa,2
+512,Mai Tanabe,2
+513,Meilysa Trias Puspita Sari,4
+514,Rui Hirokami,2
+515,Jackie Dent,49
+516,Phattharin Aiamvareesrisakul,6
+517,Sarisa Janpeng,6
+518,Doha Hany,57
+519,Nour Ahmed Youssri,57
+520,Paulina Cybulska,33
+521,Isyana Syahira Meida,4
+522,Rinjani Kwinnara Nastine,4
+523,Carmen Ting,5
+524,Ong Xin Yee,5
+525,Hsu Ya-ching,8
+526,Sung Yu-hsuan,8
+527,Febi Setianingrum,4
+528,Rachel Allessya Rose,4
+529,Thalita Ramadhani Wiryawan,4
+530,Vivien Sándorházi,47
+531,Sophia Noble,31
+532,Wen Yu Zhang,49
+533,Mikaela de Guzman,12
+534,Line Christophersen,20
+535,Megan Lee,10
+536,Liang Ka Wing,9
+537,Nozomi Okuhara,2
+538,Sabrina Solís,51
+539,Dounia Pelupessy,32
+540,Ranithma Liaynage,14
+541,Prakriti Bharath,18
+542,Unnati Hooda,7
+543,Riko Gunji,2
+544,Wong Ling Ching,5
+545,Namie Miyahira,54

@@ -1,0 +1,1408 @@
+{{Short description|Badminton championships}}
+{{Infobox sports competition event
+| event          = Mixed doubles
+| championship   = 2025 BWF World Championships
+| dates          = 25–31 August
+| competitors    = 96
+| nations        = 28
+| venue          = [[Adidas Arena]]
+| location       = [[Paris]], France
+| gold           = [[Chen Tang Jie]] <br> [[Toh Ee Wei]]
+| gold_nation    = MAS
+| silver         = [[Jiang Zhenbang]] <br> [[Wei Yaxin]]
+| silver_nation  = CHN
+| bronze         = [[Thom Gicquel]]<br> [[Delphine Delrue]]
+| bronze_nation  = FRA
+| bronze2        = [[Guo Xinwa]]<br> [[Chen Fanghui]]
+| bronze2_nation = CHN
+| prev           = [[2023 BWF World Championships – Mixed doubles|2023 Copenhagen	]]
+| next           = ''[[2026 BWF World Championships – Mixed doubles|2026 India]]''
+}}
+{{2025 BWF World Championships}}
+The mixed doubles tournament of the [[2025 BWF World Championships]] took place from 26 to 31 August 2025 at the [[Adidas Arena]] in [[Paris]].
+
+== Seeds ==
+{{See also|2025 BWF World Championships qualification#Mixed doubles}}
+The seeding list was based on the [[BWF World Ranking|World Rankings]] of 5 August 2025.
+
+{{col-begin}}{{col-2}}
+{{seeds|1|1}} {{flagicon|CHN}} [[Feng Yanzhe]] / [[Huang Dongping]] ''(second round)''
+{{seeds|2|4}} {{flagicon|CHN}} [[Jiang Zhenbang]] /  [[Wei Yaxin]] ''(final)''
+{{seeds|3|3}} {{flagicon|THA}} [[Dechapol Puavaranukroh]] / [[Supissara Paewsampran]] ''(third round)''
+{{seeds|4|2}} '''{{flagicon|MAS}} [[Chen Tang Jie]] / [[Toh Ee Wei]]''' '''(champions)'''
+{{seeds|5|2}} {{flagicon|HKG}} [[Tang Chun Man]] /  [[Tse Ying Suet]] ''(third round)''
+{{seeds|6|4}} {{flagicon|MAS}} [[Goh Soon Huat]] /  [[Shevon Jemie Lai]] ''(third round)''
+{{seeds|7|3}} {{flagicon|CHN}} [[Guo Xinwa]] /  [[Chen Fanghui]] ''(semi-finals)''
+{{seeds|8|1}} {{flagicon|FRA}} [[Thom Gicquel]] /  [[Delphine Delrue]] ''(semi-finals)''
+{{col-2}}
+{{seeds|9|3}} {{flagicon|JPN}} [[Hiroki Midorikawa]] /  [[Natsu Saito]] ''(quarter-finals)''
+{{seeds|10|4}} {{flagicon|DEN}} [[Jesper Toft]] /  [[Amalie Magelund]] ''(third round)''
+{{seeds|11|2}} {{flagicon|INA}} [[Jafar Hidayatullah]] /  [[Felisha Pasaribu]] ''(third round)''
+{{seeds|12|1}} {{flagicon|CHN}} [[Cheng Xing]] /  [[Zhang Chi (badminton)|Zhang Chi]] ''(quarter-finals)''
+{{seeds|13|3}} {{flagicon|TPE}} [[Yang Po-hsuan]] /  [[Hu Ling-fang]] ''(third round)''
+{{seeds|14|1}} {{flagicon|THA}} [[Ruttanapak Oupthong]] /  [[Jhenicha Sudjaipraparat]] ''(second round)''
+{{seeds|15|4}} {{flagicon|MAS}} [[Hoo Pang Ron]] / [[Cheng Su Yin]] ''(quarter-finals)''
+{{seeds|16|2}} {{flagicon|IND}} [[Dhruv Kapila]] /  [[Tanisha Crasto]] ''(quarter-finals)''
+{{col-end}}
+{{seeds explanation}}
+
+== Draw ==
+The drawing ceremony was held on 14 August 2023.
+
+=== Finals ===
+{{4TeamBracket-Tennis3
+| RD-shade=#A8D3FF
+| RD1=Semi-finals
+| RD2=Final
+
+| team-width=150
+
+| RD1-seed1=8
+| RD1-team1={{flagicon|FRA}} [[Thom Gicquel]]<br/>&nbsp;{{flagicon|FRA}} [[Delphine Delrue]]
+| RD1-score1-1=18
+| RD1-score1-2=16
+| RD1-score1-3=
+| RD1-seed2=4
+| RD1-team2='''{{flagicon|MAS}} [[Chen Tang Jie]]<br/>&nbsp;{{flagicon|MAS}} [[Toh Ee Wei]]'''
+| RD1-score2-1='''21'''
+| RD1-score2-2='''21'''
+| RD1-score2-3=
+
+| RD1-seed3=7
+| RD1-team3={{flagicon|CHN}} [[Guo Xinwa]]<br/>&nbsp;{{flagicon|CHN}} [[Chen Fanghui]]
+| RD1-score3-1= '''21'''
+| RD1-score3-2= 21
+| RD1-score3-3=18
+| RD1-seed4=2
+| RD1-team4='''{{flagicon|CHN}} [[Jiang Zhenbang]]<br/>&nbsp;{{flagicon|CHN}} [[Wei Yaxin]]'''
+| RD1-score4-1= 11
+| RD1-score4-2= '''23'''
+| RD1-score4-3='''21'''
+
+| RD2-seed1= 4
+| RD2-team1= '''{{flagicon|MAS}} [[Chen Tang Jie]]<br/>&nbsp;{{flagicon|MAS}} [[Toh Ee Wei]]'''
+| RD2-score1-1= '''21'''
+| RD2-score1-2= '''21'''
+| RD2-score1-3=
+| RD2-seed2=2
+| RD2-team2= {{flagicon|CHN}} [[Jiang Zhenbang]]<br/>&nbsp;{{flagicon|CHN}} [[Wei Yaxin]]
+| RD2-score2-1= 15
+| RD2-score2-2= 14
+| RD2-score2-3=
+}}
+
+=== Top half ===
+==== Section 1 ====
+{{16TeamBracket-Tennis3-Byes
+| RD1=First round
+| RD2=Second round
+| RD3=Third round
+| RD4=Quarter-finals
+
+| team-width=150
+
+| RD1-seed03=
+| RD1-team03= {{flagicon|CAN}} [[Ty Alexander Lindeman|T A Lindeman]]<br/>&nbsp;{{flagicon|CAN}} [[Josephine Wu|J Wu]]
+| RD1-score03-1= 10
+| RD1-score03-2= 8
+| RD1-score03-3=
+| RD1-seed04=
+| RD1-team04= '''{{flagicon|DEN}} [[Mathias Christiansen|M Christiansen]]<br/>&nbsp;{{flagicon|DEN}} [[Alexandra Bøje|A Bøje]]'''
+| RD1-score04-1= '''21'''
+| RD1-score04-2= '''21'''
+| RD1-score04-3=
+
+| RD1-seed07=
+| RD1-team07= {{flagicon|NZL}} [[Edward Lau|E Lau]]<br/>&nbsp;{{flagicon|NZL}} [[Shaunna Li|S Li]]
+| RD1-score07-1= 11
+| RD1-score07-2= 9
+| RD1-score07-3=
+| RD1-seed08=
+| RD1-team08= '''{{flagicon|SCO}} [[Alexander Dunn (badminton)|A Dunn]]<br/>&nbsp;{{flagicon|SCO}} [[Julie MacPherson|J MacPherson]]'''
+| RD1-score08-1= '''21'''
+| RD1-score08-2= '''21'''
+| RD1-score08-3=
+
+| RD1-seed11=
+| RD1-team11= '''{{flagicon|BRA}} [[Fabrício Farias|F Farias]]<br/>&nbsp;{{flagicon|BRA}} [[Jaqueline Lima|J Lima]]'''
+| RD1-score11-1= '''21'''
+| RD1-score11-2= '''21'''
+| RD1-score11-3=
+| RD1-seed12=
+| RD1-team12= {{flagicon|SLO}} [[Miha Ivancic|M Ivancic]]<br/>&nbsp;{{flagicon|SLO}} [[Petra Polanc|P Polanc]]
+| RD1-score12-1= 19
+| RD1-score12-2= 14
+| RD1-score12-3=
+
+| RD1-seed15=
+| RD1-team15= '''{{flagicon|TPE}} [[Ye Hong-wei|Ye H-w]]<br/>&nbsp;{{flagicon|TPE}} N G Chan'''
+| RD1-score15-1= '''21'''
+| RD1-score15-2= '''21'''
+| RD1-score15-3=
+| RD1-seed16=
+| RD1-team16= {{flagicon|USA}} [[Presley Smith|P Smith]]<br/>&nbsp;{{flagicon|USA}} [[Jennie Gai|J Gai]]
+| RD1-score16-1= 11
+| RD1-score16-2= 10
+| RD1-score16-3=
+
+| RD2-seed01= 1
+| RD2-team01= {{flagicon|CHN}} [[Feng Yanzhe|Feng YZ]]<br/>&nbsp;{{flagicon|CHN}} [[Huang Dongping|Huang DP]]
+| RD2-score01-1= '''21'''
+| RD2-score01-2= 13
+| RD2-score01-3= 18
+| RD2-seed02=
+| RD2-team02= '''{{flagicon|DEN}} [[Mathias Christiansen|M Christiansen]]<br/>&nbsp;{{flagicon|DEN}} [[Alexandra Bøje|A Bøje]]'''
+| RD2-score02-1= 14
+| RD2-score02-2= '''21'''
+| RD2-score02-3= '''21'''
+
+| RD2-seed03= 12
+| RD2-team03= '''{{flagicon|CHN}} [[Cheng Xing|Cheng X]]<br/>&nbsp;{{flagicon|CHN}} [[Zhang Chi (badminton)|Zhang C]]'''
+| RD2-score03-1= '''21'''
+| RD2-score03-2= '''24'''
+| RD2-score03-3=
+| RD2-seed04=
+| RD2-team04= {{flagicon|SCO}} [[Alexander Dunn (badminton)|A Dunn]]<br/>&nbsp;{{flagicon|SCO}} [[Julie MacPherson|J MacPherson]]
+| RD2-score04-1= 17
+| RD2-score04-2= 22
+| RD2-score04-3=
+
+| RD2-seed05= 8
+| RD2-team05= '''{{flagicon|FRA}} [[Thom Gicquel|T Gicquel]]<br/>&nbsp;{{flagicon|FRA}} [[Delphine Delrue|D Delrue]]'''
+| RD2-score05-1= '''21'''
+| RD2-score05-2= '''21'''
+| RD2-score05-3=
+| RD2-seed06=
+| RD2-team06= {{flagicon|BRA}} [[Fabrício Farias|F Farias]]<br/>&nbsp;{{flagicon|BRA}} [[Jaqueline Lima|J Lima]]
+| RD2-score06-1= 9
+| RD2-score06-2= 15
+| RD2-score06-3=
+
+| RD2-seed07= 14
+| RD2-team07= {{flagicon|THA}} [[Ruttanapak Oupthong|R Oupthong]]<br/>&nbsp;{{flagicon|THA}} [[Jhenicha Sudjaipraparat|J Sudjaipraparat]]
+| RD2-score07-1= 18
+| RD2-score07-2= 16
+| RD2-score07-3=
+| RD2-seed08=
+| RD2-team08= '''{{flagicon|TPE}} [[Ye Hong-wei|Ye H-w]]<br/>&nbsp;{{flagicon|TPE}} N G Chan'''
+| RD2-score08-1= '''21'''
+| RD2-score08-2= '''21'''
+| RD2-score08-3=
+
+| RD3-seed01=
+| RD3-team01= {{flagicon|DEN}} [[Mathias Christiansen|M Christiansen]]<br/>&nbsp;{{flagicon|DEN}} [[Alexandra Bøje|A Bøje]]
+| RD3-score01-1= 21
+| RD3-score01-2= 12
+| RD3-score01-3=
+| RD3-seed02= 12
+| RD3-team02= '''{{flagicon|CHN}} [[Cheng Xing|Cheng X]]<br/>&nbsp;{{flagicon|CHN}} [[Zhang Chi (badminton)|Zhang C]]'''
+| RD3-score02-1= '''23'''
+| RD3-score02-2= '''21'''
+| RD3-score02-3= 
+
+| RD3-seed03= 8
+| RD3-team03= '''{{flagicon|FRA}} [[Thom Gicquel|T Gicquel]]<br/>&nbsp;{{flagicon|FRA}} [[Delphine Delrue|D Delrue]]'''
+| RD3-score03-1= 19
+| RD3-score03-2= '''21'''
+| RD3-score03-3= '''21'''
+| RD3-seed04=
+| RD3-team04= {{flagicon|TPE}} [[Ye Hong-wei|Ye H-w]]<br/>&nbsp;{{flagicon|TPE}} N G Chan
+| RD3-score04-1= '''21'''
+| RD3-score04-2= 14
+| RD3-score04-3= 17
+
+| RD4-seed01= 12
+| RD4-team01= {{flagicon|CHN}} [[Cheng Xing|Cheng X]]<br/>&nbsp;{{flagicon|CHN}} [[Zhang Chi (badminton)|Zhang C]]
+| RD4-score01-1= 19
+| RD4-score01-2= 18
+| RD4-score01-3=
+| RD4-seed02= 8
+| RD4-team02= '''{{flagicon|FRA}} [[Thom Gicquel|T Gicquel]]<br/>&nbsp;{{flagicon|FRA}} [[Delphine Delrue|D Delrue]]'''
+| RD4-score02-1= '''21'''
+| RD4-score02-2= '''21'''
+| RD4-score02-3=
+}}
+
+==== Section 2 ====
+
+{{16TeamBracket-Tennis3-Byes
+| RD1=First round
+| RD2=Second round
+| RD3=Third round
+| RD4=Quarter-finals
+
+| team-width=150
+
+| RD1-seed03=
+| RD1-team03= {{flagicon|MAC}} [[Leong Iok Chong|Leong I C]]<br/>&nbsp;{{flagicon|MAC}} [[Ng Weng Chi|Ng W C]]
+| RD1-score03-1= '''21'''
+| RD1-score03-2= 16
+| RD1-score03-3= 18
+| RD1-seed04= 
+| RD1-team04= '''{{flagicon|IND}} [[Rohan Kapoor (badminton)|R Kapoor]]<br/>&nbsp;{{flagicon|IND}} [[Ruthvika Gadde|R Gadde]]'''
+| RD1-score04-1= 18
+| RD1-score04-2= '''21'''
+| RD1-score04-3= '''21'''
+
+| RD1-seed07=
+| RD1-team07= '''{{flagicon|SRB}} [[Mihajlo Tomić|M Tomić]]<br/>&nbsp;{{flagicon|SRB}} [[Anđela Vitman|A Vitman]]'''
+| RD1-score07-1= '''21'''
+| RD1-score07-2= '''21'''
+| RD1-score07-3=
+| RD1-seed08=
+| RD1-team08= {{flagicon|ISR}} [[Misha Zilberman|M Zilberman]]<br/>&nbsp;{{flagicon|ISR}} [[Svetlana Zilberman|S Zilberman]]
+| RD1-score08-1= 11
+| RD1-score08-2= 6
+| RD1-score08-3=
+
+| RD1-seed11=
+| RD1-team11= {{flagicon|TPE}} [[Lu Ming-che (badminton)|Lu M-c]]<br/>&nbsp;{{flagicon|TPE}} [[Hung En-tzu|Hung E-t]]
+| RD1-score11-1= '''21'''
+| RD1-score11-2= 15
+| RD1-score11-3= 16
+| RD1-seed12=
+| RD1-team12= '''{{flagicon|INA}} [[Rinov Rivaldy|R Rivaldy]]<br/>&nbsp;{{flagicon|INA}} [[Pitha Haningtyas Mentari|P H Mentari]]'''
+| RD1-score12-1= 14
+| RD1-score12-2= '''21'''
+| RD1-score12-3= '''21'''
+
+| RD1-seed15=
+| RD1-team15= '''{{flagicon|IRE}} [[Joshua Magee|J Magee]]<br/>&nbsp;{{flagicon|IRE}} [[Moya Ryan|M Ryan]]'''
+| RD1-score15-1= '''21'''
+| RD1-score15-2= '''21'''
+| RD1-score15-3=
+| RD1-seed16=
+| RD1-team16= {{flagicon|USA}} [[Linden Wang|L Wang]]<br/>&nbsp;{{flagicon|USA}} [[Eva Wang|E Wang]]
+| RD1-score16-1= 10
+| RD1-score16-2= 10
+| RD1-score16-3=
+
+| RD2-seed01= 4
+| RD2-team01= '''{{flagicon|MAS}} [[Chen Tang Jie|Chen T J]]<br/>&nbsp;{{flagicon|MAS}} [[Toh Ee Wei|Toh E W]]'''
+| RD2-score01-1= '''21'''
+| RD2-score01-2= '''21'''
+| RD2-score01-3= 
+| RD2-seed02=
+| RD2-team02= {{flagicon|IND}} [[Rohan Kapoor (badminton)|R Kapoor]]<br/>&nbsp;{{flagicon|IND}} [[Ruthvika Gadde|R Gadde]]
+| RD2-score02-1= 16
+| RD2-score02-2= 11
+| RD2-score02-3=
+
+| RD2-seed03= 11
+| RD2-team03= '''{{flagicon|INA}} [[Jafar Hidayatullah|J Hidayatullah]]<br/>&nbsp;{{flagicon|INA}} [[Felisha Pasaribu|F Pasaribu]]'''
+| RD2-score03-1= '''21'''
+| RD2-score03-2= '''22'''
+| RD2-score03-3=
+| RD2-seed04=
+| RD2-team04= {{flagicon|SRB}} [[Mihajlo Tomić|M Tomić]]<br/>&nbsp;{{flagicon|SRB}} [[Anđela Vitman|A Vitman]]
+| RD2-score04-1= 19
+| RD2-score04-2= 20
+| RD2-score04-3=
+
+| RD2-seed05= 5
+| RD2-team05= '''{{flagicon|HKG}} [[Tang Chun Man|Tang C M]]<br/>&nbsp;{{flagicon|HKG}} [[Tse Ying Suet|Tse Y S]]'''
+| RD2-score05-1= '''21'''
+| RD2-score05-2= '''21'''
+| RD2-score05-3=
+| RD2-seed06=
+| RD2-team06= {{flagicon|INA}} [[Rinov Rivaldy|R Rivaldy]]<br/>&nbsp;{{flagicon|INA}} [[Pitha Haningtyas Mentari|P H Mentari]]
+| RD2-score06-1= 16
+| RD2-score06-2= 14
+| RD2-score06-3=
+
+| RD2-seed07= 16
+| RD2-team07= '''{{flagicon|IND}} [[Dhruv Kapila|D Kapila]]<br/>&nbsp;{{flagicon|IND}} [[Tanisha Crasto|T Crasto]]'''
+| RD2-score07-1= '''21'''
+| RD2-score07-2= '''21'''
+| RD2-score07-3=
+| RD2-seed08=
+| RD2-team08= {{flagicon|IRE}} [[Joshua Magee|J Magee]]<br/>&nbsp;{{flagicon|IRE}} [[Moya Ryan|M Ryan]]
+| RD2-score08-1= 11
+| RD2-score08-2= 16
+| RD2-score08-3=
+
+| RD3-seed01= 4
+| RD3-team01= '''{{flagicon|MAS}} [[Chen Tang Jie|Chen T J]]<br/>&nbsp;{{flagicon|MAS}} [[Toh Ee Wei|Toh E W]]'''
+| RD3-score01-1= 14
+| RD3-score01-2= '''21'''
+| RD3-score01-3= '''21'''
+| RD3-seed02= 11
+| RD3-team02= {{flagicon|INA}} [[Jafar Hidayatullah|J Hidayatullah]]<br/>&nbsp;{{flagicon|INA}} [[Felisha Pasaribu|F Pasaribu]]
+| RD3-score02-1= '''21'''
+| RD3-score02-2= 19
+| RD3-score02-3= 17
+
+| RD3-seed03= 5
+| RD3-team03= {{flagicon|HKG}} [[Tang Chun Man|Tang C M]]<br/>&nbsp;{{flagicon|HKG}} [[Tse Ying Suet|Tse Y S]]
+| RD3-score03-1= '''21'''
+| RD3-score03-2= 12
+| RD3-score03-3= 15
+| RD3-seed04= 16
+| RD3-team04= '''{{flagicon|IND}} [[Dhruv Kapila|D Kapila]]<br/>&nbsp;{{flagicon|IND}} [[Tanisha Crasto|T Crasto]]'''
+| RD3-score04-1= 19
+| RD3-score04-2= '''21'''
+| RD3-score04-3= '''21'''
+
+| RD4-seed01= 4
+| RD4-team01= '''{{flagicon|MAS}} [[Chen Tang Jie|Chen T J]]<br/>&nbsp;{{flagicon|MAS}} [[Toh Ee Wei|Toh E W]]'''
+| RD4-score01-1= '''21'''
+| RD4-score01-2= '''21'''
+| RD4-score01-3= 
+| RD4-seed02= 16
+| RD4-team02= {{flagicon|IND}} [[Dhruv Kapila|D Kapila]]<br/>&nbsp;{{flagicon|IND}} [[Tanisha Crasto|T Crasto]]
+| RD4-score02-1= 15
+| RD4-score02-2= 13
+| RD4-score02-3= 
+}}
+
+=== Bottom half ===
+==== Section 3 ====
+
+{{16TeamBracket-Tennis3-Byes
+| RD1=First round
+| RD2=Second round
+| RD3=Third round
+| RD4=Quarter-finals
+
+| team-width=150
+
+| RD1-seed01=
+| RD1-team01= {{flagicon|CAN}} [[Jonathan Lai|J Lai]]<br/>&nbsp;{{flagicon|CAN}} [[Crystal Lai|C Lai]]
+| RD1-score01-1= '''21'''
+| RD1-score01-2= 18
+| RD1-score01-3= 16
+| RD1-seed02=
+| RD1-team02= '''{{flagicon|ENG}} [[Rory Easton|R Easton]]<br/>&nbsp;{{flagicon|ENG}} [[Lizzie Tolman|L Tolman]]'''
+| RD1-score02-1= 19
+| RD1-score02-2= '''21'''
+| RD1-score02-3= '''21'''
+
+| RD1-seed05=
+| RD1-team05= '''{{flagicon|TPE}} [[Chen Cheng-kuan|Chen C-k]]<br/>&nbsp;{{flagicon|TPE}} [[Hsu Yin-hui|Hsu Y-h]]'''
+| RD1-score05-1= '''21'''
+| RD1-score05-2= '''21'''
+| RD1-score05-3=
+| RD1-seed06=
+| RD1-team06= {{flagicon|GUA}} [[Christopher Martinez|C Martinez]]<br/>&nbsp;{{flagicon|GUA}} [[Diana Corleto Soto|D C Soto]]
+| RD1-score06-1= 6
+| RD1-score06-2= 10
+| RD1-score06-3=
+
+| RD1-seed09=
+| RD1-team09= '''{{flagicon|JPN}} [[Yuichi Shimogami|Y Shimogami]]<br/>&nbsp;{{flagicon|JPN}} [[Sayaka Hobara|S Hobara]]'''
+| RD1-score09-1= '''21'''
+| RD1-score09-2= '''21'''
+| RD1-score09-3=
+| RD1-seed10=
+| RD1-team10= {{flagicon|UKR}} [[Oleksii Titov|O Titov]]<br/>&nbsp;{{flagicon|UKR}} [[Yevheniia Kantemyr|Y Kantemyr]]
+| RD1-score10-1= 12
+| RD1-score10-2= 14
+| RD1-score10-3=
+
+| RD1-seed13=
+| RD1-team13= {{flagicon|ALG}} [[Koceila Mammeri|K Mammeri]]<br/>&nbsp;{{flagicon|ALG}} [[Tanina Mammeri|T Mammeri]]
+| RD1-score13-1= 10
+| RD1-score13-2= 18
+| RD1-score13-3=
+| RD1-seed14=
+| RD1-team14= '''{{flagicon|SGP}} [[Terry Hee|T Hee]]<br/>&nbsp;{{flagicon|SGP}} [[Jin Yujia|Jin Y J]]'''
+| RD1-score14-1= '''21'''
+| RD1-score14-2= '''21'''
+| RD1-score14-3=
+
+| RD2-seed01=
+| RD2-team01= {{flagicon|ENG}} [[Rory Easton|R Easton]]<br/>&nbsp;{{flagicon|ENG}} [[Lizzie Tolman|L Tolman]]
+| RD2-score01-1= 15
+| RD2-score01-2= 18
+| RD2-score01-3=
+| RD2-seed02= 13
+| RD2-team02= '''{{flagicon|TPE}} [[Yang Po-hsuan|Yang P-h]]<br/>&nbsp;{{flagicon|TPE}} [[Hu Ling-fang|Hu L-f]]'''
+| RD2-score02-1= '''21'''
+| RD2-score02-2= '''21'''
+| RD2-score02-3=
+
+| RD2-seed03=
+| RD2-team03= {{flagicon|TPE}} [[Chen Cheng-kuan|Chen C-k]]<br/>&nbsp;{{flagicon|TPE}} [[Hsu Yin-hui|Hsu Y-h]]
+| RD2-score03-1= 14
+| RD2-score03-2= 12
+| RD2-score03-3=
+| RD2-seed04= 7
+| RD2-team04= '''{{flagicon|CHN}} [[Guo Xinwa|Guo XW]]<br/>&nbsp;{{flagicon|CHN}} [[Chen Fanghui|Chen FH]]'''
+| RD2-score04-1= '''21'''
+| RD2-score04-2= '''21'''
+| RD2-score04-3=
+
+| RD2-seed05=
+| RD2-team05= {{flagicon|JPN}} [[Yuichi Shimogami|Y Shimogami]]<br/>&nbsp;{{flagicon|JPN}} [[Sayaka Hobara|S Hobara]]
+| RD2-score05-1= 15
+| RD2-score05-2= 12
+| RD2-score05-3=
+| RD2-seed06= 9
+| RD2-team06= '''{{flagicon|JPN}} [[Hiroki Midorikawa|H Midorikawa]]<br/>&nbsp;{{flagicon|JPN}} [[Natsu Saito|N Saito]]'''
+| RD2-score06-1= '''21'''
+| RD2-score06-2= '''21'''
+| RD2-score06-3=
+
+| RD2-seed07=
+| RD2-team07= {{flagicon|SGP}} [[Terry Hee|T Hee]]<br/>&nbsp;{{flagicon|SGP}} [[Jin Yujia|Jin Y J]]
+| RD2-score07-1= 18
+| RD2-score07-2= 12
+| RD2-score07-3=
+| RD2-seed08= 3
+| RD2-team08= '''{{flagicon|THA}} [[Dechapol Puavaranukroh|D Puavaranukroh]]<br/>&nbsp;{{flagicon|THA}} [[Supissara Paewsampran|S Paewsampran]]'''
+| RD2-score08-1= '''21'''
+| RD2-score08-2= '''21'''
+| RD2-score08-3=
+
+| RD3-seed01= 13
+| RD3-team01= {{flagicon|TPE}} [[Yang Po-hsuan|Yang P-h]]<br/>&nbsp;{{flagicon|TPE}} [[Hu Ling-fang|Hu L-f]]
+| RD3-score01-1= 13
+| RD3-score01-2= 10
+| RD3-score01-3= 
+| RD3-seed02= 7
+| RD3-team02= '''{{flagicon|CHN}} [[Guo Xinwa|Guo XW]]<br/>&nbsp;{{flagicon|CHN}} [[Chen Fanghui|Chen FH]]'''
+| RD3-score02-1= '''21'''
+| RD3-score02-2= '''21'''
+| RD3-score02-3= 
+
+| RD3-seed03= 9
+| RD3-team03= '''{{flagicon|JPN}} [[Hiroki Midorikawa|H Midorikawa]]<br/>&nbsp;{{flagicon|JPN}} [[Natsu Saito|N Saito]]'''
+| RD3-score03-1= 8
+| RD3-score03-2= '''21'''
+| RD3-score03-3= '''21'''
+| RD3-seed04= 3
+| RD3-team04= {{flagicon|THA}} [[Dechapol Puavaranukroh|D Puavaranukroh]]<br/>&nbsp;{{flagicon|THA}} [[Supissara Paewsampran|S Paewsampran]]
+| RD3-score04-1= '''21'''
+| RD3-score04-2= 19
+| RD3-score04-3= 16
+
+| RD4-seed01= 7
+| RD4-team01= '''{{flagicon|CHN}} [[Guo Xinwa|Guo XW]]<br/>&nbsp;{{flagicon|CHN}} [[Chen Fanghui|Chen FH]]'''
+| RD4-score01-1= '''21'''
+| RD4-score01-2= '''21'''
+| RD4-score01-3= 
+| RD4-seed02= 9
+| RD4-team02= {{flagicon|JPN}} [[Hiroki Midorikawa|H Midorikawa]]<br/>&nbsp;{{flagicon|JPN}} [[Natsu Saito|N Saito]]
+| RD4-score02-1= 14
+| RD4-score02-2= 9
+| RD4-score02-3= 
+}}
+
+==== Section 4 ====
+{{16TeamBracket-Tennis3-Byes
+| RD1=First round
+| RD2=Second round
+| RD3=Third round
+| RD4=Quarter-finals
+
+| team-width=150
+
+| RD1-seed01=
+| RD1-team01= '''{{flagicon|GER}} [[Malik Bourakkadi|M Bourakkadi]]<br/>&nbsp;{{flagicon|GER}} [[Leona Michalski|L Michalski]]'''
+| RD1-score01-1= '''21'''
+| RD1-score01-2= '''21'''
+| RD1-score01-3=
+| RD1-seed02= 
+| RD1-team02= {{flagicon|AZE}} [[Jahid Alhasanov|J Alhasanov]]<br/>&nbsp;{{flagicon|AZE}} [[Hajar Nuriyeva|H Nuriyeva]]
+| RD1-score02-1= 8
+| RD1-score02-2= 10
+| RD1-score02-3=
+
+| RD1-seed05=
+| RD1-team05= '''{{flagicon|THA}} [[Pakkapon Teeraratsakul|P Teeraratsakul]]<br/>&nbsp;{{flagicon|THA}} [[Phataimas Muenwong|P Muenwong]]'''
+| RD1-score05-1= 14
+| RD1-score05-2= '''21'''
+| RD1-score05-3= '''21'''
+| RD1-seed06=
+| RD1-team06= {{flagicon|FRA}} [[Julien Maio|J Maio]]<br/>&nbsp;{{flagicon|FRA}} [[Léa Palermo|L Palermo]]
+| RD1-score06-1= '''21'''
+| RD1-score06-2= 13
+| RD1-score06-3= 14
+
+| RD1-seed09=
+| RD1-team09= '''{{flagicon|KOR}} [[Lee Jong-min (badminton)|Lee J-m]]<br/>&nbsp;{{flagicon|KOR}} [[Chae Yoo-jung|Chae Y-j]]'''
+| RD1-score09-1= '''21'''
+| RD1-score09-2= '''21'''
+| RD1-score09-3=
+| RD1-seed10=
+| RD1-team10= {{flagicon|SCO}} [[Adam Pringle|A Pringle]]<br/>&nbsp;{{flagicon|SCO}} [[Rachel Andrew (badminton)|R Andrew]]
+| RD1-score10-1= 14
+| RD1-score10-2= 16
+| RD1-score10-3=
+
+| RD1-seed13=
+| RD1-team13= {{flagicon|ESP}} [[Ruben Garcia (badminton)|R García]]<br/>&nbsp;{{flagicon|ESP}} [[Lucia Rodríguez (badminton)|L Rodríguez]]
+| RD1-score13-1= 16
+| RD1-score13-2= '''21'''
+| RD1-score13-3= 14
+| RD1-seed14= 
+| RD1-team14= '''{{flagicon|ENG}} [[Callum Hemming|C Hemming]]<br/>&nbsp;{{flagicon|ENG}} [[Estelle van Leeuwen|E van Leeuwen]]'''
+| RD1-score14-1= '''21'''
+| RD1-score14-2= 17
+| RD1-score14-3= '''21'''
+
+| RD2-seed01=
+| RD2-team01= {{flagicon|GER}} [[Malik Bourakkadi|M Bourakkadi]]<br/>&nbsp;{{flagicon|GER}} [[Leona Michalski|L Michalski]]
+| RD2-score01-1= 10
+| RD2-score01-2= '''21'''
+| RD2-score01-3= 12
+| RD2-seed02= 15
+| RD2-team02= '''{{flagicon|MAS}} [[Hoo Pang Ron|Hoo P R]]<br/>&nbsp;{{flagicon|MAS}} [[Cheng Su Yin|Cheng S Y]]'''
+| RD2-score02-1= '''21'''
+| RD2-score02-2= 18
+| RD2-score02-3= '''21'''
+
+| RD2-seed03=
+| RD2-team03= {{flagicon|THA}} [[Pakkapon Teeraratsakul|P Teeraratsakul]]<br/>&nbsp;{{flagicon|THA}} [[Phataimas Muenwong|P Muenwong]]
+| RD2-score03-1= 19
+| RD2-score03-2= 15
+| RD2-score03-3=
+| RD2-seed04= 6
+| RD2-team04= '''{{flagicon|MAS}} [[Goh Soon Huat|Goh S H]]<br/>&nbsp;{{flagicon|MAS}} [[Shevon Jemie Lai|S J Lai]]'''
+| RD2-score04-1= '''21'''
+| RD2-score04-2= '''21'''
+| RD2-score04-3=
+
+| RD2-seed05=
+| RD2-team05= {{flagicon|KOR}} [[Lee Jong-min (badminton)|Lee J-m]]<br/>&nbsp;{{flagicon|KOR}} [[Chae Yoo-jung|Chae Y-j]]
+| RD2-score05-1= 19
+| RD2-score05-2= 16
+| RD2-score05-3=
+| RD2-seed06= 10
+| RD2-team06= '''{{flagicon|DEN}} [[Jesper Toft|J Toft]]<br/>&nbsp;{{flagicon|DEN}} [[Amalie Magelund|A Magelund]]'''
+| RD2-score06-1= '''21'''
+| RD2-score06-2= '''21'''
+| RD2-score06-3=
+
+| RD2-seed07=
+| RD2-team07= {{flagicon|ENG}} [[Callum Hemming|C Hemming]]<br/>&nbsp;{{flagicon|ENG}} [[Estelle van Leeuwen|E van Leeuwen]]
+| RD2-score07-1= '''21'''
+| RD2-score07-2= 13
+| RD2-score07-3= 15
+| RD2-seed08= 2
+| RD2-team08= '''{{flagicon|CHN}} [[Jiang Zhenbang|Jiang ZB]]<br/>&nbsp;{{flagicon|CHN}} [[Wei Yaxin|Wei YX]]'''
+| RD2-score08-1= 18
+| RD2-score08-2= '''21'''
+| RD2-score08-3= '''21'''
+
+| RD3-seed01= 15
+| RD3-team01= '''{{flagicon|MAS}} [[Hoo Pang Ron|Hoo P R]]<br/>&nbsp;{{flagicon|MAS}} [[Cheng Su Yin|Cheng S Y]]'''
+| RD3-score01-1= 13
+| RD3-score01-2= '''23'''
+| RD3-score01-3= '''21'''
+| RD3-seed02= 6
+| RD3-team02= {{flagicon|MAS}} [[Goh Soon Huat|Goh S H]]<br/>&nbsp;{{flagicon|MAS}} [[Shevon Jemie Lai|S J Lai]]
+| RD3-score02-1= '''21'''
+| RD3-score02-2= 21
+| RD3-score02-3= 17
+
+| RD3-seed03= 10
+| RD3-team03= {{flagicon|DEN}} [[Jesper Toft|J Toft]]<br/>&nbsp;{{flagicon|DEN}} [[Amalie Magelund|A Magelund]]
+| RD3-score03-1= 15
+| RD3-score03-2= 11
+| RD3-score03-3= 
+| RD3-seed04= 2
+| RD3-team04= '''{{flagicon|CHN}} [[Jiang Zhenbang|Jiang ZB]]<br/>&nbsp;{{flagicon|CHN}} [[Wei Yaxin|Wei YX]]'''
+| RD3-score04-1= '''21'''
+| RD3-score04-2= '''21'''
+| RD3-score04-3= 
+
+| RD4-seed01= 15
+| RD4-team01= {{flagicon|MAS}} [[Hoo Pang Ron|Hoo P R]]<br/>&nbsp;{{flagicon|MAS}} [[Cheng Su Yin|Cheng S Y]]
+| RD4-score01-1=23
+| RD4-score01-2=15
+| RD4-score01-3=
+| RD4-seed02= 2
+| RD4-team02= '''{{flagicon|CHN}} [[Jiang Zhenbang|Jiang ZB]]<br/>&nbsp;{{flagicon|CHN}} [[Wei Yaxin|Wei YX]]'''
+| RD4-score02-1='''25'''
+| RD4-score02-2='''21'''
+| RD4-score02-3=
+}}
+
+== Qualifiers' performances ==
+The table below lists out all the qualifiers of this edition by 26 July 2025.
+{| class="sortable wikitable" style="font-size:90%; text-align:center"
+|-
+! rowspan="3" width="175" | Pair
+! rowspan="3" width="175" | Date of birth
+! colspan="3" | Pair statistics
+! colspan="3" | Individual statistics
+! rowspan="3" width="200" | Note
+|-
+! rowspan="2" width="50" | Appearance
+! colspan="2" | Best Performance(s)
+! rowspan="2" width="50" | Appearance
+! colspan="2" | Best Performance(s)
+|-
+! width="100" | Edition(s)
+! width="50" | Result
+! width="100" | Edition(s)
+! width="50" | Result
+|-
+! colspan="9" | Champions
+|-
+| align="left" | '''{{flagicon|MAS}} [[Chen Tang Jie]]'''
+| align="right" | {{birth date and age2|2025|08|26|1998|01|05|df=y}}
+| rowspan="2" | 2nd
+| rowspan="2" | [[2023 BWF World Championships – Mixed doubles|23]]
+| rowspan="2"  bgcolor="#FFEBCD"| QF
+| 3rd
+| [[2023 BWF World Championships – Mixed doubles|23]]
+|bgcolor="#FFEBCD"|QF
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | '''{{flagicon|MAS}} [[Toh Ee Wei]]'''
+| align="right" | {{birth date and age2|2025|08|26|2000|09|18|df=y}}
+| 2nd
+|[[2023 BWF World Championships – Mixed doubles|23]]
+|bgcolor="#FFEBCD"|QF
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+! colspan="9" | Finalist
+|-
+| align="left" | '''{{flagicon|CHN}} [[Jiang Zhenbang]]'''
+| align="right" | {{birth date and age2|2025|08|26|2001|05|28|df=y}}
+| rowspan="2" | 2nd
+| rowspan="2" |[[2023 BWF World Championships – Mixed doubles|23]]
+| rowspan="2" bgcolor="#B87333"|'''B'''
+| 2nd
+|[[2023 BWF World Championships – Mixed doubles|23]]
+|bgcolor="#B87333"|'''B'''
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | '''{{flagicon|CHN}} [[Wei Yaxin]]'''
+| align="right" | {{birth date and age2|2025|08|26|2000|04|18|df=y}}
+| 2nd
+|[[2023 BWF World Championships – Mixed doubles|23]]
+|bgcolor="#B87333"|'''B'''
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+! colspan="9" | Semi-finalist
+|-
+| align="left" | '''{{flagicon|FRA}} [[Thom Gicquel]]'''
+| align="right" | {{birth date and age2|2025|08|26|1999|01|12|df=y}}
+| rowspan="2" | 7th
+| rowspan="2" | [[2021 BWF World Championships – Mixed doubles|21]], [[2022 BWF World Championships – Mixed doubles|22]], [[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#AFEEEE" rowspan="2" | 3R
+| 7th
+| [[2021 BWF World Championships – Mixed doubles|21]], [[2022 BWF World Championships – Mixed doubles|22]], [[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#AFEEEE" | 3R
+| align="left" |Most participated pair, {{tooltip|PB|Personal best}}
+|-
+| align="left" | '''{{flagicon|FRA}} [[Delphine Delrue]]'''
+| align="right" | {{birth date and age2|2025|08|26|1998|11|06|df=y}}
+| 7th
+|[[2021 BWF World Championships – Mixed doubles|21]], [[2022 BWF World Championships – Mixed doubles|22]], [[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#AFEEEE" | 3R
+| align="left" |Most participated pair, {{tooltip|PB|Personal best}}
+|-
+| align="left" | '''{{flagicon|CHN}} [[Guo Xinwa]]'''
+| align="right" | {{birth date and age2|2025|08|26|2000|1|6|df=y}}
+| colspan="3" rowspan="2" {{N/A|''Debut''}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | '''{{flagicon|CHN}} [[Chen Fanghui]]'''
+| align="right" | {{birth date and age2|2025|08|26|2000|4|18|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+! colspan="9" | Quarter-finalist
+|-
+| align="left" | {{flagicon|CHN}} '''[[Cheng Xing]]'''
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | {{flagicon|CHN}} '''[[Zhang Chi (badminton)|Zhang Chi]]'''
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|
+|-
+| align="left" | {{flagicon|IND}} '''[[Dhruv Kapila]]'''
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | {{flagicon|IND}} '''[[Tanisha Crasto]]'''
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|
+|-
+| align="left" | {{flagicon|JPN}} '''[[Hiroki Midorikawa]]'''
+| align="right" | {{birth date and age2|2025|08|26|2000|05|17|df=y}}
+| rowspan="2" | 3rd
+| rowspan="2" | [[2022 BWF World Championships – Mixed doubles|22]]
+| bgcolor="#AFEEEE" rowspan="2" | 2R
+| 3rd
+| [[2022 BWF World Championships – Mixed doubles|22]]
+|  bgcolor="#AFEEEE"| 2R
+| align="left" |{{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|JPN}} '''[[Natsu Saito]]'''
+| align="right" | {{birth date and age2|2025|08|26|2000|06|09|df=y}}
+| 3rd
+|[[2022 BWF World Championships – Mixed doubles|22]]
+| bgcolor="#AFEEEE" | 2R
+| align="left" |{{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|MAS}} '''[[Hoo Pang Ron]]'''
+| align="right" | {{birth date and age2|2025|08|26|1998|3|29|df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | {{flagicon|MAS}}  '''[[Cheng Su Yin]]'''
+| align="right" | {{birth date and age2|2025|08|26|2003|6|16|df=y}}
+| 
+|
+| align="left" | 
+|
+|-
+! colspan="9" | Third rounders
+|-
+| align="left" | {{flagicon|DEN}} [[Mathias Christiansen]]
+| align="right" | {{birth date and age2|2025|08|26|1994|02|20|df=y}}
+| rowspan="2" | 4th
+| rowspan="2" | [[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#FFEBCD" rowspan="2" | QF
+| 6th
+| [[2018 BWF World Championships – Mixed doubles|18]], [[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#FFEBCD" | QF
+| align="left" |
+|-
+| align="left" | {{flagicon|DEN}} [[Alexandra Bøje]]
+| align="right" | {{birth date and age2|2025|08|26|1999|12|06|df=y}}
+| 4th
+| [[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#FFEBCD" | QF
+| align="left" |
+|-
+| align="left" | {{flagicon|TPE}} [[Ye Hong-wei]]
+| align="right" | {{birth date and age2|2025|08|26|1999|11|01|df=y}}
+| rowspan="2" colspan="3" {{N/A|''Debut''}}
+| 2nd
+| [[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#AFEEEE" | 3R
+| align="left" |={{tooltip|PB|Personal best}} 
+|-
+| align="left" | {{flagicon|TPE}} Nicole Gonzales Chan
+| align="right" | {{birth date and age2|2025|08|26|2004|12|13|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" |{{tooltip|PB|Personal best}}
+|-
+| align="left" | '''{{flagicon|INA}} [[Jafar Hidayatullah]]'''
+| align="right" | {{birth date and age2|2025|08|26|2003|1|9|df=y}}
+| rowspan="2" colspan="3" {{N/A|''Debut''}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | '''{{flagicon|INA}} [[Felisha Pasaribu]]'''
+| align="right" | {{birth date and age2|2025|08|26|2005|9|11|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | '''{{flagicon|HKG}} [[Tang Chun Man]]'''
+| align="right" | {{birth date and age2|2025|08|26|1995|03|20|df=y}}
+| rowspan="2" | 7th
+| rowspan="2" | [[2018 BWF World Championships – Mixed doubles|18]], [[2021 BWF World Championships – Mixed doubles|21]], [[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#B87333" rowspan="2" | '''B'''
+| 7th
+| [[2018 BWF World Championships – Mixed doubles|18]], [[2021 BWF World Championships – Mixed doubles|21]]
+| bgcolor="#B87333"| '''B'''
+| align="left" |Most participated pair, [[2025 Badminton Asia Championships|Reigning Asian champion]]
+|-
+| align="left" | '''{{flagicon|HKG}} [[Tse Ying Suet]]'''
+| align="right" | {{birth date and age2|2025|08|26|1991|11|09|df=y}}
+| 11th
+|[[2018 BWF World Championships – Mixed doubles|18]], [[2021 BWF World Championships – Mixed doubles|21]]
+| bgcolor="#B87333" | '''B'''
+| align="left" |{{nowrap|Most participated pair and qualifier}}, [[2025 Badminton Asia Championships|Reigning Asian champion]]
+|-
+| align="left" | {{flagicon|TPE}} '''[[Yang Po-hsuan]]'''
+| align="right" | {{birth date and age2|2025|08|26|1996|08|23|df=y}}
+| rowspan="2" | 3rd
+| rowspan="2" | [[2022 BWF World Championships – Mixed doubles|22]], [[2023 BWF World Championships – Mixed doubles|23]]
+| rowspan="2" bgcolor="#AFEEEE" | 2R
+| 3rd
+| [[2022 BWF World Championships – Mixed doubles|22]], [[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#AFEEEE"| 2R
+| align="left" |{{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|TPE}} '''[[Hu Ling-fang]]'''
+| align="right" | {{birth date and age2|2025|08|26|1998|06|04|df=y}}
+| 4th
+|[[2017 BWF World Championships – Mixed doubles|17]], [[2022 BWF World Championships – Mixed doubles|22]], [[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#AFEEEE" | 2R
+| align="left" |{{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|THA}} '''[[Dechapol Puavaranukroh]]'''
+| align="right" | {{birth date and age2|2025|08|26|1997|05|20|df=y}}
+| colspan="3" rowspan="2" {{N/A|''Debut''}}
+| 5th
+| [[2021 BWF World Championships – Mixed doubles|21]]
+| bgcolor="#FFD700" | '''G'''
+|
+|-
+| align="left" | {{flagicon|THA}} '''[[Supissara Paewsampran]]'''
+| align="right" | {{birth date and age2|2025|08|26|1999|11|18|df=y}}
+| 4th
+|[[2022 BWF World Championships – Mixed doubles|21]], [[2023 BWF World Championships – Mixed doubles|23]]
+|bgcolor="#AFEEEE"|3R
+|align="left" |={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|MAS}} '''[[Goh Soon Huat]]'''
+| align="right" | {{birth date and age2|2025|08|26|1990|06|27|df=y}}
+| rowspan="2" | 6th
+| rowspan="2" | [[2021 BWF World Championships – Mixed doubles|21]], [[2022 BWF World Championships – Mixed doubles|22]]
+| rowspan="2" bgcolor="#FFEBCD" | QF
+| 6th
+| [[2021 BWF World Championships – Mixed doubles|21]], [[2022 BWF World Championships – Mixed doubles|22]]
+| bgcolor="#FFEBCD"| QF
+|
+|-
+| align="left" | {{flagicon|MAS}} '''[[Shevon Jemie Lai]]'''
+| align="right" | {{birth date and age2|2025|08|26|1993|08|08|df=y}}
+| 7th
+|[[2021 BWF World Championships – Mixed doubles|21]], [[2022 BWF World Championships – Mixed doubles|22]]
+| bgcolor="#FFEBCD"| QF
+|
+|-
+| align="left" | {{flagicon|DEN}} '''[[Jesper Toft]]'''
+| align="right" | {{birth date and age2|2025|08|26|1999|2|7|df=y}}
+| colspan="3" rowspan="2" {{N/A|''Debut''}}
+| colspan="3" {{N/A|''Debut''}}
+|align="left" |{{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|DEN}} '''[[Amalie Magelund]]'''
+| align="right" | {{birth date and age2|2025|08|26|2000|05|13|df=y}}
+| 4th
+|[[2019 BWF World Championships – Mixed doubles|19]]
+| bgcolor="#AFEEEE" | 2R
+|align="left" |{{tooltip|PB|Personal best}}
+|-
+! colspan="9" | Second rounders
+|-
+| align="left" | {{flagicon|CHN}} '''[[Feng Yanzhe]]'''
+| align="right" | {{birth date and age2|2025|08|26|2001|02|13|df=y}}
+| rowspan="2" | 2nd
+| rowspan="2" | [[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#AFEEEE" rowspan="2" | 3R
+| 2nd
+| [[2023 BWF World Championships – Mixed doubles|23]]
+|  bgcolor="#AFEEEE"| 3R
+|
+|-
+| align="left" | {{flagicon|CHN}} '''[[Huang Dongping]]'''
+| align="right" | {{birth date and age2|2025|08|26|1995|01|20|df=y}}
+| 6th
+|[[2018 BWF World Championships – Mixed doubles|18]]
+| bgcolor="#C0C0C0" | '''S'''
+|
+|-
+| align="left" | {{flagicon|SCO}} [[Alexander Dunn (badminton)|Alexander Dunn]]
+| align="right" | {{birth date and age2|2025|08|26|1998|9|13|df=y}}
+| colspan="3" rowspan="2" {{N/A|''Debut''}}
+|2nd
+| [[2022 BWF World Championships – Mixed doubles|22]]
+| bgcolor="#AFEEEE" |2R 
+| align="left" |={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|SCO}} [[Julie MacPherson]]
+| align="right" | {{birth date and age2|2025|08|26|1997|11|17|df=y}}
+|6th
+|[[2021 BWF World Championships – Mixed doubles|21]], [[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#AFEEEE" |2R
+| align="left" |={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|BRA}} [[Fabrício Farias]]
+| align="right" | {{birth date and age2|2025|08|26|2000|05|08|df=y}}
+| rowspan="2" | 4th
+| rowspan="2" | [[2022 BWF World Championships – Mixed doubles|22]]
+| bgcolor="#AFEEEE" rowspan="2" | 2R
+| 4th
+| [[2022 BWF World Championships – Mixed doubles|22]]
+| bgcolor="#AFEEEE"| 2R
+| align="left" |={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|BRA}} [[Jaqueline Lima]]
+| align="right" | {{birth date and age2|2025|08|26|2001|04|23|df=y}}
+| 4th
+|[[2022 BWF World Championships – Mixed doubles|22]]
+|bgcolor="#AFEEEE" | 2R
+| align="left" |={{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|THA}} '''[[Ruttanapak Oupthong]]'''
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | {{flagicon|THA}} '''[[Jhenicha Sudjaipraparat]]'''
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|
+|-
+| align="left" | {{flagicon|IND}} [[Rohan Kapoor (badminton)|Rohan Kapoor]]
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | {{flagicon|IND}} [[Ruthvika Gadde]]
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|
+|-
+| align="left" | {{flagicon|SRB}} [[Mihajlo Tomić]]
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | {{flagicon|SRB}} [[Anđela Vitman]]
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|
+|-
+| align="left" | {{flagicon|INA}} [[Rinov Rivaldy]]
+| align="right" | {{birth date and age2|2025|08|26|1999|11|12|df=y}}
+| rowspan="2" | 4th
+| rowspan="2" | [[2022 BWF World Championships – Mixed doubles|22]], [[2023 BWF World Championships – Mixed doubles|23]]
+| rowspan="2" bgcolor="#AFEEEE"| 3R
+| 4th
+| [[2022 BWF World Championships – Mixed doubles|22]], [[2023 BWF World Championships – Mixed doubles|23]]
+|  bgcolor="#AFEEEE"|3R
+|
+|-
+| align="left" | {{flagicon|INA}} [[Pitha Haningtyas Mentari]]
+| align="right" | {{birth date and age2|2025|08|26|1999|07|01|df=y}}
+| 4th
+|[[2022 BWF World Championships – Mixed doubles|22]], [[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#AFEEEE" | 3R
+|
+|-
+| align="left" | {{flagicon|IRE}} [[Joshua Magee]]
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | {{flagicon|IRE}} [[Moya Ryan]]
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | {{flagicon|GER}} [[Malik Bourakkadi]]
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | {{flagicon|GER}} [[Leona Michalski]]
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|
+|-
+| align="left" | {{flagicon|THA}} [[Pakkapon Teeraratsakul]]
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | {{flagicon|THA}} [[Phataimas Muenwong]]
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|
+|-
+| align="left" | {{flagicon|KOR}} [[Lee Jong-min (badminton)|Lee Jong-min]]
+| align="right" | {{birth date and age2|2025|08|26|2006|08|27|df=y}}
+| colspan="3" rowspan="2" {{N/A|''Debut''}}
+| colspan="3" {{N/A|''Debut''}} 
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+| align="left" | {{flagicon|KOR}} [[Chae Yoo-jung]]
+| align="right" | {{birth date and age2|2025|08|26|1995|05|09|df=y}}
+| 5th
+|[[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#FFD700" | '''G'''
+| align="left" |
+|-
+| align="left" | {{flagicon|ENG}} [[Callum Hemming]]
+| align="right" | {{birth date and age2|2025|08|26|1999|6|27|df=y}}
+| rowspan="2" colspan="3" {{N/A|''Debut''}}
+| 3rd
+| [[2021 BWF World Championships – Mixed doubles|21]]
+| bgcolor="#AFEEEE"|2R
+| align="left" |={{tooltip|PB|Personal best}} 
+|-
+| align="left" | {{flagicon|ENG}} [[Estelle Van Leeuwen]]
+| align="right" | {{birth date and age2|2025|08|26|2004|11|1|df=y}}
+| colspan="3" {{N/A|''Debut''}}
+| align="left" | {{tooltip|PB|Personal best}}
+|-
+! colspan="9" | First rounders
+|-
+| align="left" | {{flagicon|CAN}} [[Ty Alexander Lindeman]]
+| align="right" | {{birth date and age2|2025|08|26|1997|08|15|df=y}}
+| rowspan="2" | 2nd
+| rowspan="2" | [[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#AFEEEE" rowspan="2" | 2R
+| 2nd
+| [[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#AFEEEE"| 2R
+|
+|-
+| align="left" | {{flagicon|CAN}} [[Josephine Wu]]
+| align="right" | {{birth date and age2|2025|08|26|1995|01|20|df=y}}
+| 3rd
+|[[2019 BWF World Championships – Mixed doubles|19]], [[2023 BWF World Championships – Mixed doubles|23]]
+| bgcolor="#AFEEEE" | 2R
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | {{flagicon|SCO}} [[Adam Pringle]]
+| align="right" | {{birth date and age2|2025|08|26|2001|3|31|df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+|
+|-
+| align="left" | {{flagicon|SCO}} [[Rachel Andrew (badminton)|Rachel Andrew]]
+| align="right" | {{birth date and age2|2025|08|26|2001|1|19|df=y}}
+| 
+|
+| align="left" | 
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| rowspan="2" | 
+| rowspan="2" | 
+| rowspan="2" | 
+| 
+| 
+|  
+|
+|-
+| align="left" | 
+| align="right" | {{birth date and age2|2025|08|26||||df=y}}
+| 
+|
+| align="left" | 
+|-
+|}
+
+== References ==
+* [https://bwfworldchampionships.bwfbadminton.com/results/5261/totalenergies-bwf-world-championships-2025/ bwfbadminton.com]
+* [https://www.badmintonparis2025.com/ badmintonparis2025.com]
+
+{{DEFAULTSORT:2025 BWF World Championships - Mixed doubles}}
+[[Category:2025 BWF World Championships]]

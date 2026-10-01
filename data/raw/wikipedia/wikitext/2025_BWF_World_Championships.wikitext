@@ -1,0 +1,1028 @@
+{{short description|2025 Badminton tournament in France}}
+{{Infobox badminton event
+|name           = 2025 BWF World Championships
+|image          = 2025_BWF_World_Championships_logo.png
+|size           = 
+|caption        =
+|dates          = 25–31 August
+|number_edition = 29th
+|level          = 1
+|competitors    = 383 (53 nations) 
+|prize_money    =
+|other          =
+|nations        = 
+|venue          = [[Adidas Arena]]
+|location       = [[Paris]], France
+|website = https://www.badmintonparis2025.com/
+|previous       = [[2023 BWF World Championships|2023 Copenhagen]]
+|next           = [[2026 BWF World Championships|2026 New Delhi]]
+}}
+
+The '''2025 BWF World Championships''', officially known as the '''[[TotalEnergies]] BWF World Championships 2025''' for sponsorship reasons, was a [[badminton]] tournament which was held in [[Paris]], France. Paris hosted the [[BWF World Championships|World Championships]] for a second time after [[2010 BWF World Championships|2010]].
+
+==Host city selection==
+[[Paris]] was awarded the event in November 2018 during the announcement of 18 major badminton event hosts from 2019 to 2025.<ref>{{cite web |title=BWF Major Event Hosts 2019-2025 Awarded |url=https://corporate.bwfbadminton.com/news-single/2018/11/29/bwf-major-event-hosts-2019-2025-awarded|date=29 November 2018 |publisher=Badminton World Federation |accessdate=9 September 2019}}</ref> 
+
+== Competition schedule ==
+The tournament lasts over 7 days.
+
+{|class="wikitable" style="margin:0.5em auto; font-size:90%; text-align:center"
+|-
+| bgcolor="#AFEEEE" | #R || Preliminary rounds
+| bgcolor="#FFEBCD" | QF || Quarter-finals
+| bgcolor="#FFFF00" | SF || Semi-finals
+| bgcolor="#D8BFD8" | F || Finals
+|}
+{| class="wikitable" style="margin:0.5em auto; font-size:90%; text-align:center"
+|-
+! Date || rowspan="2" | 25 Aug || colspan="2" rowspan="2" | 26 Aug || rowspan="2" | 27 Aug || rowspan="2" | 28 Aug || rowspan="2" | 29 Aug || rowspan="2" | 30 Aug || rowspan="2" | 31 Aug
+|-
+! Event
+|-
+| align="left" | [[2025 BWF World Championships – Men's singles|Men's singles]]
+| colspan="3" bgcolor="#AFEEEE" | 1R
+| bgcolor="#AFEEEE" | 2R
+| bgcolor="#AFEEEE" | 3R
+| bgcolor="#FFEBCD" | QF
+| bgcolor="#FFFF00" | SF
+| bgcolor="#D8BFD8" | F
+|-
+| align="left" | [[2025 BWF World Championships – Women's singles|Women's singles]]
+| colspan="2" bgcolor="#AFEEEE" | 1R
+| colspan="2" bgcolor="#AFEEEE" | 2R
+|  bgcolor="#AFEEEE" | 3R
+| bgcolor="#FFEBCD" | QF
+| bgcolor="#FFFF00" | SF
+| bgcolor="#D8BFD8" | F
+|-
+| align="left" | [[2025 BWF World Championships – Men's doubles|Men's doubles]]
+| bgcolor="#AFEEEE" | 1R
+| colspan="3" bgcolor="#AFEEEE" | 2R
+| bgcolor="#AFEEEE" | 3R
+| bgcolor="#FFEBCD" | QF
+| bgcolor="#FFFF00" | SF
+| bgcolor="#D8BFD8" | F
+|-
+| align="left" | [[2025 BWF World Championships – Women's doubles|Women's doubles]]
+| bgcolor="#AFEEEE" | 1R
+| colspan="3" bgcolor="#AFEEEE" | 2R
+| bgcolor="#AFEEEE" | 3R
+| bgcolor="#FFEBCD" | QF
+| bgcolor="#FFFF00" | SF
+| bgcolor="#D8BFD8" | F
+|-
+| align="left" | [[2025 BWF World Championships – Mixed doubles|Mixed doubles]]
+|
+| bgcolor="#AFEEEE" | 1R
+| colspan="2" bgcolor="#AFEEEE" | 2R
+| bgcolor="#AFEEEE" | 3R
+| bgcolor="#FFEBCD" | QF
+| bgcolor="#FFFF00" | SF
+| bgcolor="#D8BFD8" | F
+|}
+
+== Point distribution ==
+Below is the table with the point distribution for each phase of the tournament based on the [[BWF World Ranking|BWF points system]] for the World Championships event.<ref>{{cite web |title=World Ranking System |url=http://system.bwf.website/documents/folder_1_81/folder_1_82/New-Regulations-2018/5.3.3.1%20World%20Ranking%20System.pdf|publisher=[[Badminton World Federation]] |access-date=4 April 2018}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! width="75" | Winner
+! width="75" | Runner-up
+! width="75" | 3/4
+! width="75" | 5/8
+! width="75" | 9/16
+! width="75" | 17/32
+! width="75" | 33/64
+|-
+| 14,500 || 12,500 || 10,500 || 8,200 || 6,000 || 3,750 || 1,450
+
+|}
+
+==Medal summary==
+===Medal table===
+[[Canada national badminton team|Canada]] won its first World Championship medal.<ref>{{cite news|url=https://www.olympics.com/en/news/bwf-world-championships-2025-loh-kean-yew-quarter-finals-victor-lai-medal-results|title=BWF World Championships 2025: Loh Kean Yew exits in quarter-finals shock against Victor Lai|publisher=[[Olympics]]|last=Goh|first=Z. K.|date=29 August 2025|access-date=29 August 2025}}</ref><ref>{{cite news|url=https://bwfworldchampionships.bwfbadminton.com/news-single/2025/08/29/victor-lai-makes-history-for-canada/|title=Victor Lai Makes History for Canada|first=Dev|last=Sukumar|date=29 August 2025|publisher=[[Badminton World Federation]]}}</ref>
+{{Medals table
+|caption        =
+|host           = FRA
+|flag_template  = bd
+|event          = 
+|team           = 
+|gold_CAN =|silver_CAN =|bronze_CAN =1 
+|gold_CHN =2|silver_CHN =3|bronze_CHN =1 
+|gold_DEN =|silver_DEN =|bronze_DEN =2
+|gold_FRA =|silver_FRA =|bronze_FRA =1|host_FRA = yes
+|gold_IND =|silver_IND =|bronze_IND =1 
+|gold_INA =|silver_INA =|bronze_INA =1 
+|gold_JPN =1|silver_JPN =|bronze_JPN =2
+|gold_MAS =1|silver_MAS =1|bronze_MAS = 
+|gold_KOR =1|silver_KOR =|bronze_KOR =1 
+|gold_THA =|silver_THA =1|bronze_THA = 
+}}
+
+===Medalists===
+{|{{MedalistTable|type=Events}}
+|-
+|rowspan=2|Men's singles<br>{{DetailsLink|2025 BWF World Championships – Men's singles}}
+|rowspan=2| {{flagmedalist|[[Shi Yuqi]]|CHN}}
+|rowspan=2|{{flagmedalist|[[Kunlavut Vitidsarn]]|THA}}
+|{{flagmedalist|[[Victor Lai]]|CAN}}
+|-
+|{{flagmedalist|[[Anders Antonsen]]|DEN}}
+|-
+|rowspan=2|Women's singles<br>{{DetailsLink|2025 BWF World Championships – Women's singles}}
+|rowspan=2|{{flagmedalist|[[Akane Yamaguchi]]|JPN}}
+|rowspan=2|{{flagmedalist|[[Chen Yufei]]|CHN}}
+|{{flagmedalist|[[An Se-young]]|KOR}} 
+|-
+|{{flagmedalist|[[Putri Kusuma Wardani]]|INA}}
+|-
+|rowspan=2|Men's doubles<br>{{DetailsLink|2025 BWF World Championships – Men's doubles}}
+|rowspan=2|{{flagcountry|KOR}}<br/>[[Kim Won-ho]]<br />[[Seo Seung-jae]]
+|rowspan=2|{{flagcountry|CHN}}<br/>[[Chen Boyang]]<br />[[Liu Yi (badminton)|Liu Yi]]
+|{{flagcountry|DEN}}<br/>[[Kim Astrup]]<br />[[Anders Skaarup Rasmussen]]
+|- 
+|{{flagcountry|IND}}<br/>[[Satwiksairaj Rankireddy]] <br />[[Chirag Shetty]]
+|-
+|rowspan=2|Women's doubles<br>{{DetailsLink|2025 BWF World Championships – Women's doubles}}
+|rowspan=2|{{flagcountry|CHN}}<br/>[[Liu Shengshu]]<br />[[Tan Ning (badminton)|Tan Ning]]
+|rowspan=2|{{flagcountry|MAS}}<br/>[[Pearly Tan]]<br />[[Thinaah Muralitharan]]
+|{{flagcountry|JPN}}<br/>[[Rin Iwanaga]]<br />[[Kie Nakanishi]]
+|-
+|{{flagcountry|JPN}}<br/>[[Nami Matsuyama]]<br />[[Chiharu Shida]]
+|-
+|rowspan=2|Mixed doubles<br>{{DetailsLink|2025 BWF World Championships – Mixed doubles}}
+|rowspan=2|{{flagcountry|MAS}}<br/>[[Chen Tang Jie]]<br />[[Toh Ee Wei]]
+|rowspan=2|{{flagcountry|CHN}}<br/>[[Jiang Zhenbang]]<br />[[Wei Yaxin]]
+|{{flagcountry|FRA}}<br/>[[Thom Gicquel]]<br />[[Delphine Delrue]]
+|-
+|{{flagcountry|CHN}}<br/>[[Guo Xinwa]]<br />[[Chen Fanghui]]
+|}
+
+== Qualifiers ==
+{{see also|2025 BWF World Championships qualification}}
+=== Number of participants ===
+{| class="sortable wikitable" style="font-size:95%; text-align:center"
+|-
+! colspan="2" | Nation
+! MS !! WS !! MD !! WD !! XD !! Total !! Number<br />of players
+|-
+! rowspan="3"  | [[Badminton Confederation of Africa|Africa]]
+| align="left" | {{bd|ALG}} ||   ||   || 1 ||   || 1
+! 2 !! 3
+|-
+| align="left" | {{bd|MRI}} || 1 ||   ||   ||   || 
+! 1 !! 1
+|-
+| align="left" | {{bd|UGA}} ||   || 1 ||   || 1 ||  
+! 2 !! 2
+|-
+! rowspan="17"  | [[Badminton Asia|Asia]]
+| align="left" | {{bd|CHN}} || 4 || 4 || 2 || 3 || 4
+! 17 !! 26
+|-
+| align="left" | {{bd|TPE}} || 4 || 4 || 3 || 4 || 4
+! 19 !! 26
+|-
+| align="left" | {{bd|HKG}} || 2 || 2 || 2 || 2 || 1
+! 9 !! 16
+|-
+| align="left" | {{bd|IND}} || 2 || 1 || 2 || 2 || 2
+! 9 !! 13
+|-
+| align="left" | {{bd|INA}} || 3 || 2 || 3 || 2 || 2
+! 12 !! 19
+|-
+| align="left" | {{bd|ISR}} || 1 ||   ||   ||   || 1
+! 2  !! 2
+|-
+| align="left" | {{bd|JPN}} || 4 || 3 || 2 || 4 || 2
+! 15 !! 23
+|-
+| align="left" | {{bd|MAC}} || 1 ||   ||   ||   || 1
+! 2  !! 3
+|-
+| align="left" | {{bd|MAS}} || 2 || 2 || 4 || 2 || 3
+! 12 !! 21
+|-
+| align="left" | {{bd|MYA}} ||   || 1 ||   ||   ||  
+! 1  !! 1
+|-
+| align="left" | {{bd|PHI}} ||   ||   || 1 || 1 || 
+! 2  !! 4
+|-
+| align="left" | {{bd|SGP}} || 2 || 2 || 1 ||   || 1
+! 6  !! 8
+|-
+| align="left" | {{bd|KOR}} || 2 || 3 || 2 || 2 || 1
+! 10 !! 15
+|-
+| align="left" | {{bd|SRI}} || 2 || 1 ||   || 2 ||  
+! 5  !! 7
+|-
+| align="left" | {{bd|THA}} || 2 || 4 || 2 || 1 || 3
+! 12 !! 15
+|-
+| align="left" | {{bd|UAE}} ||   ||   ||   || 1 ||  
+! 1  !! 2
+|-
+| align="left" | {{bd|VIE}} || 2 || 2 || 1 ||   || 
+! 5  !! 6
+|-
+! rowspan="25" | [[Badminton Europe|Europe]]
+| align="left" | {{bd|AUT}} || 1 ||   ||   || 1 ||  
+! 2 !! 3
+|-
+| align="left" | {{bd|AZE}} || 2 || 1 || 1 ||   || 1
+! 5 !! 6
+|-
+| align="left" | {{bd|BEL}} || 1 || 1 ||   ||   || 
+! 2 !! 2
+|-
+| align="left" | {{bd|BUL}} ||   || 2 || 1 || 2 ||  
+! 5 !! 7
+|-
+| align="left" | {{bd|CRO}} || 1 ||   ||   ||   ||  
+! 1 !! 1
+|-
+| align="left" | {{bd|CZE}} || 1 || 2 || 1 ||   ||  
+! 4 !! 5
+|-
+| align="left" | {{bd|DEN}} || 2 || 3 || 2 ||   || 2
+! 9 !! 13
+|-
+| align="left" | {{bd|ENG}} || 2 ||   || 2 || 2 || 2
+! 8 !! 12
+|-
+| align="left" | {{bd|EST}} ||   || 1 ||   ||   ||  
+! 1 !! 1
+|-
+| align="left" | {{bd|FIN}} || 2 ||  ||  ||  || 
+! 2 !! 2
+|-
+| align="left" | {{bd|FRA}} '''(H)''' || 3 || 1 || 2 || 2 || 2
+! 10 !! 14
+|-
+| align="left" | {{bd|GER}} || 2 || 2 || 1 || 1 || 1
+! 7 !! 9
+|-
+| align="left" | {{bd|HUN}} ||   || 2 ||   ||   ||  
+! 2 !! 2
+|-
+| align="left" | {{bd|IRL}} || 1 || 1 ||   || 1 || 1
+! 4 !! 5
+|-
+| align="left" | {{bd|ITA}} || 1 || 1 ||   ||   || 
+! 2 !! 2
+|-
+| align="left" | {{bd|NED}} ||   ||   ||   || 0.5 ||  
+! 0.5 !! 1
+|-
+| align="left" | {{bd|POL}} ||   ||   ||   || 1 || 
+! 1 !! 2
+|-
+| align="left" | {{bd|SCO}} ||  || 1 || 2 || 1 || 2
+! 6 !! 8
+|-
+| align="left" | {{bd|SRB}} ||   ||   ||   ||   || 1
+! 1 !! 2
+|-
+| align="left" | {{bd|SLO}} ||   ||   ||   ||   || 1
+! 1 !!2
+|-
+| align="left" | {{bd|ESP}} || 1 || 1 || 2 || 2 || 1
+! 7 !! 10
+|-
+| align="left" | {{bd|SWE}} || 1 ||   ||   ||   || 
+! 1 !! 1
+|-
+| align="left" | {{bd|SWI}} || 1 || 1 || 1 || 2 ||  
+! 5 !! 8
+|-
+| align="left" | {{bd|TUR}} ||   || 2 ||   || 1 || 
+! 3 !! 4
+|-
+| align="left" | {{bd|UKR}} ||   || 2 ||   || 1.5 || 1
+! 4.5 !! 4
+|-
+! rowspan="3" | [[Badminton Oceania|Oceania]]
+|-
+| align="left" | {{bd|AUS}} || 1 || 2 || 1 || 1 ||  
+! 5 !! 6
+|-
+| align="left" | {{bd|NZ}} || 1 ||   ||   ||   || 1
+! 2 !! 2
+|-
+! rowspan="7" | [[Badminton Pan America|Pan Am]]
+|-
+| align="left" | {{bd|BRA}} || 2 || 1 || 2 || 1 || 1
+! 7 !! 9
+|-
+| align="left" | {{bd|CAN}} || 2 || 2 || 2 ||   || 2
+! 8 !! 10
+|-
+| align="left" | {{bd|ESA}} || 1 ||   ||   ||   ||  
+! 1 !! 1
+|-
+| align="left" | {{bd|GUA}} ||   ||   || 1 ||   || 1
+! 2 !! 3
+|-
+| align="left" | {{bd|PER}} || 1 || 1 ||   ||   || 
+! 2 !! 2
+|-
+| align="left" | {{bd|USA}} ||   || 2 || 1 || 1 || 2
+! 6 !! 9
+|-
+
+! colspan="2" | Total (53 NOCs)
+! 65 !! 64 !! 48 !! 48 !! 48
+! 272 !! 383
+|}
+
+=== Players participating in two events ===
+{| class="sortable wikitable" style="font-size:95%; text-align:center"
+|-
+! width="250" | Player
+! width="50" | Gender
+! Singles !! Doubles !! Mixed
+|-
+|align="left"| {{flagicon|ALG}} [[Koceila Mammeri]] 
+|| Men ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|UGA}} [[Fadilah Mohamed Rafi]] 
+|| Women || {{ya}} || {{ya}} || 
+|-  
+|align="left"| {{flagicon|TPE}} [[Yang Po-hsuan]]
+|| Men ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|TPE}} [[Sung Shuo-yun]]
+|| Women || {{ya}} || {{ya}} || 
+|-
+|align="left"| {{flagicon|TPE}} [[Hsu Yin-hui]]
+|| Women ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|TPE}} [[Hung En-tzu]]
+|| Women ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|ISR}} [[Misha Zilberman]]
+|| Men || {{ya}} ||  || {{ya}}
+|-
+|align="left"| {{flagicon|THA}} [[Dechapol Puavaranukroh]]
+|| Men ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|THA}} [[Pakkapon Teeraratsakul]]
+|| Men ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|THA}} [[Phataimas Muenwong]]
+|| Women ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|AZE}} [[Dicky Dwi Pangestu]]
+|| Men || {{ya}} || {{ya}} || 
+|-
+|align="left"| {{flagicon|BUL}} [[Stefani Stoeva]]
+|| Women || {{ya}} || {{ya}} || 
+|-
+|align="left"| {{flagicon|ENG}} [[Rory Easton]]
+|| Men ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|ENG}} [[Lizzie Tolman]]
+|| Women ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|FRA}} [[Christo Popov]]
+|| Men || {{ya}} || {{ya}} || 
+|-
+|align="left"| {{flagicon|FRA}} [[Toma Junior Popov]]
+|| Men || {{ya}} || {{ya}} || 
+|-
+|align="left"| {{flagicon|GER}} [[Malik Bourakkadi]]
+|| Men ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|IRE}} [[Moya Ryan]]
+|| Women ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|SCO}} [[Alexander Dunn (badminton)|Alexander Dunn]]
+|| Men ||   || {{ya}} || {{ya}}
+|-
+| align="left"|{{flagicon|SCO}} [[Adam Pringle]]
+|| Men ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|SCO}} [[Julie MacPherson]]
+|| Women ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|ESP}} [[Rubén García (badminton)|Rubén García]]
+|| Men ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|ESP}} [[Lucía Rodríguez (badminton)|Lucía Rodríguez]]
+|| Women ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|UKR}} [[Polina Buhrova]]
+|| Women || {{ya}} || {{ya}} || 
+|-
+|align="left"| {{flagicon|UKR}} [[Yevheniia Kantemyr]]
+|| Women || {{ya}} || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|AUS}} [[Jack Yu]]
+|| Men || {{ya}} || {{ya}} || 
+|-
+|align="left"| {{flagicon|NZ}} [[Edward Lau]]
+|| Men || {{ya}} || {{ya}} || 
+|-
+|align="left"| {{flagicon|BRA}} [[Fabrício Farias]]
+|| Men ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|BRA}} [[Jaqueline Lima]]
+|| Women ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|CAN}} [[Jonathan Lai]]
+|| Men ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|CAN}} [[Ty Alexander Lindeman]]
+|| Men ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|USA}} [[Presley Smith]]
+|| Men ||   || {{ya}} || {{ya}}
+|-
+|align="left"| {{flagicon|GUA}} [[Christopher Martinez]]
+|| Men ||   || {{ya}} || {{ya}}
+|}
+
+== Performance by nations ==
+''As of the results of 31 August 2025.''
+{| class="sortable wikitable" style="font-size:90%; text-align:center"
+|-
+! width="150" | Nation
+! width="50" | Quota
+! style="background-color:#AFEEEE" width="50" | First<br />round
+! style="background-color:#AFEEEE" width="50" | Second<br />round
+! style="background-color:#AFEEEE" width="50" | Third<br />round
+! style="background-color:#FFEBCD" width="50" | Quarter-<br />finals
+! style="background-color:#FFFF00" width="50" | Semi-<br />finals
+! style="background-color:#D8BFD8" width="50" | Finals<br />
+! style="background-color:#00FF00" width="50" | Champion
+|-
+| align="left" | {{bd|CHN}}
+| 17
+| bgcolor="#AFEEEE" | 8
+| bgcolor="#AFEEEE" | 16
+| bgcolor="#AFEEEE" | 14
+| bgcolor="#FFEBCD" | 10
+| bgcolor="#FFFF00" | 6
+| bgcolor="#D8BFD8" | 5
+| bgcolor="#00FF00" | 2
+|-
+| align="left" | {{bd|MAS}}
+| 12
+| bgcolor="#AFEEEE" | 4
+| bgcolor="#AFEEEE" | 11
+| bgcolor="#AFEEEE" | 8
+| bgcolor="#FFEBCD" | 5
+| bgcolor="#FFFF00" | 2
+| bgcolor="#D8BFD8" | 2
+| bgcolor="#00FF00" | 1
+|-
+| align="left" | {{bd|JPN}}
+| 15
+| bgcolor="#AFEEEE" | 10
+| bgcolor="#AFEEEE" | 11
+| bgcolor="#AFEEEE" | 9
+| bgcolor="#FFEBCD" | 5
+| bgcolor="#FFFF00" | 3
+| bgcolor="#D8BFD8" | 1
+| bgcolor="#00FF00" | 1
+|-
+| align="left" | {{bd|KOR}}
+| 10
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#AFEEEE" | 10
+| bgcolor="#AFEEEE" | 6
+| bgcolor="#FFEBCD" | 4
+| bgcolor="#FFFF00" | 2
+| bgcolor="#D8BFD8" | 1
+| bgcolor="#00FF00" | 1
+|-
+| align="left" | {{bd|THA}}
+| 12
+| bgcolor="#AFEEEE" | 9
+| bgcolor="#AFEEEE" | 8
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#FFEBCD" | 2
+| bgcolor="#FFFF00" | 1
+| bgcolor="#D8BFD8" | 1
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|DEN}}
+| 9
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#AFEEEE" | 8
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#FFEBCD" | 2
+| bgcolor="#FFFF00" | 2
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|INA}}
+| 12
+| bgcolor="#AFEEEE" | 6
+| bgcolor="#AFEEEE" | 11
+| bgcolor="#AFEEEE" | 9
+| bgcolor="#FFEBCD" | 3
+| bgcolor="#FFFF00" | 1
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|IND}}
+| 9
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#FFEBCD" | 3
+| bgcolor="#FFFF00" | 1
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|FRA}}
+| 10
+| bgcolor="#AFEEEE" | 9
+| bgcolor="#AFEEEE" | 8
+| bgcolor="#AFEEEE" | 4
+| bgcolor="#FFEBCD" | 1
+| bgcolor="#FFFF00" | 1
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|CAN}}
+| 8
+| bgcolor="#AFEEEE" | 8
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#FFEBCD" | 1
+| bgcolor="#FFFF00" | 1
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|TPE}}
+| 19
+| bgcolor="#AFEEEE" | 13
+| bgcolor="#AFEEEE" | 15
+| bgcolor="#AFEEEE" | 8
+| bgcolor="#FFEBCD" | 2
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|SIN}}
+| 8
+| bgcolor="#AFEEEE" | 8
+| bgcolor="#AFEEEE" | 4
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#FFEBCD" | 1
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|BUL}}
+| 5
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#FFEBCD" | 1
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|HKG}}
+| 9
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#AFEEEE" | 6
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|ENG}}
+| 8
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|VIE}}
+| 5
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|SCO}}
+| 6
+| bgcolor="#AFEEEE" | 6
+| bgcolor="#AFEEEE" | 6
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|GER}}
+| 7
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|USA}}
+| 6
+| bgcolor="#AFEEEE" | 6
+| bgcolor="#AFEEEE" | 4
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|BRA}}
+| 7
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|ESP}}
+| 7
+| bgcolor="#AFEEEE" | 7
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|SRI}}
+| 5
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|IRE}}
+| 4
+| bgcolor="#AFEEEE" | 4
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|TUR}}
+| 3
+| bgcolor="#AFEEEE" | 3
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|PHI}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|UKR}}
+| 4.5
+| bgcolor="#AFEEEE" | 4.5
+| bgcolor="#AFEEEE" | 1.5
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|AUS}}
+| 5
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|AZE}}
+| 5
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|SWI}}
+| 5
+| bgcolor="#AFEEEE" | 5
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|CZE}}
+| 4
+| bgcolor="#AFEEEE" | 4
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|BEL}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|CRO}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|SER}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|NED}}
+| 0.5
+| bgcolor="#AFEEEE" | 0.5
+| bgcolor="#AFEEEE" | 0.5
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|ALG}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" | 
+| bgcolor="#AFEEEE" | 
+| bgcolor="#FFEBCD" | 
+| bgcolor="#FFFF00" | 
+| bgcolor="#D8BFD8" | 
+| bgcolor="#00FF00" | 
+|-
+| align="left" | {{bd|FIN}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|GUA}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|HUN}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|ISR}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|ITA}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|MAC}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|NZ}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|PER}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|UGA}}
+| 2
+| bgcolor="#AFEEEE" | 2
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|EST}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|ESA}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|MRI}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" | 
+| bgcolor="#AFEEEE" | 
+| bgcolor="#FFEBCD" | 
+| bgcolor="#FFFF00" | 
+| bgcolor="#D8BFD8" | 
+| bgcolor="#00FF00" | 
+|-
+| align="left" | {{bd|MYA}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" | 
+| bgcolor="#AFEEEE" | 
+| bgcolor="#FFEBCD" | 
+| bgcolor="#FFFF00" | 
+| bgcolor="#D8BFD8" | 
+| bgcolor="#00FF00" | 
+|-
+| align="left" | {{bd|NEP}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" | 
+| bgcolor="#AFEEEE" | 
+| bgcolor="#FFEBCD" | 
+| bgcolor="#FFFF00" | 
+| bgcolor="#D8BFD8" | 
+| bgcolor="#00FF00" | 
+|-
+| align="left" | {{bd|POL}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|SLO}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|SWE}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" |
+| bgcolor="#AFEEEE" |
+| bgcolor="#FFEBCD" |
+| bgcolor="#FFFF00" |
+| bgcolor="#D8BFD8" |
+| bgcolor="#00FF00" |
+|-
+| align="left" | {{bd|UAE}}
+| 1
+| bgcolor="#AFEEEE" | 1
+| bgcolor="#AFEEEE" | 
+| bgcolor="#AFEEEE" | 
+| bgcolor="#FFEBCD" | 
+| bgcolor="#FFFF00" | 
+| bgcolor="#D8BFD8" | 
+| bgcolor="#00FF00" | 
+|-
+! colspan="9" | 
+|-
+| ''Withdrew''
+| ''2''
+| bgcolor="#AFEEEE" | 
+| bgcolor="#AFEEEE" | 
+| bgcolor="#AFEEEE" | 
+| bgcolor="#FFEBCD" | 
+| bgcolor="#FFFF00" | 
+| bgcolor="#D8BFD8" | 
+| bgcolor="#00FF00" | '''&nbsp;'''
+|-
+! Total
+! 272
+! style="background-color:#AFEEEE" | 224
+! style="background-color:#AFEEEE" | 160
+! style="background-color:#AFEEEE" | 80
+! style="background-color:#FFEBCD" | 40
+! style="background-color:#FFFF00" | 20
+! style="background-color:#D8BFD8" | 10
+! style="background-color:#00FF00" | 5
+|}
+
+==References==
+{{Reflist}}
+
+{{World badminton champs}}
+{{World championships in 2025}}
+
+[[Category:BWF World Championships]]
+[[Category:Badminton tournaments in France|World Championships]]
+[[Category:International sports competitions in Paris]]
+[[Category:2025 in badminton|BWF World Championships]]
+[[Category:2025 in French sport|BWF World]]
+[[Category:2025 in Paris]]
+[[Category:2025 BWF World Championships| ]]
+[[Category:International sports competitions hosted by France]]

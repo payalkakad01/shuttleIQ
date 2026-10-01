@@ -1,0 +1,21 @@
+ShuttleIQ - DATA QUALITY REPORT
+============================================================
+Matches parsed from raw brackets : 534
+Matches loaded to fact table      : 534  (1068 rows, 2 per match)
+Rejected (unplayed/unresolved)    : 0
+Winner disagrees with bold markup : 0
+Retirements / walkovers           : 11
+Unknown country codes (-> UNK)    : none
+Rows with no seed info            : 586 of 1068
+
+Matches per event and edition (singles full draw = 63):
+  2025 MS: 63
+  2025 WS: 63
+  2025 MD: 47
+  2025 WD: 47
+  2025 XD: 47
+  2026 MS: 63
+  2026 WS: 63
+  2026 MD: 47
+  2026 WD: 47
+  2026 XD: 47
