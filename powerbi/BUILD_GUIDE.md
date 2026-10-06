@@ -1,13 +1,13 @@
 # Power BI build guide - ShuttleIQ
 
-## 1. Load the data (5 min)
-Power BI Desktop > Home > Get data > Text/CSV. Load these 8 files from `data\processed\`:
+## 1. Load the data
+8 files from `data\processed\`:
 `fact_match_result`, `dim_tournament`, `dim_event`, `dim_round`, `dim_team`, `dim_country`, `bridge_team_player`, `dim_player`.
-Click **Load** for each (no transformation needed, the ETL already cleaned them).
+
 In Power Query, `team_seed` and `opponent_seed` must be Whole Number, `start_date` and `end_date` Date.
 
 ## 2. Relationships (Model view)
-Drag to create these (all many-to-one, single direction, from the fact side):
+(all many-to-one, single direction, from the fact side):
 
 | From (many) | To (one) | State |
 |---|---|---|
@@ -20,7 +20,7 @@ Drag to create these (all many-to-one, single direction, from the fact side):
 
 `bridge_team_player` and `dim_player` are kept for the MySQL model; in Power BI the team name already
 shows the player (singles) or the pair (doubles), so no extra relationships are needed.
-Do NOT relate `dim_team[event_key]` to `dim_event` (it would create two paths to dim_event).
+NOT related `dim_team[event_key]` to `dim_event`  (it would create two paths to dim_event).
 
 ## 3. Hierarchies (enables drill-down)
 - `dim_country`: continent > country_name
